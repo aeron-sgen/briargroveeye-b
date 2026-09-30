@@ -184,6 +184,12 @@ p { margin: 0 0 var(--bb-space-4); }
 .feature-media.tall { aspect-ratio: 4 / 4.6; }
 .feature-media img { width: 100%; height: 100%; object-fit: cover; }
 .panel.feature .feature-media { box-shadow: none; }
+/* two columns: the photo runs the full height of its copy (cropped by object-fit) */
+@media (min-width: 961px) {
+  .feature { align-items: stretch; }
+  .feature-media, .feature-media.tall { aspect-ratio: auto; min-height: 320px; position: relative; }
+  .feature-media img { position: absolute; inset: 0; }   /* the copy sets the row height, not the photo's own ratio */
+}
 
 .brands { list-style: none; margin: 0 0 var(--bb-space-6); padding: 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
 .brands li { position: relative; overflow: hidden; border-radius: var(--bb-radius-l); aspect-ratio: 5 / 6; }
