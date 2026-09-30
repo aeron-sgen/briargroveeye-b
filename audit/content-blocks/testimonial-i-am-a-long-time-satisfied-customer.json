@@ -1,0 +1,25 @@
+{
+ "title": "I am a long-time satisfied customer.",
+ "description": "",
+ "canonical": "https://www.briargroveeye.com/testimonial/i-am-a-long-time-satisfied-customer/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "I am a long-time satisfied customer.",
+   "html": "I am a long-time satisfied customer."
+  },
+  {
+   "t": "p",
+   "html": "Dr. Muldoon is personable and takes the time understand the patient and his/her needs. The staff has guided me well in selecting suitable frames and lenses."
+  },
+  {
+   "t": "p",
+   "html": "- Terry K. - Google Review July 2017",
+   "loose": true
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/testimonial/i-am-a-long-time-satisfied-customer/"
+}

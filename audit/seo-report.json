@@ -1,0 +1,1633 @@
+{
+  "schema": "site-reforge/seo-report@1",
+  "generated": "2026-09-30T03:00:06.991Z",
+  "origin": "https://www.briargroveeye.com",
+  "buildDir": "dist",
+  "siteUrl": "https://www.briargroveeye.com",
+  "mode": "standing (clone served elsewhere)",
+  "limits": {
+    "titleMax": 60,
+    "titleMin": 15,
+    "descMax": 160,
+    "descMin": 50
+  },
+  "pages": 165,
+  "emitted": {
+    "wrote": [
+      {
+        "file": "robots.txt",
+        "from": "source robots.txt, Sitemap: lines dropped",
+        "droppedRules": [
+          "Disallow: /wp-admin/",
+          "Disallow: /wp-login.php",
+          "Disallow: /wp-signup.php",
+          "Disallow: /trackback",
+          "Disallow: /comments",
+          "Disallow: */trackback",
+          "Disallow: */comments"
+        ]
+      },
+      {
+        "file": "robots.txt",
+        "from": "rule dropped, path not served here: Disallow: /wp-admin/ · Disallow: /wp-login.php · Disallow: /wp-signup.php · Disallow: /trackback · Disallow: /comments · Disallow: */trackback · Disallow: */comments"
+      },
+      {
+        "file": "sitemap.xml",
+        "from": "119 pages the build actually serves"
+      },
+      {
+        "file": "llms.txt",
+        "from": "119 pages"
+      }
+    ],
+    "skipped": [],
+    "pages": 119
+  },
+  "externalLinks": null,
+  "repaired": {
+    "pagesTouched": 119,
+    "fieldsWritten": 2222
+  },
+  "counts": {
+    "source": {
+      "minor": 127,
+      "major": 87,
+      "blocker": 8
+    },
+    "migration": {},
+    "byCode": {
+      "title-too-long": 61,
+      "description-too-long": 57,
+      "canonical-missing": 42,
+      "description-missing": 18,
+      "title-missing": 3,
+      "og-title-missing": 3,
+      "description-too-short": 1,
+      "alt-missing": 1,
+      "title-too-short": 5,
+      "h1-missing": 5,
+      "title-duplicate": 13,
+      "description-duplicate": 13
+    }
+  },
+  "findings": {
+    "source": [
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/author/briargroveeyecenter",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/author/briargroveeyecenter",
+        "field": "description",
+        "detail": "245 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/author/briargroveeyecenter",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/autoimmune-disease-and-dry-eye-2023",
+        "field": "title",
+        "detail": "71 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/cataract-awareness-month-2016-2",
+        "field": "title",
+        "detail": "62 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/cataract-awareness-month-2016-2",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/category/news",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "blocker",
+        "code": "title-missing",
+        "page": "https://www.briargroveeye.com/category/our-doctors",
+        "field": "title",
+        "detail": "no <title>"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/category/our-doctors",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/category/our-doctors",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.briargroveeye.com/category/our-doctors",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "blocker",
+        "code": "title-missing",
+        "page": "https://www.briargroveeye.com/category/our-staff",
+        "field": "title",
+        "detail": "no <title>"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/category/our-staff",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/category/our-staff",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.briargroveeye.com/category/our-staff",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "blocker",
+        "code": "title-missing",
+        "page": "https://www.briargroveeye.com/category/testimonial",
+        "field": "title",
+        "detail": "no <title>"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/category/testimonial",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/category/testimonial",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.briargroveeye.com/category/testimonial",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/category/uncategorized",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/contact-lenses",
+        "field": "title",
+        "detail": "72 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/contact-lenses/best-sellers-top-contact-lenses-in-uptown-houston",
+        "field": "description",
+        "detail": "172 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/contact-lenses/bifocal-and-multifocal-contact-lenses",
+        "field": "description",
+        "detail": "171 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+        "field": "description",
+        "detail": "183 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/contact-lenses/disposable-contacts",
+        "field": "title",
+        "detail": "68 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/contact-lenses/eye-exams-for-contact-lenses",
+        "field": "description",
+        "detail": "176 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/contact-lenses/our-featured-brands",
+        "field": "title",
+        "detail": "66 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+        "field": "title",
+        "detail": "65 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/contact-us",
+        "field": "title",
+        "detail": "71 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/contact-us/contact-form",
+        "field": "description",
+        "detail": "173 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.briargroveeye.com/contact-us/patient-testimonials",
+        "field": "description",
+        "detail": "30 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services",
+        "field": "description",
+        "detail": "162 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/contact-lens-exams/hard-to-fit",
+        "field": "description",
+        "detail": "162 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/emergency-eye-care-services",
+        "field": "title",
+        "detail": "67 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/emergency-eye-care-services",
+        "field": "description",
+        "detail": "178 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+        "field": "description",
+        "detail": "183 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/eye-conditions/presbyopia-diagnosis-and-treatment",
+        "field": "description",
+        "detail": "202 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/eye-exams",
+        "field": "description",
+        "detail": "186 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/eye-exams/advanced-technology",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/eye-exams/advanced-technology",
+        "field": "description",
+        "detail": "177 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/eye-exams/pediatric-eye-exams",
+        "field": "description",
+        "detail": "187 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/eye-exams/what-to-expect",
+        "field": "description",
+        "detail": "175 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/lasik-refractive-surgery-co-management",
+        "field": "title",
+        "detail": "64 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/lasik-refractive-surgery-co-management",
+        "field": "description",
+        "detail": "167 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/latisse",
+        "field": "description",
+        "detail": "178 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/management-of-ocular-diseases",
+        "field": "description",
+        "detail": "174 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+        "field": "description",
+        "detail": "184 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+        "field": "description",
+        "detail": "176 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/eyeglass-care-warranties-in-houston-briargrove-eye-center",
+        "field": "title",
+        "detail": "65 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglass-care-warranties-in-houston-briargrove-eye-center",
+        "field": "description",
+        "detail": "161 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses",
+        "field": "description",
+        "detail": "167 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/designer-frames",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/eyeglasses/designer-frames/mcallister-eyewear",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/eyeglass-guide",
+        "field": "description",
+        "detail": "186 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/kids-optical",
+        "field": "description",
+        "detail": "163 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/lens-treatments",
+        "field": "description",
+        "detail": "164 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/lens-treatments/anti-reflective",
+        "field": "description",
+        "detail": "186 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/prescription-eyeglasses",
+        "field": "description",
+        "detail": "207 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/prescription-eyeglasses/frame-maintenance",
+        "field": "description",
+        "detail": "184 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses",
+        "field": "description",
+        "detail": "165 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/quality-eyeglass-lenses-in-houston-tx",
+        "field": "title",
+        "detail": "65 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/quality-eyeglass-lenses-in-houston-tx",
+        "field": "description",
+        "detail": "263 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/sunglasses",
+        "field": "description",
+        "detail": "167 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/sunglasses/performance-and-sport-sunglasses",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/sunglasses/prescription-sunglass-treatments",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/sunglasses/prescription-sunglass-treatments",
+        "field": "description",
+        "detail": "181 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/sunglasses/prescription-sunglasses",
+        "field": "description",
+        "detail": "171 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/transitions-lenses",
+        "field": "description",
+        "detail": "194 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/transitions-lenses/are-transitions-right-for-you",
+        "field": "title",
+        "detail": "69 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/transitions-lenses/are-transitions-right-for-you",
+        "field": "description",
+        "detail": "191 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/transitions-lenses/original-transitions-lenses",
+        "field": "description",
+        "detail": "178 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/transitions-lenses/transition-solfx-sunwear-products",
+        "field": "title",
+        "detail": "66 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/eyeglasses/transitions-lenses/transition-solfx-sunwear-products",
+        "field": "description",
+        "detail": "184 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/eyes-a-window-into-your-health-2023",
+        "field": "title",
+        "detail": "73 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/hours-location",
+        "field": "title",
+        "detail": "68 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "alt-missing",
+        "page": "https://www.briargroveeye.com/how-do-we-see",
+        "field": "alt",
+        "detail": "1 of 4 images have no alt"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023",
+        "field": "description",
+        "detail": "245 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/insurance",
+        "field": "description",
+        "detail": "166 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/insurance/carecredit",
+        "field": "description",
+        "detail": "171 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/insurance/faqs-of-vision-insurance-plans",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/insurance/faqs-of-vision-insurance-plans",
+        "field": "description",
+        "detail": "179 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/location/briargrove-eye-center",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/november-is-diabetes-awareness-month-2016",
+        "field": "title",
+        "detail": "74 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/november-is-diabetes-awareness-month-2016",
+        "field": "description",
+        "detail": "169 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/pediatric-eye-exams-at-briargrove-eye-center",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/protecting-your-eyes-from-the-desk-job",
+        "field": "title",
+        "detail": "69 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/silent-vision-loss-and-emergency-eye-care-in-uptown-houston",
+        "field": "title",
+        "detail": "65 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/sitemap",
+        "field": "description",
+        "detail": "213 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/specialty-eyewear/contacts-glasses-that-enhance-performance",
+        "field": "title",
+        "detail": "74 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/specialty-eyewear/scuba-masks-and-swim-goggles",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/specialty-eyewear/shooting-glasses-and-hunting-eyewear",
+        "field": "title",
+        "detail": "67 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/specialty-eyewear/specialty-eyewear-overview",
+        "field": "description",
+        "detail": "187 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/all-about-vision",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/childrens-vision-houston",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/childrens-vision-houston",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/contact-lenses",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/tag/contact-lenses",
+        "field": "description",
+        "detail": "245 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/contact-lenses",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/tag/contact-lenses-near-me",
+        "field": "description",
+        "detail": "162 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/contact-lenses-near-me",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/diabetic-retinopathy",
+        "field": "title",
+        "detail": "73 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/diabetic-retinopathy",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/dry-eye",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/tag/dry-eye",
+        "field": "description",
+        "detail": "245 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/dry-eye",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/dry-eyes",
+        "field": "title",
+        "detail": "74 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/dry-eyes",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/eye-care-houston",
+        "field": "title",
+        "detail": "65 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/tag/eye-care-houston",
+        "field": "description",
+        "detail": "161 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eye-care-houston",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/tag/eye-doctor",
+        "field": "description",
+        "detail": "162 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eye-doctor",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/eye-doctor-houston",
+        "field": "title",
+        "detail": "65 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/tag/eye-doctor-houston",
+        "field": "description",
+        "detail": "161 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eye-doctor-houston",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/tag/eye-doctor-near-me",
+        "field": "description",
+        "detail": "162 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eye-doctor-near-me",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/eye-drops",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/tag/eye-drops",
+        "field": "description",
+        "detail": "245 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eye-drops",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/eye-emergency",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/tag/eye-emergency",
+        "field": "description",
+        "detail": "245 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eye-emergency",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/eye-exam",
+        "field": "title",
+        "detail": "73 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eye-exam",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eye-exam-houston",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/tag/eye-exam-near-me",
+        "field": "description",
+        "detail": "162 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eye-exam-near-me",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/eye-infection",
+        "field": "title",
+        "detail": "66 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eye-infection",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/eyeglass-lens-services",
+        "field": "title",
+        "detail": "65 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/tag/eyeglass-lens-services",
+        "field": "description",
+        "detail": "263 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eyeglass-lens-services",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eyeglass-warranty",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/eyeglasses-in-houston",
+        "field": "title",
+        "detail": "65 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/tag/eyeglasses-in-houston",
+        "field": "description",
+        "detail": "161 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eyeglasses-in-houston",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/eyelid",
+        "field": "title",
+        "detail": "66 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/eyelid",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/houston-eye-care",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/houston-eye-doctor",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/houston-eye-doctor",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/houston-eye-exam",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/houston-optometrist",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/houston-tx-eye-exam",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/kids-eye-exam",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/kids-eye-exam",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/microfibre-cloth",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/mosquito-bite",
+        "field": "title",
+        "detail": "66 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/mosquito-bite",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/multiple-sclerosis",
+        "field": "title",
+        "detail": "73 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/multiple-sclerosis",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.briargroveeye.com/tag/optometrist",
+        "field": "description",
+        "detail": "162 chars (limit 160)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/optometrist",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/optometrist-houston",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/optometrist-near-me",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/optometrist-near-me",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/pediatric-eye-exams",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/pediatric-eye-exams",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/polycarbonate-lenses",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/polycarbonate-lenses",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/tag/vision-care-services",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.briargroveeye.com/tag/vision-care-services",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/team/dr-shawn-muldoon",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.briargroveeye.com/template/footer",
+        "field": "title",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/template/footer",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.briargroveeye.com/template/footer",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.briargroveeye.com/template/footer-2",
+        "field": "title",
+        "detail": "12 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/template/footer-2",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.briargroveeye.com/template/footer-2",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.briargroveeye.com/template/header",
+        "field": "title",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/template/header",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.briargroveeye.com/template/header",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.briargroveeye.com/template/header-2",
+        "field": "title",
+        "detail": "12 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/template/header-2",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.briargroveeye.com/template/header-2",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.briargroveeye.com/template/header-2-copy",
+        "field": "title",
+        "detail": "14 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/template/header-2-copy",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.briargroveeye.com/template/header-2-copy",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/testimonial/dr-muldoon-and-his-staff-go-above-and-beyond-to-give-efficient-friendly-service",
+        "field": "title",
+        "detail": "80 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/testimonial/dr-muldoon-and-his-staff-go-above-and-beyond-to-give-efficient-friendly-service",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/testimonial/dr-muldoon-has-been-our-family-ophthalmologist-for-17-years",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/testimonial/dr-muldoon-has-been-our-family-ophthalmologist-for-17-years",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/testimonial/dr-muldoon-is-a-super-nice-guy",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/testimonial/highly-recommended",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/testimonial/i-am-a-long-time-satisfied-customer",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.briargroveeye.com/testimonial/i-highly-recommend-them",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/the-staff",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/use-it-or-lose-it-make-the-most-of-your-fsa-vision-benefits-before-year-end",
+        "field": "title",
+        "detail": "70 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/what-to-do-if-a-mosquito-bites-your-eyelid-2021",
+        "field": "title",
+        "detail": "66 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/whats-in-your-household-cleaning-supplies-2019",
+        "field": "title",
+        "detail": "74 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/whats-new",
+        "field": "title",
+        "detail": "73 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.briargroveeye.com/winter-dry-eyes-2023",
+        "field": "title",
+        "detail": "74 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.briargroveeye.com/author/briargroveeyecenter",
+        "field": "title",
+        "detail": "6 pages share \"Safe to Rinse Your Eyes With Tap Water? | Briargrove Eye Center\" and do NOT share one canonical — e.g. https://www.briargroveeye.com/author/briargroveeyecenter , https://www.briargroveeye.com/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023 , https://www.briargroveeye.com/tag/contact-lenses"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.briargroveeye.com/category/news",
+        "field": "title",
+        "detail": "2 pages share \"New Glaucoma Treatments in Uptown Houston, TX\" and do NOT share one canonical — e.g. https://www.briargroveeye.com/category/news , https://www.briargroveeye.com/new-glaucoma-treatments-in-2026-beyond-eye-drops"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.briargroveeye.com/category/uncategorized",
+        "field": "title",
+        "detail": "2 pages share \"Use Your 2026 Vision Benefits | Briargrove Eye Center\" and do NOT share one canonical — e.g. https://www.briargroveeye.com/category/uncategorized , https://www.briargroveeye.com/new-year-fresh-vision-lets-put-your-benefits-to-good-use"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.briargroveeye.com/eye-care-services",
+        "field": "title",
+        "detail": "6 pages share \"Eye Care Services in Uptown Houston | Briargrove Eye Center\" and do NOT share one canonical — e.g. https://www.briargroveeye.com/eye-care-services , https://www.briargroveeye.com/tag/contact-lenses-near-me , https://www.briargroveeye.com/tag/eye-doctor"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.briargroveeye.com/eyeglass-care-warranties-in-houston-briargrove-eye-center",
+        "field": "title",
+        "detail": "4 pages share \"Eyeglass Care & Warranties in Houston, TX | Briargrove Eye Center\" and do NOT share one canonical — e.g. https://www.briargroveeye.com/eyeglass-care-warranties-in-houston-briargrove-eye-center , https://www.briargroveeye.com/tag/eye-care-houston , https://www.briargroveeye.com/tag/eye-doctor-houston"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.briargroveeye.com/eyeglasses/eyeglass-basics",
+        "field": "title",
+        "detail": "2 pages share \"Eyeglass Basics | Eye Doctor in Uptown Houston\" and do NOT share one canonical — e.g. https://www.briargroveeye.com/eyeglasses/eyeglass-basics , https://www.briargroveeye.com/tag/all-about-vision"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.briargroveeye.com/eyeglasses/quality-eyeglass-lenses-in-houston-tx",
+        "field": "title",
+        "detail": "2 pages share \"Exceptional Eyeglass Lens Services | Eye Doctor in Uptown Houston\" and do NOT share one canonical — e.g. https://www.briargroveeye.com/eyeglasses/quality-eyeglass-lenses-in-houston-tx , https://www.briargroveeye.com/tag/eyeglass-lens-services"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.briargroveeye.com/eyes-a-window-into-your-health-2023",
+        "field": "title",
+        "detail": "4 pages share \"Your Eyes As A Window Into Your Whole-Body Health | Briargrove Eye Cen\" and do NOT share one canonical — e.g. https://www.briargroveeye.com/eyes-a-window-into-your-health-2023 , https://www.briargroveeye.com/tag/diabetic-retinopathy , https://www.briargroveeye.com/tag/eye-exam"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.briargroveeye.com/houston-vision-problems-are-common-in-older-parkinsons-patients",
+        "field": "title",
+        "detail": "6 pages share \"Briargrove Eye Center | Parkinson’s and your Eyes\" and do NOT share one canonical — e.g. https://www.briargroveeye.com/houston-vision-problems-are-common-in-older-parkinsons-patients , https://www.briargroveeye.com/tag/eye-exam-houston , https://www.briargroveeye.com/tag/houston-eye-care"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.briargroveeye.com/pediatric-eye-exams-at-briargrove-eye-center",
+        "field": "title",
+        "detail": "8 pages share \"Pediatric Eye Exams in Uptown Houston | Briargrove Eye Center\" and do NOT share one canonical — e.g. https://www.briargroveeye.com/pediatric-eye-exams-at-briargrove-eye-center , https://www.briargroveeye.com/tag/childrens-vision-houston , https://www.briargroveeye.com/tag/houston-eye-doctor"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.briargroveeye.com/tag/dry-eyes",
+        "field": "title",
+        "detail": "2 pages share \"Defeat Dry Eye Syndrome This Winter! | Dry Eye Treatment in Uptown Hou\" and do NOT share one canonical — e.g. https://www.briargroveeye.com/tag/dry-eyes , https://www.briargroveeye.com/winter-dry-eyes-2023"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.briargroveeye.com/tag/eye-infection",
+        "field": "title",
+        "detail": "4 pages share \"What to Do if a Mosquito Bites Your Eyelid | Briargrove Eye Center\" and do NOT share one canonical — e.g. https://www.briargroveeye.com/tag/eye-infection , https://www.briargroveeye.com/tag/eyelid , https://www.briargroveeye.com/tag/mosquito-bite"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.briargroveeye.com/tag/eyeglass-warranty",
+        "field": "title",
+        "detail": "4 pages share \"Your Glasses, Warranty, Care & Scheduling in Houston, TX\" and do NOT share one canonical — e.g. https://www.briargroveeye.com/tag/eyeglass-warranty , https://www.briargroveeye.com/tag/houston-tx-eye-exam , https://www.briargroveeye.com/tag/microfibre-cloth"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.briargroveeye.com/author/briargroveeyecenter",
+        "field": "description",
+        "detail": "6 pages share a description and do NOT share one canonical — e.g. https://www.briargroveeye.com/author/briargroveeyecenter , https://www.briargroveeye.com/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023 , https://www.briargroveeye.com/tag/contact-lenses"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.briargroveeye.com/category/news",
+        "field": "description",
+        "detail": "2 pages share a description and do NOT share one canonical — e.g. https://www.briargroveeye.com/category/news , https://www.briargroveeye.com/new-glaucoma-treatments-in-2026-beyond-eye-drops"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.briargroveeye.com/category/uncategorized",
+        "field": "description",
+        "detail": "2 pages share a description and do NOT share one canonical — e.g. https://www.briargroveeye.com/category/uncategorized , https://www.briargroveeye.com/new-year-fresh-vision-lets-put-your-benefits-to-good-use"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.briargroveeye.com/eye-care-services",
+        "field": "description",
+        "detail": "6 pages share a description and do NOT share one canonical — e.g. https://www.briargroveeye.com/eye-care-services , https://www.briargroveeye.com/tag/contact-lenses-near-me , https://www.briargroveeye.com/tag/eye-doctor"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.briargroveeye.com/eyeglass-care-warranties-in-houston-briargrove-eye-center",
+        "field": "description",
+        "detail": "4 pages share a description and do NOT share one canonical — e.g. https://www.briargroveeye.com/eyeglass-care-warranties-in-houston-briargrove-eye-center , https://www.briargroveeye.com/tag/eye-care-houston , https://www.briargroveeye.com/tag/eye-doctor-houston"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.briargroveeye.com/eyeglasses/eyeglass-basics",
+        "field": "description",
+        "detail": "2 pages share a description and do NOT share one canonical — e.g. https://www.briargroveeye.com/eyeglasses/eyeglass-basics , https://www.briargroveeye.com/tag/all-about-vision"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.briargroveeye.com/eyeglasses/quality-eyeglass-lenses-in-houston-tx",
+        "field": "description",
+        "detail": "2 pages share a description and do NOT share one canonical — e.g. https://www.briargroveeye.com/eyeglasses/quality-eyeglass-lenses-in-houston-tx , https://www.briargroveeye.com/tag/eyeglass-lens-services"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.briargroveeye.com/eyes-a-window-into-your-health-2023",
+        "field": "description",
+        "detail": "4 pages share a description and do NOT share one canonical — e.g. https://www.briargroveeye.com/eyes-a-window-into-your-health-2023 , https://www.briargroveeye.com/tag/diabetic-retinopathy , https://www.briargroveeye.com/tag/eye-exam"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.briargroveeye.com/houston-vision-problems-are-common-in-older-parkinsons-patients",
+        "field": "description",
+        "detail": "6 pages share a description and do NOT share one canonical — e.g. https://www.briargroveeye.com/houston-vision-problems-are-common-in-older-parkinsons-patients , https://www.briargroveeye.com/tag/eye-exam-houston , https://www.briargroveeye.com/tag/houston-eye-care"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.briargroveeye.com/pediatric-eye-exams-at-briargrove-eye-center",
+        "field": "description",
+        "detail": "8 pages share a description and do NOT share one canonical — e.g. https://www.briargroveeye.com/pediatric-eye-exams-at-briargrove-eye-center , https://www.briargroveeye.com/tag/childrens-vision-houston , https://www.briargroveeye.com/tag/houston-eye-doctor"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.briargroveeye.com/tag/dry-eyes",
+        "field": "description",
+        "detail": "2 pages share a description and do NOT share one canonical — e.g. https://www.briargroveeye.com/tag/dry-eyes , https://www.briargroveeye.com/winter-dry-eyes-2023"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.briargroveeye.com/tag/eye-infection",
+        "field": "description",
+        "detail": "4 pages share a description and do NOT share one canonical — e.g. https://www.briargroveeye.com/tag/eye-infection , https://www.briargroveeye.com/tag/eyelid , https://www.briargroveeye.com/tag/mosquito-bite"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.briargroveeye.com/tag/eyeglass-warranty",
+        "field": "description",
+        "detail": "4 pages share a description and do NOT share one canonical — e.g. https://www.briargroveeye.com/tag/eyeglass-warranty , https://www.briargroveeye.com/tag/houston-tx-eye-exam , https://www.briargroveeye.com/tag/microfibre-cloth"
+      }
+    ],
+    "migration": []
+  },
+  "note": "APPLIED. This run wrote into the build: 2222 field(s) on 119 page(s), each recorded in audit/seo-changes.json with its source. SOURCE findings are the live site's own defects and repairing them is an improvement, not a preservation. MIGRATION findings are damage the rebuild created and did not exist on the source."
+}

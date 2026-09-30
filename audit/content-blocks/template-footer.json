@@ -1,0 +1,69 @@
+{
+ "title": "Footer",
+ "description": "",
+ "canonical": "https://www.briargroveeye.com/template/footer/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "img",
+   "src": "file://offsiteschedule.zocdoc.com/images/remote/zd_bookonline_162x48.png",
+   "alt": "Briargrove Eye Center",
+   "w": 0,
+   "h": 0,
+   "shownW": 151
+  },
+  {
+   "t": "p",
+   "html": "Book Online",
+   "loose": true
+  },
+  {
+   "t": "img",
+   "src": "file://d1k13df5m14swc.cloudfront.net/8a3b77d4-7053-49b7-aaf6-ecc2b409c879circle_medium.png",
+   "alt": "",
+   "w": 0,
+   "h": 0,
+   "shownW": 80
+  },
+  {
+   "t": "p",
+   "html": "See available times and book [[br]] an appointment right here.",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "It's free, fast and secure.",
+   "loose": true
+  },
+  {
+   "t": "img",
+   "src": "https://offsiteschedule.zocdoc.com/images/widgets/calendar-icon.svg",
+   "alt": "",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "p",
+   "html": "appts",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "appts",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "appts",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "More",
+   "loose": true
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/template/footer/"
+}

@@ -1,0 +1,56 @@
+{
+ "title": "We Also Serve | Eye Doctor in Uptown Houston",
+ "description": "Briargrove Eye Center offers a full range of eye health services to our patients, from children to older adults.Optometrist in Uptown Houston.",
+ "canonical": "https://www.briargroveeye.com/eye-care-services/we-also-serve/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2022/05/healthy_senior_couple.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "We Also Serve",
+   "html": "We Also Serve"
+  },
+  {
+   "t": "p",
+   "html": "[[a href=\"/hours-location/\"]]Briargrove Eye Center[[/a]] offers a full range of eye health services to our patients, from children to older adults. We offer [[a href=\"/eye-care-services/eye-exams/\"]]routine eye exams[[/a]] and vision tests, eye disease diagnosis and management, immediate attention for eye emergencies, and complete eye health management. We use the latest technology to ensure your eye health."
+  },
+  {
+   "t": "p",
+   "html": "Dr. Muldoon provides eyewear prescriptions and offers corrective laser eye surgery co-management as well. Please be in touch with our office to schedule an appointment."
+  },
+  {
+   "t": "p",
+   "html": "We are proud to provide eye care for the neighboring community of Tanglewood, and we are located near the Galleria mall, a main attraction in Houston, TX. In addition to comprehensive vision services, we also offer aesthetic treatments, including [[a href=\"/eye-care-services/latisse/\"]]eyelash treatment[[/a]] options, to help patients look and feel their best."
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2019/01/tanglewood-tx-300x147.jpg",
+   "alt": "tanglewood tx 300x147",
+   "w": 0,
+   "h": 0,
+   "shownW": 300
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Tanglewood, TX",
+   "html": "[[a href=\"/tanglewood-houston/\"]] Tanglewood, TX [[/a]]"
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2019/01/GalleriaShops-e1546947752742-300x147.jpg",
+   "alt": "GalleriaShops e1546947752742 300x147",
+   "w": 0,
+   "h": 0,
+   "shownW": 300
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "The Galleria - Houston, TX",
+   "html": "[[a href=\"/eye-care-services/we-also-serve/the-galleria-houston-tx/\"]] The Galleria - Houston, TX [[/a]]"
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/eye-care-services/we-also-serve/"
+}

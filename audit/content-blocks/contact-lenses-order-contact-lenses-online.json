@@ -1,0 +1,38 @@
+{
+ "title": "Order Contact Lenses in Houston, TX Online",
+ "description": "We have secure, online ordering of your contact lenses. Find out more.",
+ "canonical": "https://www.briargroveeye.com/contact-lenses/order-contact-lenses-online/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2022/05/Thumbnail-Order-Contacts.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Order Contact Lenses Online",
+   "html": "Order Contact Lenses Online"
+  },
+  {
+   "t": "p",
+   "html": "Want to Order your Contact Lenses and Supplies online?"
+  },
+  {
+   "t": "p",
+   "html": "[[b]]To order Alcon Contact Lenses and Supplies, please click here:[[/b]]"
+  },
+  {
+   "t": "btn",
+   "href": "https://home.meetmarlo.com/patient/",
+   "text": "Alcon Products"
+  },
+  {
+   "t": "p",
+   "html": "[[b]]To order all other brands of Contact Lenses and Supplies, please click here:[[/b]]"
+  },
+  {
+   "t": "btn",
+   "href": "https://www.helloabby.com/patients",
+   "text": "All other Contact Brands"
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/contact-lenses/order-contact-lenses-online/"
+}

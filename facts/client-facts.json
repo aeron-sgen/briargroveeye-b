@@ -1,0 +1,129 @@
+{
+  "schema": "site-reforge/client-facts@1",
+  "note": "Declared facts. Every value below is copied from the captured Briargrove Eye Center site (audit/raw + audit/rendered); the source page is named per field in _sources. Nothing here comes from Eye Trends, which supplied only page structure.",
+  "legalName": "Briargrove Eye Center",
+  "brand": "Briargrove Eye Center",
+  "phone": [
+    "(713) 974-2020",
+    "855-974-4245"
+  ],
+  "fax": "(713) 975-9756",
+  "email": [],
+  "addresses": [
+    {
+      "street": "5874 Westheimer Road",
+      "city": "Houston",
+      "region": "TX",
+      "postal": "77057",
+      "country": "US",
+      "landmark": "Located at Spectrum Shopping Center on Westheimer Rd. at Fountain View Dr"
+    }
+  ],
+  "hours": "Monday: 9:00 AM - 6:00 PM; Tuesday: 9:00 AM - 6:00 PM; Wednesday: Closed; Thursday: 9:00 AM - 6:00 PM; Friday: 9:00 AM - 6:00 PM; Saturday: 8:00 AM - 2:00 PM; Sunday: Closed",
+  "hoursStructured": [
+    {
+      "day": "Monday",
+      "slots": [
+        "9:00 AM - 6:00 PM"
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "slots": [
+        "9:00 AM - 6:00 PM"
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "slots": []
+    },
+    {
+      "day": "Thursday",
+      "slots": [
+        "9:00 AM - 6:00 PM"
+      ]
+    },
+    {
+      "day": "Friday",
+      "slots": [
+        "9:00 AM - 6:00 PM"
+      ]
+    },
+    {
+      "day": "Saturday",
+      "slots": [
+        "8:00 AM - 2:00 PM"
+      ]
+    },
+    {
+      "day": "Sunday",
+      "slots": []
+    }
+  ],
+  "people": [
+    {
+      "name": "Dr. Shawn Muldoon",
+      "role": "Optometrist",
+      "education": "University of Houston College of Optometry",
+      "position": "Adjunct assistant professor at the Cornea and Contact Lens Service, University of Houston College of Optometry",
+      "memberships": [
+        "American Optometric Association",
+        "Texas Optometric Association",
+        "Harris County Optometric Society"
+      ]
+    }
+  ],
+  "founded": null,
+  "licences": [],
+  "certifications": [],
+  "awards": [],
+  "statistics": [],
+  "testimonials": [
+    {
+      "title": "Dr. Muldoon has been our family Ophthalmologist for 17 years.",
+      "text": "His staff is courteous and goes the extra mile when you need them to.  Dr. Muldoon is very personable and offers the latest in vision technology.  I highly recommend him.",
+      "author": "",
+      "source": "home page REVIEWS widget (rendered) and /testimonial/dr-muldoon-has-been-our-family-ophthalmologist-for-17-years"
+    }
+  ],
+  "links": {
+    "book": "https://www.zocdoc.com/practice/briargrove-eye-center-15824",
+    "reviewsGoogle": "http://search.google.com/local/writereview?placeid=ChIJBW--59vDQIYR4n-aGdO1NVk",
+    "reviewsYelp": "https://www.yelp.com/biz/briargrove-eye-center-houston-3",
+    "facebook": "https://www.facebook.com/BriargroveEyeCenter/",
+    "directions": "https://www.google.com/maps/dir/Current+Location/Briargrove Eye Center,,Uptown Houston, Texas"
+  },
+  "clients": [],
+  "guarantees": [],
+  "pricing": [],
+  "services": [],
+  "_sources": {
+    "address": "JSON-LD LocalBusiness on every page; hours-location and every footer: '5874 Westheimer Road, Houston, TX 77057'. Landmark line: header of every page.",
+    "phone": "(713) 974-2020 is the NAP phone in every footer, hours-location and JSON-LD. 855-974-4245 is the number on the header 'Call' button and home CTAs. Both are carried exactly where the source used them. UNVERIFIED which one the practice wants as primary; 855-974-4245 may be a call-tracking number.",
+    "fax": "hours-location",
+    "hours": "hours-location (static HTML): Monday/Tuesday/Thursday/Friday 9:00 AM - 6:00 PM, Wednesday Closed, Saturday 8:00 AM - 2:00 PM, Sunday Closed",
+    "people": "our-eye-doctors and team/dr-shawn-muldoon",
+    "testimonials": "home page REVIEWS widget (rendered); the source shows the same review five times in its slider",
+    "links": "home page (rendered): Zocdoc on every Book/Schedule button, Google write-review and Yelp in the reviews widget, Facebook in the footer; directions link on hours-location"
+  },
+  "layoutAdjacency": {
+    "note": "Detector-window false positives: each superlative is verbatim source copy; the 50-char window runs into the NEXT element, which the redesign places differently. Declared so sr-fabrication can trace the window; nothing here is new copy.",
+    "items": [
+      {
+        "text": "Best of You Feb 28, 2023 Book Appointment 855-974-4",
+        "file": "eye-health/winter-dry-eyes-2023/index.html",
+        "source": "This Winter, Don’t Let Dry Eyes Get the Best of You / Feb 28, 2023 (article title + date, source /winter-dry-eyes-2023); followed in the rebuild by the hero Book CTA"
+      },
+      {
+        "text": "best for you? Women’s Eyeglass Frames Eye Exam",
+        "file": "products/eyeglass-basics/index.html",
+        "source": "…choose the style of frames that are best for you? (source /eyeglasses/eyeglass-basics); in design B followed by the closing CTA panel"
+      },
+      {
+        "text": "leading frame brands and styles Eye Exams & Eye Car",
+        "file": "products/transitions-lenses/original/index.html",
+        "source": "Compatible with leading frame brands and styles (source /eyeglasses/transitions-lenses/original-transitions-lenses); in design B followed by the closing CTA panel"
+      }
+    ]
+  }
+}

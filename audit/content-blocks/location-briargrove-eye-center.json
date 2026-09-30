@@ -1,0 +1,71 @@
+{
+ "title": "Briargrove Eye Center",
+ "description": "",
+ "canonical": "https://www.briargroveeye.com/location/briargrove-eye-center/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Briargrove Eye Center",
+   "html": "Briargrove Eye Center"
+  },
+  {
+   "t": "p",
+   "html": "Contact Details",
+   "loose": true
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[b]]Phone:[[/b]] [[a href=\"tel:(713) 974-2020\"]] (713) 974-2020 [[/a]]",
+    "[[b]]Fax:[[/b]] (713) 975-9756"
+   ]
+  },
+  {
+   "t": "p",
+   "html": "5874 Westheimer Road [[br]] Houston, TX 77057",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Address",
+   "loose": true
+  },
+  {
+   "t": "embed",
+   "src": "file://www.google.com/maps/embed/v1/place?key=AIzaSyC78DuGXs7Qzk445kjpsg35mHLja914WuY&q=place_id:ChIJBW--59vDQIYR4n-aGdO1NVk",
+   "title": "Google map"
+  },
+  {
+   "t": "p",
+   "html": "Hours",
+   "loose": true
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[b]] Monday: [[/b]] 9:00 AM - 6:00 PM",
+    "[[b]] Tuesday: [[/b]] 9:00 AM - 6:00 PM",
+    "[[b]] Wednesday: [[/b]] Closed",
+    "[[b]] Thursday: [[/b]] 9:00 AM - 6:00 PM",
+    "[[b]] Friday: [[/b]] 9:00 AM - 6:00 PM",
+    "[[b]] Saturday: [[/b]] 8:00 AM - 2:00 PM",
+    "[[b]] Sunday: [[/b]] Closed"
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Payment Information",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "[[b]]We Accept:[[/b]]"
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/location/briargrove-eye-center/"
+}

@@ -1,0 +1,32 @@
+{
+ "title": "Team & Optometrists In Uptown Houston | Briargrove Eye Center",
+ "description": "Get to know the experienced staff at Briargrove Eye Center dedicated to delivering personalized eye care and support for every patient.",
+ "canonical": "https://www.briargroveeye.com/the-staff/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "The Staff",
+   "html": "The Staff"
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/08/group-briargrove.jpg",
+   "alt": "Briargrove Eye Center staff",
+   "w": 0,
+   "h": 0,
+   "shownW": 770
+  },
+  {
+   "t": "p",
+   "html": "Our exceptional, friendly staff is our greatest asset. They are excited about what they do and they care personally about getting the best results for our patients."
+  },
+  {
+   "t": "p",
+   "html": "Our receptionists will try to accommodate your busy schedule by finding appointments that suit your needs."
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/the-staff/"
+}

@@ -1,0 +1,28 @@
+{
+ "title": "EyeGlass Guide | Eye Doctor in Uptown Houston",
+ "description": "Our interactive on-line tool guides you through questions about you, your lifestyle & your eyewear needs to help you choose glasses that are right for you! Optometrist in Uptown Houston.",
+ "canonical": "https://www.briargroveeye.com/eyeglasses/eyeglass-guide/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2022/05/green-and-wood-frames-640px-427x427.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "EyeGlass Guide",
+   "html": "EyeGlass Guide"
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/product_images/eyeglass_guide_logo.png",
+   "alt": "EyeGlass Guide 2.0",
+   "w": 0,
+   "h": 0,
+   "shownW": 240
+  },
+  {
+   "t": "p",
+   "html": "Visit our interactive on-line tool and we’ll guide you through a series of questions about you, your lifestyle and your specific eyewear needs. As you answer, you’ll notice the background photos changing as well as the lenses and the glasses on the lower right. You’ll also get to view brief information videos about specific products that might be of interest. At the end, you’ll receive eyewear suggestions specifically tailored to meet your needs and designed to help you really click with your [[a href=\"/\"]]eye care[[/a]] professional – your ultimate EyeGlass Guide."
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/eyeglasses/eyeglass-guide/"
+}

@@ -1,0 +1,365 @@
+{
+  "schema": "site-reforge/fonts@1",
+  "generated": "2026-09-27T23:47:41.333Z",
+  "discovered": [
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.eot?r5nu8s",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.ttf?r5nu8s",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.woff?r5nu8s",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.svg?r5nu8s",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.eot",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.eot?",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.woff2",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.woff",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.ttf",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.svg",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.eot",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.eot?",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.woff2",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.woff",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.ttf",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.svg",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.eot",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.eot?",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.woff2",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.woff",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.ttf",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.svg",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.eot",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.eot?",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.woff",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.ttf",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.svg",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.eot?cn1xx1",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.ttf?cn1xx1",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.woff?cn1xx1",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.svg?cn1xx1",
+    "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.eot",
+    "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.eot?",
+    "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.woff",
+    "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.ttf",
+    "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.svg"
+  ],
+  "saved": [
+    {
+      "url": "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.ttf?r5nu8s",
+      "savedAs": "EyeCarePro-Icons.ttf",
+      "bytes": 437668,
+      "sha256": "19f87621b5c3a2bbb625c88cb89ef8f6e0cc7803b7c83b676db997d740cf294c"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.woff?r5nu8s",
+      "savedAs": "EyeCarePro-Icons.woff",
+      "bytes": 437744,
+      "sha256": "300a574d04cebf66bc7fdc52f38458773cc5a2991a5578d00f36c14022077071"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.eot?r5nu8s",
+      "savedAs": "EyeCarePro-Icons.eot",
+      "bytes": 437868,
+      "sha256": "62fe16c16acc68a7c1382d66e5f7a6ab2f21449cf5f689523fffb607e51ccfca"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.svg?r5nu8s",
+      "savedAs": "EyeCarePro-Icons.svg",
+      "bytes": 1869632,
+      "sha256": "fd4b2e61d2a36005d7dad416e46d73a84e7f8b3c21c880370a471dc2b27fb85b"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.eot",
+      "savedAs": "fa-brands-400.eot",
+      "bytes": 129590,
+      "sha256": "70b6ab0e27ad6c110cbc891cca3aa7c20d66b5a18f7855dd4e72031879686291"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.eot?",
+      "savedAs": "fa-brands-400.eot",
+      "bytes": 129590,
+      "sha256": "70b6ab0e27ad6c110cbc891cca3aa7c20d66b5a18f7855dd4e72031879686291"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.woff",
+      "savedAs": "fa-brands-400.woff",
+      "bytes": 87520,
+      "sha256": "4ad88e6a32db51a41cff1741970ca95b3e433fbfb8be269c72f881a42f2b88c6"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.woff2",
+      "savedAs": "fa-brands-400.woff2",
+      "bytes": 74524,
+      "sha256": "975714c6cb70ba105bfa87d2415df2fddde4a46c1d3ab9d0cf45465e56cba97d"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.ttf",
+      "savedAs": "fa-brands-400.ttf",
+      "bytes": 129284,
+      "sha256": "7fc88295dbb8337fcf84c0d4fec815e08f68a22f19346b93a0455ce44796b307"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.eot",
+      "savedAs": "fa-regular-400.eot",
+      "bytes": 34394,
+      "sha256": "504bc04d9f489944f5813fef44a9f36e8c15a7fb211b32544046eaefdf93bf7b"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.eot?",
+      "savedAs": "fa-regular-400.eot",
+      "bytes": 34394,
+      "cached": true
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.woff2",
+      "savedAs": "fa-regular-400.woff2",
+      "bytes": 13584,
+      "sha256": "4c061a302d3aad80e5d04a7608f20a26cb6ca995f3e36bfb65500e17552debeb"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.woff",
+      "savedAs": "fa-regular-400.woff",
+      "bytes": 16804,
+      "sha256": "a678c242b35b014c6eb26a824a5a1602c030d86d871f96f593f318ac3848d52c"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.ttf",
+      "savedAs": "fa-regular-400.ttf",
+      "bytes": 34096,
+      "sha256": "06d6366971f9115743335d4f6eff39d94243bf071d44aa996c45ae58388be376"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.svg",
+      "savedAs": "fa-brands-400.svg",
+      "bytes": 691037,
+      "sha256": "a378e23a19c47cff3ecea63fad3a9e5ecf8339013478c28f8695cbecb19b3554"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.svg",
+      "savedAs": "fa-regular-400.svg",
+      "bytes": 144452,
+      "sha256": "b15b34668936beb68b64dbe0e81add9b0dba6ca3edda6dc4cc156eea87245720"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.eot",
+      "savedAs": "fa-solid-900.eot",
+      "bytes": 192122,
+      "sha256": "5f23b72fd1daa4192dcc9bf743ee9b30fb972fe67979044ddf216cb6f601990a"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.eot?",
+      "savedAs": "fa-solid-900.eot",
+      "bytes": 192122,
+      "sha256": "5f23b72fd1daa4192dcc9bf743ee9b30fb972fe67979044ddf216cb6f601990a"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.woff2",
+      "savedAs": "fa-solid-900.woff2",
+      "bytes": 75408,
+      "sha256": "80fe90cb559538158bc235f4e539d9bcae203e19fab7c6970aad37b0154348ff"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.woff",
+      "savedAs": "fa-solid-900.woff",
+      "bytes": 98016,
+      "sha256": "00bca6a9271b5e1cbb3965a74f48c1ce0b72bcbf08790aa2cab95f8dc5362153"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.ttf",
+      "savedAs": "fa-solid-900.ttf",
+      "bytes": 191836,
+      "sha256": "b6db775363c9cd745cb789d67c3bb3e472f55eee7ab46df6f4798e6c9cbf49f4"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.svg",
+      "savedAs": "fa-solid-900.svg",
+      "bytes": 839389,
+      "sha256": "ca293291cae02e8c2fe7811cbce397e555822c37d90a5db73caf58b9e8c740be"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.eot",
+      "savedAs": "IconSweets-Deluxe.eot",
+      "bytes": 164754,
+      "sha256": "4b8d370f242cfbfe91cb9d3c03072e71653f5654e30ae19787d9875b42935fbd"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.eot?",
+      "savedAs": "IconSweets-Deluxe.eot",
+      "bytes": 164754,
+      "sha256": "4b8d370f242cfbfe91cb9d3c03072e71653f5654e30ae19787d9875b42935fbd"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.ttf",
+      "savedAs": "IconSweets-Deluxe.ttf",
+      "bytes": 164552,
+      "sha256": "90c6c1b97ebf10a7deac7c913d10c29bb2e8160d628bf493f193b652ef056dcb"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.woff",
+      "savedAs": "IconSweets-Deluxe.woff",
+      "bytes": 216868,
+      "sha256": "0b9261186a33c38cc3396dbaa34adfef03bcb2d8b93fbef6d46b3dca06c742be"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.eot?cn1xx1",
+      "savedAs": "EyeCarePro-Icons.eot",
+      "bytes": 437868,
+      "cached": true
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.ttf?cn1xx1",
+      "savedAs": "EyeCarePro-Icons.ttf",
+      "bytes": 437668,
+      "cached": true
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.woff?cn1xx1",
+      "savedAs": "EyeCarePro-Icons.woff",
+      "bytes": 437744,
+      "cached": true
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.svg?cn1xx1",
+      "savedAs": "EyeCarePro-Icons.svg",
+      "bytes": 1869632,
+      "cached": true
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.eot",
+      "savedAs": "foundation-icons.eot",
+      "bytes": 54568,
+      "sha256": "9189cd8788a2d42f89ecb72f08d55cc366a3abc441c3413d9ceca66ec3144e46"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.eot?",
+      "savedAs": "foundation-icons.eot",
+      "bytes": 54568,
+      "cached": true
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.woff",
+      "savedAs": "foundation-icons.woff",
+      "bytes": 32020,
+      "sha256": "8c44c3feedae5331a281278ea3ba91d2255928a2f3010d316d6fbb9052e0c2ec"
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.svg",
+      "savedAs": "IconSweets-Deluxe.svg",
+      "bytes": 784675,
+      "sha256": "b2e4269fdefecaef94419027961c8562882ae02e9cc97de0651e43f38e6244a7"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.ttf",
+      "savedAs": "foundation-icons.ttf",
+      "bytes": 56976,
+      "sha256": "7e1dd03dd4ce90b658052554cd7459df16716717389a552fa4c6d56a5f8933e6"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.svg",
+      "savedAs": "foundation-icons.svg",
+      "bytes": 150535,
+      "sha256": "ba2d122321cfede034deb120f35abc790a023d29065c36bd53e57039897ad052"
+    }
+  ],
+  "map": {
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.ttf?r5nu8s": "/fonts/EyeCarePro-Icons.ttf",
+    "//www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.ttf?r5nu8s": "/fonts/EyeCarePro-Icons.ttf",
+    "/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.ttf?r5nu8s": "/fonts/EyeCarePro-Icons.ttf",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.woff?r5nu8s": "/fonts/EyeCarePro-Icons.woff",
+    "//www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.woff?r5nu8s": "/fonts/EyeCarePro-Icons.woff",
+    "/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.woff?r5nu8s": "/fonts/EyeCarePro-Icons.woff",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.eot?r5nu8s": "/fonts/EyeCarePro-Icons.eot",
+    "//www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.eot?r5nu8s": "/fonts/EyeCarePro-Icons.eot",
+    "/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.eot?r5nu8s": "/fonts/EyeCarePro-Icons.eot",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.svg?r5nu8s": "/fonts/EyeCarePro-Icons.svg",
+    "//www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.svg?r5nu8s": "/fonts/EyeCarePro-Icons.svg",
+    "/wp-content/uploads/bb-plugin/icons/icon-1734360712/fonts/EyeCarePro-Icons.svg?r5nu8s": "/fonts/EyeCarePro-Icons.svg",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.eot": "/fonts/fa-brands-400.eot",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.eot": "/fonts/fa-brands-400.eot",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.eot": "/fonts/fa-brands-400.eot",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.eot?": "/fonts/fa-brands-400.eot",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.eot?": "/fonts/fa-brands-400.eot",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.woff": "/fonts/fa-brands-400.woff",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.woff": "/fonts/fa-brands-400.woff",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.woff": "/fonts/fa-brands-400.woff",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.woff2": "/fonts/fa-brands-400.woff2",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.woff2": "/fonts/fa-brands-400.woff2",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.woff2": "/fonts/fa-brands-400.woff2",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.ttf": "/fonts/fa-brands-400.ttf",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.ttf": "/fonts/fa-brands-400.ttf",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.ttf": "/fonts/fa-brands-400.ttf",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.eot": "/fonts/fa-regular-400.eot",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.eot": "/fonts/fa-regular-400.eot",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.eot": "/fonts/fa-regular-400.eot",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.eot?": "/fonts/fa-regular-400.eot",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.eot?": "/fonts/fa-regular-400.eot",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.woff2": "/fonts/fa-regular-400.woff2",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.woff2": "/fonts/fa-regular-400.woff2",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.woff2": "/fonts/fa-regular-400.woff2",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.woff": "/fonts/fa-regular-400.woff",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.woff": "/fonts/fa-regular-400.woff",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.woff": "/fonts/fa-regular-400.woff",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.ttf": "/fonts/fa-regular-400.ttf",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.ttf": "/fonts/fa-regular-400.ttf",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.ttf": "/fonts/fa-regular-400.ttf",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.svg": "/fonts/fa-brands-400.svg",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.svg": "/fonts/fa-brands-400.svg",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-brands-400.svg": "/fonts/fa-brands-400.svg",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.svg": "/fonts/fa-regular-400.svg",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.svg": "/fonts/fa-regular-400.svg",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-regular-400.svg": "/fonts/fa-regular-400.svg",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.eot": "/fonts/fa-solid-900.eot",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.eot": "/fonts/fa-solid-900.eot",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.eot": "/fonts/fa-solid-900.eot",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.eot?": "/fonts/fa-solid-900.eot",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.eot?": "/fonts/fa-solid-900.eot",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.woff2": "/fonts/fa-solid-900.woff2",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.woff2": "/fonts/fa-solid-900.woff2",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.woff2": "/fonts/fa-solid-900.woff2",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.woff": "/fonts/fa-solid-900.woff",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.woff": "/fonts/fa-solid-900.woff",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.woff": "/fonts/fa-solid-900.woff",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.ttf": "/fonts/fa-solid-900.ttf",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.ttf": "/fonts/fa-solid-900.ttf",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.ttf": "/fonts/fa-solid-900.ttf",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.svg": "/fonts/fa-solid-900.svg",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.svg": "/fonts/fa-solid-900.svg",
+    "/wp-content/themes/_default/fonts/icons/fontawesome5/fa-solid-900.svg": "/fonts/fa-solid-900.svg",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.eot": "/fonts/IconSweets-Deluxe.eot",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.eot": "/fonts/IconSweets-Deluxe.eot",
+    "/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.eot": "/fonts/IconSweets-Deluxe.eot",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.eot?": "/fonts/IconSweets-Deluxe.eot",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.eot?": "/fonts/IconSweets-Deluxe.eot",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.ttf": "/fonts/IconSweets-Deluxe.ttf",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.ttf": "/fonts/IconSweets-Deluxe.ttf",
+    "/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.ttf": "/fonts/IconSweets-Deluxe.ttf",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.woff": "/fonts/IconSweets-Deluxe.woff",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.woff": "/fonts/IconSweets-Deluxe.woff",
+    "/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.woff": "/fonts/IconSweets-Deluxe.woff",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.eot?cn1xx1": "/fonts/EyeCarePro-Icons.eot",
+    "//www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.eot?cn1xx1": "/fonts/EyeCarePro-Icons.eot",
+    "/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.eot?cn1xx1": "/fonts/EyeCarePro-Icons.eot",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.ttf?cn1xx1": "/fonts/EyeCarePro-Icons.ttf",
+    "//www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.ttf?cn1xx1": "/fonts/EyeCarePro-Icons.ttf",
+    "/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.ttf?cn1xx1": "/fonts/EyeCarePro-Icons.ttf",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.woff?cn1xx1": "/fonts/EyeCarePro-Icons.woff",
+    "//www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.woff?cn1xx1": "/fonts/EyeCarePro-Icons.woff",
+    "/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.woff?cn1xx1": "/fonts/EyeCarePro-Icons.woff",
+    "https://www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.svg?cn1xx1": "/fonts/EyeCarePro-Icons.svg",
+    "//www.briargroveeye.com/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.svg?cn1xx1": "/fonts/EyeCarePro-Icons.svg",
+    "/wp-content/uploads/bb-plugin/icons/icon-1721332780/fonts/EyeCarePro-Icons.svg?cn1xx1": "/fonts/EyeCarePro-Icons.svg",
+    "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.eot": "/fonts/foundation-icons.eot",
+    "//cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.eot": "/fonts/foundation-icons.eot",
+    "/ajax/libs/foundicons/3.0.0/foundation-icons.eot": "/fonts/foundation-icons.eot",
+    "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.eot?": "/fonts/foundation-icons.eot",
+    "//cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.eot?": "/fonts/foundation-icons.eot",
+    "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.woff": "/fonts/foundation-icons.woff",
+    "//cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.woff": "/fonts/foundation-icons.woff",
+    "/ajax/libs/foundicons/3.0.0/foundation-icons.woff": "/fonts/foundation-icons.woff",
+    "https://www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.svg": "/fonts/IconSweets-Deluxe.svg",
+    "//www.briargroveeye.com/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.svg": "/fonts/IconSweets-Deluxe.svg",
+    "/wp-content/themes/_default/fonts/icons/iconsweets/IconSweets-Deluxe.svg": "/fonts/IconSweets-Deluxe.svg",
+    "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.ttf": "/fonts/foundation-icons.ttf",
+    "//cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.ttf": "/fonts/foundation-icons.ttf",
+    "/ajax/libs/foundicons/3.0.0/foundation-icons.ttf": "/fonts/foundation-icons.ttf",
+    "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.svg": "/fonts/foundation-icons.svg",
+    "//cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.svg": "/fonts/foundation-icons.svg",
+    "/ajax/libs/foundicons/3.0.0/foundation-icons.svg": "/fonts/foundation-icons.svg"
+  }
+}

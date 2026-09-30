@@ -1,0 +1,99 @@
+{
+ "title": "Eye Care Services in Uptown Houston | Briargrove Eye Center",
+ "description": "Uptown Houston eye care services for adults and children, including eye exams, contact lens fittings, eyewear, and treatment for common vision and eye conditions.",
+ "canonical": "https://www.briargroveeye.com/eye-care-services/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "EYE CARE SERVICES IN UPTOWN HOUSTON, TX",
+   "html": "EYE CARE SERVICES IN Uptown Houston, TX"
+  },
+  {
+   "t": "p",
+   "html": "Our eye care center offers a full range of eye health services to clients of all ages, from children to older adults. With a complete array of expert eye care services, Dr. Muldoon, and our team, are dedicated to helping you enjoy healthy eyes and sharp vision. Whether you need a new pair of eyeglasses or treatment for an eye disease, our optometric team provides cutting-edge eye and vision care. Proudly serving Tanglewood, The Galleria, Texas residents for more than 18 years."
+  },
+  {
+   "t": "btn",
+   "href": "https://www.zocdoc.com/practice/briargrove-eye-center-15824",
+   "text": "SCHEDULE AN APPOINTMENT"
+  },
+  {
+   "t": "p",
+   "html": "[[a href=\"/\"]]Home[[/a]] » Eye Care Services",
+   "loose": true
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Comprehensive Eye Exams in Uptown Houston & Tanglewood, Texas & More",
+   "html": "[[b]]Comprehensive Eye Exams in Uptown Houston & Tanglewood, Texas & More[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "Our Uptown Houston eye care center offers a full range of eye health services to clients of all ages, from children to older adults, routine [[a href=\"/eye-care-services/eye-exams/\"]]eye exams[[/a]] and vision tests, eye disease diagnosis and management, immediate attention for eye emergencies, and complete eye health management."
+  },
+  {
+   "t": "p",
+   "html": "Dr. Muldoon provides eyewear prescriptions and offers corrective laser eye surgery co-management as well. You can get in touch with our eye doctor's office to set up an appointment at your convenience and learn more about some of our key services below."
+  },
+  {
+   "t": "p",
+   "html": "Schedule An Appointment",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Patient History Form",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Email Us",
+   "loose": true
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Our Eye Care Services:",
+   "html": "[[b]]Our Eye Care Services:[[/b]]"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[a href=\"https://www.briargroveeye.com/eye-care-services/eye-exams/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eye-care-services/eye-exams/\"]]Comprehensive Eye Exams[[/a]] Learn more about what your eye doctor will screen for, what to expect at your appointment, some of the advanced technology we use.",
+    "[[a href=\"https://www.briargroveeye.com/eye-care-services/contact-lens-exams/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eye-care-services/contact-lens-exams/\"]]Contact Lens Exams[[/a]] A routine exam won’t provide some of the measurements and testing that are required to determine suitablity for contact lens wear.",
+    "[[a href=\"https://www.briargroveeye.com/eye-care-services/emergency-eye-care-services/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eye-care-services/emergency-eye-care-services/\"]]Emergency Eye Care Services[[/a]] Our eye doctor has the latest technology and extensive experience with eye infections, scratched eye, and something stuck in your eye.",
+    "[[a href=\"https://www.briargroveeye.com/eye-care-services/eye-conditions/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eye-care-services/eye-conditions/\"]]Eye Condition Treatment[[/a]] Eye problems can range from mild to severe; some are chronic, while others may resolve on their own.",
+    "[[a href=\"https://www.briargroveeye.com/eye-care-services/management-of-ocular-diseases/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eye-care-services/management-of-ocular-diseases/\"]]Eye Disease Management[[/a]] We diagnose and manage ocular diseases such as Glaucoma, Macular Degeneration, Diabetic Retinopathy and Cataracts.",
+    "[[a href=\"https://www.briargroveeye.com/eye-care-services/lasik-refractive-surgery-co-management/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eye-care-services/lasik-refractive-surgery-co-management/\"]]LASIK & Refractive Surgery Co-Management[[/a]] LASIK corrects nearsightedness, farsightedness and even astigmatism.",
+    "[[a href=\"https://www.briargroveeye.com/eye-care-services/latisse/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eye-care-services/latisse/\"]]Latisse[[/a]] Introducing a revolutionary eyelash treatment to enhance the length and appearance of your eyelashes.",
+    "[[a href=\"https://www.briargroveeye.com/eye-care-services/we-also-serve/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eye-care-services/we-also-serve/\"]]We Also Serve[[/a]] We are proud to serve the Tanglewood neighborhood and the area around the Galleria shopping center."
+   ]
+  }
+ ],
+ "forms": [
+  {
+   "id": "",
+   "intro": [],
+   "sections": [],
+   "fields": [
+    {
+     "section": "",
+     "group": "",
+     "sub": "",
+     "desc": "",
+     "choice": "",
+     "tag": "input",
+     "type": "search",
+     "name": "s",
+     "label": "Search:",
+     "required": false
+    }
+   ]
+  }
+ ],
+ "url": "https://www.briargroveeye.com/eye-care-services/"
+}

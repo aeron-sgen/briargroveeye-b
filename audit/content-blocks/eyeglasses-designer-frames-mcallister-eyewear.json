@@ -1,0 +1,36 @@
+{
+ "title": "McAllister Eyewear in Houston, TX | Briargrove Eye Center",
+ "description": "",
+ "canonical": "https://www.briargroveeye.com/eyeglasses/designer-frames/mcallister-eyewear/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "McAllister Eyewear",
+   "html": "McAllister Eyewear"
+  },
+  {
+   "t": "p",
+   "html": "First and always, modern original eyewear. Distinctive frames for a new generation of visionaries.inspired by a true founder of American optometry, an icon who 225 years ago dared to see beyond limits. McAllister honors it’s 225 year legacy of distinctive eyewear with a collection that re-frames what it means to be bold."
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/09/mcallister-1.jpg",
+   "alt": "mcallister 1",
+   "w": 0,
+   "h": 0,
+   "shownW": 770
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/09/briargrove-mcallister-scaled.jpg",
+   "alt": "briargrove mcallister",
+   "w": 0,
+   "h": 0,
+   "shownW": 770
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/eyeglasses/designer-frames/mcallister-eyewear/"
+}

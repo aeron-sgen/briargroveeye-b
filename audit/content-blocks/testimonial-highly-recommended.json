@@ -1,0 +1,25 @@
+{
+ "title": "Highly recommended.",
+ "description": "",
+ "canonical": "https://www.briargroveeye.com/testimonial/highly-recommended/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Highly recommended.",
+   "html": "Highly recommended."
+  },
+  {
+   "t": "p",
+   "html": "Dr. Muldoon's office is a first class operation all the way around. Nazia is super professional and friendly. Great selection of frames. Dr. Muldoon is the best of the best."
+  },
+  {
+   "t": "p",
+   "html": "- Will K. - Yelp Review May 2018",
+   "loose": true
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/testimonial/highly-recommended/"
+}

@@ -1,0 +1,151 @@
+/* tokens.css — derived by sr-tokens.mjs from computed (browser capture).
+   Every value below traces to audit/design-baseline.json. Change values HERE,
+   never at a call site: one source, or the system is not a system. */
+:root {
+  /* --- colour ------------------------------------------------------ */
+  --c-1: #ffffff;
+  --c-2: #603712;
+  --c-3: #034c28;
+  --c-4: #2366443b;
+  --c-5: #00000080;
+  --c-6: #464451;
+  --c-7: #f7ebe8;
+  --c-8: #000000;
+  --c-9: #757575;
+
+  /* --- type -------------------------------------------------------- */
+  --font-body: Tahoma;
+  --font-display: "Times New Roman";
+  --fs-1: 12.6px;
+  --fs-2: 13px;
+  --fs-3: 13.3333px;
+  --fs-4: 14px;
+  --fs-5: 15px;
+  --fs-6: 15.4px;
+  --fs-7: 16px;
+  --fs-8: 16.8px;
+  --fs-9: 16.94px;
+  --fs-10: 17.64px;
+  --fs-11: 18px;
+  --fs-12: 20px;
+  --fs-13: 20.16px;
+  --fs-14: 22.05px;
+  --fs-15: 24px;
+  --fs-16: 24.5px;
+  --fs-17: 28px;
+  --fs-18: 30px;
+  --fs-19: 35px;
+  --fs-20: 40px;
+  --fs-21: 50px;
+
+  /* --- space ------------------------------------------------------- */
+  --sp-1: 5px;
+  --sp-2: 6.66667px;
+  --sp-3: 7px;
+  --sp-4: 8px;
+  --sp-5: 9px;
+  --sp-6: 9.45px;
+  --sp-7: 10px;
+  --sp-8: 10.5px;
+  --sp-9: 10.71px;
+  --sp-10: 11.55px;
+  --sp-11: 11.9px;
+  --sp-12: 12.6px;
+  --sp-13: 13.09px;
+  --sp-14: 14px;
+  --sp-15: 15px;
+  --sp-16: 15.4px;
+  --sp-17: 16px;
+  --sp-18: 20px;
+  --sp-19: 24px;
+  --sp-20: 25px;
+  --sp-21: 30px;
+  --sp-22: 40px;
+  --sp-23: 44px;
+  --sp-24: 50px;
+  --sp-25: 60px;
+  --sp-26: 70px;
+  --sp-27: 80px;
+  --sp-28: 85px;
+  --sp-29: 400px;
+
+  /* --- shape ------------------------------------------------------- */
+  --radius-1: 10px;
+  --radius-2: 20px;
+  --radius-3: 5px;
+  --radius-4: 50%;
+  --shadow-1: rgb(0, 0, 0) 0px 0px 30px 0px;
+  --shadow-2: rgba(0, 0, 0, 0.2) 0px 2px 4px -1px, rgba(0, 0, 0, 0.12) 0px 1px 10px 0px, rgba(0, 0, 0, 0.14) 0px 4px 5px 0px;
+  --shadow-3: rgba(0, 0, 0, 0.2) 0px 1px 6px 0px;
+
+  /* --- layout ------------------------------------------------------ */
+  --container: 100%;
+  --bp-1: 1px;
+  --bp-2: 321px;
+  --bp-3: 480px;
+  --bp-4: 600px;
+  --bp-5: 640px;
+  --bp-6: 641px;
+  --bp-7: 700px;
+  --bp-8: 761px;
+  --bp-9: 768px;
+  --bp-10: 769px;
+  --bp-11: 790px;
+  --bp-12: 800px;
+  --bp-13: 900px;
+  --bp-14: 992px;
+  --bp-15: 993px;
+  --bp-16: 1024px;
+  --bp-17: 1100px;
+  --bp-18: 1200px;
+  --bp-19: 1201px;
+}
+
+/* ── Briargrove brand layer — DESIGN B "Galleria Bright" ──────────────────────
+   Same measured source colours as design A, re-weighted: light surfaces lead, green is the accent.
+   --bb-green       the source site's section green, measured: --c-3 #034c28 (audit/design-baseline.json)
+   --bb-walnut      the source site's heading/button brown, measured: --c-2 #603712
+   --bb-blush       the source site's page tint, measured: --c-7 #f7ebe8
+   --bb-mint        a light tint of the green for chips and panels; --bb-sun a warm highlight from the walnut
+   Change a value HERE; never at a call site. */
+:root {
+  --bb-green: var(--c-3);
+  --bb-green-2: #0a6b3d;
+  --bb-green-ink: #032e19;
+  --bb-mint: #e3f1e8;
+  --bb-mint-2: #cfe7d8;
+  --bb-walnut: var(--c-2);
+  --bb-sun: #f4c77d;
+  --bb-sun-soft: #fdf1dc;
+  --bb-blush: var(--c-7);
+  --bb-blush-2: #f1ddd8;
+  --bb-white: var(--c-1);
+  --bb-page: #fdfcfa;
+  --bb-ink: #14201a;
+  --bb-ink-2: #3b4a42;
+  --bb-ink-3: #637068;
+  --bb-line: rgb(20 32 26 / 0.1);
+  --bb-line-strong: rgb(20 32 26 / 0.2);
+  --bb-line-invert: rgb(255 255 255 / 0.24);
+  --bb-scrim: rgb(3 46 25 / 0.55);
+  --bb-shadow-1: 0 1px 2px rgb(20 32 26 / 0.05), 0 8px 24px rgb(20 32 26 / 0.06);
+  --bb-shadow-2: 0 4px 12px rgb(20 32 26 / 0.06), 0 28px 60px rgb(20 32 26 / 0.12);
+  --bb-focus: 0 0 0 3px rgb(10 107 61 / 0.4);
+
+  --bb-font-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --bb-font-body: "Plus Jakarta Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
+
+  --bb-step--1: clamp(0.84rem, 0.82rem + 0.1vw, 0.9rem);
+  --bb-step-0: clamp(1rem, 0.97rem + 0.15vw, 1.07rem);
+  --bb-step-1: clamp(1.18rem, 1.1rem + 0.4vw, 1.42rem);
+  --bb-step-2: clamp(1.4rem, 1.22rem + 0.9vw, 1.95rem);
+  --bb-step-3: clamp(1.8rem, 1.45rem + 1.7vw, 2.9rem);
+  --bb-step-4: clamp(2.3rem, 1.6rem + 3.2vw, 4.6rem);
+
+  --bb-space-1: 0.25rem; --bb-space-2: 0.5rem; --bb-space-3: 0.75rem; --bb-space-4: 1rem;
+  --bb-space-5: 1.5rem; --bb-space-6: 2rem; --bb-space-7: 3rem; --bb-space-8: 4.5rem; --bb-space-9: 6rem;
+  --bb-radius-s: 12px; --bb-radius: 20px; --bb-radius-l: 32px; --bb-radius-pill: 999px;
+  --bb-max: 1240px; --bb-measure: 70ch;
+  --bb-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --bb-dur: 420ms;
+}

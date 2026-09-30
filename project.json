@@ -1,0 +1,151 @@
+{
+  "schema": "site-reforge/project@1",
+  "name": "briargroveeye-com-b",
+  "targetUrl": "https://www.briargroveeye.com/",
+  "origin": "https://www.briargroveeye.com",
+  "createdAt": "2026-09-27T23:40:50.926Z",
+  "updatedAt": "2026-09-30T03:00:09.395Z",
+  "config": {
+    "maxPages": 400,
+    "concurrency": 2,
+    "includeSubdomains": false,
+    "breakpoints": [
+      390,
+      768,
+      1024,
+      1440
+    ],
+    "pixelDiffThreshold": 0.02,
+    "contentRecallFloor": 0.95,
+    "requestDelayMs": 150,
+    "requestHeaders": {}
+  },
+  "tooling": {
+    "browser": "unknown",
+    "imageGen": "unknown",
+    "detectedAt": null
+  },
+  "stages": {
+    "intake": {
+      "status": "done",
+      "at": "2026-09-27T23:40:50.927Z",
+      "note": "workspace created"
+    },
+    "crawl": {
+      "status": "done",
+      "at": "2026-09-27T23:45:01.612Z",
+      "note": "165 pages, 0 failed"
+    },
+    "extract": {
+      "status": "done",
+      "at": "2026-09-27T23:45:11.509Z",
+      "note": "165 pages extracted"
+    },
+    "assets": {
+      "status": "partial",
+      "at": "2026-09-27T23:49:37.444Z",
+      "note": "218/240 assets on disk"
+    },
+    "capture": {
+      "status": "done",
+      "at": "2026-09-27T23:51:06.962Z",
+      "note": "captures merged"
+    },
+    "tokens": {
+      "status": "done",
+      "at": "2026-09-27T23:51:15.814Z",
+      "note": "computed (browser capture)"
+    },
+    "motion": {
+      "status": "done",
+      "at": "2026-09-27T23:51:16.248Z",
+      "note": "91 keyframes, 250 animated elements"
+    },
+    "presets": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "ux": {
+      "status": "partial",
+      "at": "2026-09-28T01:19:27.335Z",
+      "note": "528 rows, 528 UNSET"
+    },
+    "brand": {
+      "status": "partial",
+      "at": "2026-09-27T23:51:15.814Z",
+      "note": "tokens emitted; brand-system.md still owed"
+    },
+    "implement": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "clone": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "cloneVerify": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "responsive": {
+      "status": "done",
+      "at": "2026-09-28T01:37:19.982Z",
+      "note": "472 sweeps at 1024/1440/390/768"
+    },
+    "seo": {
+      "status": "pending",
+      "at": null,
+      "note": "design B: re-run against its own build"
+    },
+    "performance": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "decontaminate": {
+      "status": "done",
+      "at": "2026-09-30T03:00:08.923Z",
+      "note": "CLEAN (0 traces)"
+    },
+    "parity": {
+      "status": "fail",
+      "at": "2026-09-30T03:00:07.521Z",
+      "note": "DRIFT — 169 findings"
+    },
+    "fabrication": {
+      "status": "done",
+      "at": "2026-09-30T03:00:08.405Z",
+      "note": "SOURCED — 0 findings"
+    },
+    "pixeldiff": {
+      "status": "fail",
+      "at": "2026-09-28T01:29:31.243Z",
+      "note": "DRIFT — 32/32 pairs over threshold"
+    },
+    "sweep": {
+      "status": "pending",
+      "at": null,
+      "note": "design B: re-run against its own build"
+    },
+    "functional": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "gate": {
+      "status": "fail",
+      "at": "2026-09-30T03:00:09.395Z",
+      "note": "NOT-READY — 25/29 passing"
+    },
+    "package": {
+      "status": "pending",
+      "at": null,
+      "note": "design B: re-run against its own build"
+    }
+  },
+  "notes": []
+}

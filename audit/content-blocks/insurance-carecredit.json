@@ -1,0 +1,65 @@
+{
+ "title": "CareCredit | Eye Doctor in Uptown Houston",
+ "description": "As a service to our patients we are pleased to offer the CareCredit card enabling low monthly payments that are easy to fit into your budget.Optometrist in Uptown Houston.",
+ "canonical": "https://www.briargroveeye.com/insurance/carecredit/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2022/05/CareCredit_Thumbnail-1.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "CareCredit",
+   "html": "CareCredit"
+  },
+  {
+   "t": "img",
+   "src": "https://d3dhq28juvmj53.cloudfront.net/clipart/product_images/carecredit-transparent.png",
+   "alt": "CareCredit",
+   "w": 0,
+   "h": 0,
+   "shownW": 192
+  },
+  {
+   "t": "p",
+   "html": "As a service to our patients, we are pleased to offer the CareCredit card, the nation’s leading patient payment program. CareCredit lets you begin your procedure immediately—then pay for it over time with low monthly payments that are easy to fit into your monthly budget. So, you can begin your vision care today and conveniently pay with low, monthly payments. CareCredit offers a comprehensive range of No Interest and Extended Payment Plans."
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "No Interest Payment Plans",
+   "html": "No Interest Payment Plans"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "No interest if the balance is paid within the specified time period",
+    "Low minimum monthly payments"
+   ]
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Payment Plans",
+   "html": "Payment Plans"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "24, 36, 48 & 60 month plan options [[a href=\"http://www.carecredit.com/howcarecreditworks/how-financing-works/\"]][Click for Details][[/a]]",
+    "24, 36 and 48 financing terms are for purchases of $1,000 or more with a 14.9% APR",
+    "Purchases of $2,500 or more qualify for the 60-month offer with a 16.9% APR"
+   ]
+  },
+  {
+   "t": "p",
+   "html": "With CareCredit, you pay no up-front costs, no pre-payment penalties and no fees. Plus, CareCredit is a revolving credit line for additional treatment or add-on charges, without the need to re-apply. It only takes a few minutes to apply for CareCredit and you may receive an online decision in seconds!"
+  },
+  {
+   "t": "p",
+   "html": "[[b]][[a href=\"http://www.carecredit.com/apply/?dtc=DS5V\"]]Apply now[[/a]] or see our staff for more details.[[/b]]"
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/insurance/carecredit/"
+}

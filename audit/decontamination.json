@@ -1,0 +1,12 @@
+{
+  "schema": "site-reforge/decontamination@1",
+  "generated": "2026-09-30T03:00:08.921Z",
+  "target": "C:\\Users\\c1oud\\Documents\\Sgen\\reforge\\eyetrends-reforge\\briargrove-b-people\\dist",
+  "filesFound": 126,
+  "filesScanned": 126,
+  "filesSkipped": 0,
+  "counts": {},
+  "clean": true,
+  "verdict": "CLEAN",
+  "findings": []
+}

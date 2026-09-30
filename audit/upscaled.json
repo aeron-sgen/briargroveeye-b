@@ -1,0 +1,310 @@
+{
+ "method": "realesrgan-x4plus (ncnn-vulkan v0.2.5.0) blended 0.65 AI / 0.35 smooth enlargement, max 1600px, JPEG q0.9",
+ "images": {
+  "ad5c30f7-Shawn-Muldoon-OD.jpg": {
+   "from": [
+    299,
+    374
+   ],
+   "to": [
+    1196,
+    1496
+   ],
+   "scale": 4,
+   "source": "assets/source/ad5c30f7-Shawn-Muldoon-OD.jpg",
+   "file": "assets/upscaled/ad5c30f7-Shawn-Muldoon-OD.jpg"
+  },
+  "eadf7710-Dr-Muldoon-and-patient.jpg": {
+   "from": [
+    676,
+    450
+   ],
+   "to": [
+    1600,
+    1065
+   ],
+   "scale": 4,
+   "source": "assets/source/eadf7710-Dr-Muldoon-and-patient.jpg",
+   "file": "assets/upscaled/eadf7710-Dr-Muldoon-and-patient.jpg",
+   "enhance": [
+    1.08,
+    1.12,
+    6,
+    0.55
+   ]
+  },
+  "9cf1f242-Doc-Ash-161x300.jpg": {
+   "from": [
+    161,
+    300
+   ],
+   "to": [
+    644,
+    1200
+   ],
+   "scale": 4,
+   "source": "assets/source/9cf1f242-Doc-Ash-161x300.jpg",
+   "file": "assets/upscaled/9cf1f242-Doc-Ash-161x300.jpg"
+  },
+  "b6b95104-group-briargrove.jpg": {
+   "from": [
+    804,
+    480
+   ],
+   "to": [
+    1600,
+    955
+   ],
+   "scale": 4,
+   "source": "assets/source/b6b95104-group-briargrove.jpg",
+   "file": "assets/upscaled/b6b95104-group-briargrove.jpg"
+  },
+  "2c7fabc3-briargrove-front-desk-banner.jpg": {
+   "from": [
+    1280,
+    485
+   ],
+   "to": [
+    1600,
+    606
+   ],
+   "scale": 4,
+   "source": "assets/source/2c7fabc3-briargrove-front-desk-banner.jpg",
+   "file": "assets/upscaled/2c7fabc3-briargrove-front-desk-banner.jpg"
+  },
+  "cf03cda9-briargrove-optical-banner.jpg": {
+   "from": [
+    1280,
+    537
+   ],
+   "to": [
+    1600,
+    671
+   ],
+   "scale": 4,
+   "source": "assets/source/cf03cda9-briargrove-optical-banner.jpg",
+   "file": "assets/upscaled/cf03cda9-briargrove-optical-banner.jpg"
+  },
+  "3ae0a00f-IMG-3903-225x300.jpg": {
+   "from": [
+    225,
+    300
+   ],
+   "to": [
+    900,
+    1200
+   ],
+   "scale": 4,
+   "source": "assets/source/3ae0a00f-IMG-3903-225x300.jpg",
+   "file": "assets/upscaled/3ae0a00f-IMG-3903-225x300.jpg"
+  },
+  "061902ad-IMG-3902-225x300.jpg": {
+   "from": [
+    225,
+    300
+   ],
+   "to": [
+    900,
+    1200
+   ],
+   "scale": 4,
+   "source": "assets/source/061902ad-IMG-3902-225x300.jpg",
+   "file": "assets/upscaled/061902ad-IMG-3902-225x300.jpg"
+  },
+  "56d90b29-IMG-2481-225x300.jpg": {
+   "from": [
+    225,
+    300
+   ],
+   "to": [
+    900,
+    1200
+   ],
+   "scale": 4,
+   "source": "assets/source/56d90b29-IMG-2481-225x300.jpg",
+   "file": "assets/upscaled/56d90b29-IMG-2481-225x300.jpg"
+  },
+  "b8102639-Screen-Shot-2022-04-24-at-8.58.52-PM-1.jpg": {
+   "from": [
+    501,
+    500
+   ],
+   "to": [
+    1600,
+    1597
+   ],
+   "scale": 4,
+   "source": "assets/source/b8102639-Screen-Shot-2022-04-24-at-8.58.52-PM-1.jpg",
+   "file": "assets/upscaled/b8102639-Screen-Shot-2022-04-24-at-8.58.52-PM-1.jpg"
+  },
+  "37d76507-briargrove-doc-sunglasses.jpeg": {
+   "from": [
+    900,
+    367
+   ],
+   "to": [
+    1600,
+    652
+   ],
+   "scale": 4,
+   "source": "assets/source/37d76507-briargrove-doc-sunglasses.jpeg",
+   "file": "assets/upscaled/37d76507-briargrove-doc-sunglasses.jpeg"
+  },
+  "a3522ceb-tanglewood-tx.jpg": {
+   "from": [
+    408,
+    200
+   ],
+   "to": [
+    1600,
+    784
+   ],
+   "scale": 4,
+   "source": "assets/source/a3522ceb-tanglewood-tx.jpg",
+   "file": "assets/upscaled/a3522ceb-tanglewood-tx.jpg"
+  },
+  "743137e0-tanglewood-tx-300x147.jpg": {
+   "from": [
+    300,
+    147
+   ],
+   "to": [
+    1200,
+    588
+   ],
+   "scale": 4,
+   "source": "assets/source/743137e0-tanglewood-tx-300x147.jpg",
+   "file": "assets/upscaled/743137e0-tanglewood-tx-300x147.jpg"
+  },
+  "52b32c05-GalleriaShops-e1546947752742-300x147.jpg": {
+   "from": [
+    300,
+    147
+   ],
+   "to": [
+    1200,
+    588
+   ],
+   "scale": 4,
+   "source": "assets/source/52b32c05-GalleriaShops-e1546947752742-300x147.jpg",
+   "file": "assets/upscaled/52b32c05-GalleriaShops-e1546947752742-300x147.jpg"
+  },
+  "5c93ac5b-GalleriaShops-300x225.jpg": {
+   "from": [
+    300,
+    225
+   ],
+   "to": [
+    1200,
+    900
+   ],
+   "scale": 4,
+   "source": "assets/source/5c93ac5b-GalleriaShops-300x225.jpg",
+   "file": "assets/upscaled/5c93ac5b-GalleriaShops-300x225.jpg"
+  },
+  "2980dd92-lindberg2.jpg": {
+   "from": [
+    400,
+    546
+   ],
+   "to": [
+    1600,
+    2184
+   ],
+   "scale": 4,
+   "source": "assets/source/2980dd92-lindberg2.jpg",
+   "file": "assets/upscaled/2980dd92-lindberg2.jpg"
+  },
+  "e6e4e0bd-toy-20wearing-20glasses.jpg": {
+   "from": [
+    500,
+    479
+   ],
+   "to": [
+    1600,
+    1533
+   ],
+   "scale": 4,
+   "source": "assets/source/e6e4e0bd-toy-20wearing-20glasses.jpg",
+   "file": "assets/upscaled/e6e4e0bd-toy-20wearing-20glasses.jpg"
+  },
+  "239a4aab-Contact-Lens-Info-Display-1280x480-640x240.jpg": {
+   "from": [
+    640,
+    240
+   ],
+   "to": [
+    1600,
+    600
+   ],
+   "scale": 4,
+   "source": "assets/source/239a4aab-Contact-Lens-Info-Display-1280x480-640x240.jpg",
+   "file": "assets/upscaled/239a4aab-Contact-Lens-Info-Display-1280x480-640x240.jpg"
+  },
+  "c3831135-Ray-ban-thumbnail-1.jpg": {
+   "from": [
+    250,
+    300
+   ],
+   "to": [
+    1000,
+    1200
+   ],
+   "scale": 4,
+   "source": "assets/source/c3831135-Ray-ban-thumbnail-1.jpg",
+   "file": "assets/upscaled/c3831135-Ray-ban-thumbnail-1.jpg"
+  },
+  "0cc708c6-KATE-SPADE-.jpg": {
+   "from": [
+    250,
+    300
+   ],
+   "to": [
+    1000,
+    1200
+   ],
+   "scale": 4,
+   "source": "assets/source/0cc708c6-KATE-SPADE-.jpg",
+   "file": "assets/upscaled/0cc708c6-KATE-SPADE-.jpg"
+  },
+  "698f2bd3-ralph-lauren.jpg": {
+   "from": [
+    250,
+    300
+   ],
+   "to": [
+    1000,
+    1200
+   ],
+   "scale": 4,
+   "source": "assets/source/698f2bd3-ralph-lauren.jpg",
+   "file": "assets/upscaled/698f2bd3-ralph-lauren.jpg"
+  },
+  "c9d00b46-Tommy-Hifiger-Ad.jpg": {
+   "from": [
+    250,
+    300
+   ],
+   "to": [
+    1000,
+    1200
+   ],
+   "scale": 4,
+   "source": "assets/source/c9d00b46-Tommy-Hifiger-Ad.jpg",
+   "file": "assets/upscaled/c9d00b46-Tommy-Hifiger-Ad.jpg"
+  },
+  "79d10e45-zeiss-progressive_Individual_308-e1544256838727.jpg": {
+   "from": [
+    1062,
+    403
+   ],
+   "to": [
+    1600,
+    607
+   ],
+   "scale": 4,
+   "source": "assets/source/79d10e45-zeiss-progressive_Individual_308-e1544256838727.jpg",
+   "file": "assets/upscaled/79d10e45-zeiss-progressive_Individual_308-e1544256838727.jpg"
+  }
+ }
+}

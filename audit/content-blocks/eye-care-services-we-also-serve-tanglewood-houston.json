@@ -1,0 +1,161 @@
+{
+ "title": "Optometrist in Tanglewood, Houston | Briargrove Eye Center",
+ "description": "Call Dr. Muldoon for an eye exam in Tanglewood, Houston at 855-974-4245. We can help you with contact lens fitting and eye emergencies as well.",
+ "canonical": "https://www.briargroveeye.com/eye-care-services/we-also-serve/tanglewood-houston/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Tanglewood, Houston",
+   "html": "Tanglewood, Houston"
+  },
+  {
+   "t": "p",
+   "html": "Our Optometrists at Briargrove Eye Center serve the community of Tanglewood, Houston. Tanglewood is located in west Houston, TX and began its development in the 1930s. It was established by the Farrington family. They chose the name Tanglewood because “Tanglewood Tales”, by Nathanial Hawthorne, was the Farrington’s daughter’s favorite book."
+  },
+  {
+   "t": "p",
+   "html": "Tanglewood is only minutes from downtown Houston and contains many beautiful walking paths and bike trails. The city used to contain only ranch houses but now has expanded to more modern styles."
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2019/01/tanglewood-tx.jpg",
+   "alt": "tanglewood tx",
+   "w": 0,
+   "h": 0,
+   "shownW": 408
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Briargrove Eye Center",
+   "html": "[[a href=\"https://www.briargroveeye.com/location/briargrove-eye-center/\"]]Briargrove Eye Center[[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "5874 Westheimer Road [[br]] Houston, TX 77057",
+   "loose": true
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[b]]Phone:[[/b]] [[a href=\"tel:(713) 974-2020\"]] (713) 974-2020 [[/a]]",
+    "[[b]]Fax:[[/b]] (713) 975-9756"
+   ]
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2019/01/tanglewod-tx.jpg",
+   "alt": "okemos map",
+   "w": 0,
+   "h": 0,
+   "shownW": 300
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[b]] Monday: [[/b]] 9:00 AM - 6:00 PM",
+    "[[b]] Tuesday: [[/b]] 9:00 AM - 6:00 PM",
+    "[[b]] Wednesday: [[/b]] Closed",
+    "[[b]] Thursday: [[/b]] 9:00 AM - 6:00 PM",
+    "[[b]] Friday: [[/b]] 9:00 AM - 6:00 PM",
+    "[[b]] Saturday: [[/b]] 8:00 AM - 2:00 PM",
+    "[[b]] Sunday: [[/b]] Closed"
+   ]
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2019/01/Woman-Sunglasses-Red-Hair-1280x480-640x240.jpg",
+   "alt": "Woman Sunglasses Red Hair 1280x480 640x240",
+   "w": 0,
+   "h": 0,
+   "shownW": 640
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Eyeglasses",
+   "html": "[[a href=\"/eyeglasses/\"]] Eyeglasses [[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "We carry the latest European and American designer eyewear collections in a variety of styles, colors, and materials."
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2019/01/Family-with-two-kids.jpg",
+   "alt": "Family with two kids",
+   "w": 0,
+   "h": 0,
+   "shownW": 1280
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Family Eye Care",
+   "html": "[[a href=\"/eye-care-services/eye-exams/\"]] Family Eye Care [[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "Regardless of your age or physical health, it’s important for your entire family to have regular eye exams."
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2019/01/Girl-Winter-Orange-Scarf-1280x480.jpg",
+   "alt": "Girl Winter Orange Scarf 1280x480",
+   "w": 0,
+   "h": 0,
+   "shownW": 1280
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Contact Lenses",
+   "html": "[[a href=\"/eyeglasses-contacts/contact-lenses/\"]] Contact Lenses [[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "Whether you wear daily, weekly or monthly disposables, or conventional (vial) lenses, check out our selection of lenses that fit your needs."
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "Blue Cross Blue Shield",
+    "United Health Care",
+    "Cigna",
+    "Aetna",
+    "Humana",
+    "Medicare",
+    "Tricare",
+    "PHCS"
+   ]
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "Blue Cross Blue Shield",
+    "United Health Care",
+    "Cigna",
+    "Aetna",
+    "Medicare",
+    "Tricare",
+    "PHCS",
+    "Avesis",
+    "Eye Med",
+    "Eyemed Vision Care",
+    "Davis Vision",
+    "Spectera",
+    "Superior Vision",
+    "VSP",
+    "Vision Care Plan"
+   ]
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/eye-care-services/we-also-serve/tanglewood-houston/"
+}

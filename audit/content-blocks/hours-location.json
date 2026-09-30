@@ -1,0 +1,145 @@
+{
+ "title": "Eye Doctor in Uptown Houston, Hours & Location | Optometrist near me",
+ "description": "From our office in Uptown Houston, Briargrove Eye Center has been serving Tanglewood, The Galleria residents for more than 18 years.",
+ "canonical": "https://www.briargroveeye.com/hours-location/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "embed",
+   "src": "file://www.google.com/maps/embed/v1/place?key=AIzaSyC78DuGXs7Qzk445kjpsg35mHLja914WuY&q=place_id:ChIJBW--59vDQIYR4n-aGdO1NVk",
+   "title": "Google map"
+  },
+  {
+   "t": "p",
+   "html": "[[a href=\"https://www.google.com/maps/dir/Current+Location/Briargrove Eye Center,,Uptown Houston, Texas\"]] Click here for Directions[[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "5874 Westheimer Road [[br]] Houston, TX 77057",
+   "loose": true
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[b]]Phone:[[/b]] [[a href=\"tel:(713) 974-2020\"]] (713) 974-2020 [[/a]]",
+    "[[b]]Fax:[[/b]] (713) 975-9756"
+   ]
+  },
+  {
+   "t": "p",
+   "html": "[[b]]We Accept:[[/b]]"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[b]] Monday: [[/b]] 9:00 AM - 6:00 PM",
+    "[[b]] Tuesday: [[/b]] 9:00 AM - 6:00 PM",
+    "[[b]] Wednesday: [[/b]] Closed",
+    "[[b]] Thursday: [[/b]] 9:00 AM - 6:00 PM",
+    "[[b]] Friday: [[/b]] 9:00 AM - 6:00 PM",
+    "[[b]] Saturday: [[/b]] 8:00 AM - 2:00 PM",
+    "[[b]] Sunday: [[/b]] Closed"
+   ]
+  },
+  {
+   "t": "p",
+   "html": "[[a href=\"/\"]]Home[[/a]] » Hours & Location | Eye Doctor In Uptown Houston,",
+   "loose": true
+  },
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Best Eye Exam & Family Eye Care in Uptown Houston, Texas",
+   "html": "Best Eye Exam & Family Eye Care in Uptown Houston, Texas"
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2026/08/00f855b6-d63a-46d9-baad-8f06eceb58ce.png",
+   "alt": "00f855b6 d63a 46d9 baad 8f06eceb58ce",
+   "w": 0,
+   "h": 0,
+   "shownW": 1440
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2026/08/IMG_1803-rotated.jpeg",
+   "alt": "IMG 1803",
+   "w": 0,
+   "h": 0,
+   "shownW": 240
+  },
+  {
+   "t": "p",
+   "html": "Having a vision plan and choosing an optometrist who participates in your plan in Uptown Houston, Texas will help you receive the most [[a href=\"/insurance/\"]]insurance benefits[[/a]] to pay the least out of your pocket for your eye care. At Briargrove Eye Center our eye doctors have excellent credentials and are experienced in family eye care. Our patients are satisfied with their eye exams."
+  },
+  {
+   "t": "p",
+   "html": "Call us to make an appointment with our [[a href=\"/our-eye-doctors/\"]]eye doctor[[/a]] to talk about your [[a href=\"/eyeglasses-contacts/prescription-eyeglasses/\"]]eyeglasses[[/a]], [[a href=\"/eyeglasses-contacts/contact-lenses/\"]]contact lenses[[/a]] or [[a href=\"/eyeglasses-contacts/specialty-eyewear/\"]]specialty lens[[/a]] needs. You are also welcome to drop in anytime to browse through our large selection of [[a href=\"/eyeglasses-contacts/designer-frames/\"]]designer eyeglass frames[[/a]] and [[a href=\"/eyeglasses-contacts/sunglasses/\"]]sunglasses[[/a]]."
+  },
+  {
+   "t": "p",
+   "html": "Schedule An Appointment",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Patient History Form",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Email Us",
+   "loose": true
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2022/04/Screen-Shot-2022-04-24-at-8.58.52-PM-1.jpg",
+   "alt": "Briargrove Eye Center entrance",
+   "w": 0,
+   "h": 0,
+   "shownW": 501
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Eye Exams & Eye Care For Your Entire Family",
+   "html": "Eye Exams & Eye Care For Your Entire Family"
+  },
+  {
+   "t": "p",
+   "html": "We make sure your eyes are healthy and your vision is clear, day in and day out. We have the knowledge, experience, and state-of-the-art equipment to detect signs of eye diseases in their early stages. Thanks to these skills and technologies, we can help manage your eye disease and protect your vision so you can live your best life!"
+  },
+  {
+   "t": "p",
+   "html": "To book your eye exam, contact us today!"
+  },
+  {
+   "t": "p",
+   "html": "Wondering about payment plans? Check Out Our [[a href=\"/insurance/\"]]Insurance Plans[[/a]]."
+  }
+ ],
+ "forms": [
+  {
+   "id": "",
+   "intro": [],
+   "sections": [],
+   "fields": [
+    {
+     "section": "",
+     "group": "",
+     "sub": "",
+     "desc": "",
+     "choice": "",
+     "tag": "input",
+     "type": "search",
+     "name": "s",
+     "label": "Search:",
+     "required": false
+    }
+   ]
+  }
+ ],
+ "url": "https://www.briargroveeye.com/hours-location/"
+}

@@ -1,0 +1,358 @@
+{
+ "title": "Eye Care & Eye Doctor in Houston, TX | Briargrove Eye Center",
+ "description": "Visit Briargrove Eye Center in Houston, TX for eye exams, glasses, and emergency care. Book your appointment with our trusted optometrist today.",
+ "canonical": "https://www.briargroveeye.com/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/06/image-26.png",
+   "alt": "The Dailies TOTAL1 Family",
+   "w": 0,
+   "h": 0,
+   "shownW": 1440
+  },
+  {
+   "t": "p",
+   "html": "[[b]]WELCOME![[/b]]"
+  },
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Comprehensive Eye Care in Houston, TX – Briargrove Eye Center",
+   "html": "Comprehensive Eye Care in Houston, TX – Briargrove Eye Center"
+  },
+  {
+   "t": "p",
+   "html": "Located in the heart of Houston’s Galleria area, Briargrove Eye Center provides trusted, comprehensive vision care for patients of all ages. From advanced eye exams and custom contact lens fittings to our optical boutique of designer eyeglasses, our optometrists are dedicated to helping you achieve optimal eye health and comfort in a welcoming environment."
+  },
+  {
+   "t": "p",
+   "html": "We pride ourselves on serving the Houston community with personalized service and the latest eye care technology for exceptional results."
+  },
+  {
+   "t": "p",
+   "html": "Schedule your Houston eye exam today – new patients are always welcome!"
+  },
+  {
+   "t": "btn",
+   "href": "https://www.zocdoc.com/practice/briargrove-eye-center-15824",
+   "text": "Book Appointment"
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/05/Woman-Glasses-Blue-Sky.jpg",
+   "alt": "Woman Glasses Blue Sky",
+   "w": 0,
+   "h": 0,
+   "shownW": 640
+  },
+  {
+   "t": "p",
+   "html": "Choosing your eyewear is more than just about vision; it's about making a statement about who you are, and your eye doctor plays a crucial role in that process."
+  },
+  {
+   "t": "p",
+   "html": "QUICK LINKS FOR YOU"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Our Eyecare Services In Uptown Houston, Texas",
+   "html": "[[a href=\"/eye-care-services/\"]] Our Eyecare Services In Uptown Houston, Texas [[/a]]"
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2077/2020/01/green-frames-fashion-640.jpg",
+   "alt": "female eye closeup digital 1280×480",
+   "w": 0,
+   "h": 0,
+   "shownW": 360
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/01/contacts6.jpg",
+   "alt": "contacts6",
+   "w": 0,
+   "h": 0,
+   "shownW": 360
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/01/back-of-staff-member3.jpg",
+   "alt": "back of staff member3",
+   "w": 0,
+   "h": 0,
+   "shownW": 360
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/01/contacts3.jpg",
+   "alt": "contacts3",
+   "w": 0,
+   "h": 0,
+   "shownW": 360
+  },
+  {
+   "t": "p",
+   "html": "[[b]]WHY US?[[/b]]"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "3 Things That Make Briargrove Eye Center Unique",
+   "html": "3 Things That Make Briargrove Eye Center Unique"
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "TOP CONTACT LENSES",
+   "html": "[[a href=\"/contact-lenses/\"]] TOP CONTACT LENSES [[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "If you decide to opt for contact lens wear, it is very important that the lenses fit properly and comfortably and that you understand contact lens safety and hygiene."
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "EYEGLASSES",
+   "html": "[[a href=\"https://www.briargroveeye.com/eyeglasses/\"]] EYEGLASSES [[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "We carry the latest European and American designer eyewear collections in a variety of styles, colors and materials. Our Optician can assist you in choosing the best style and fit."
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "EYE EMERGENCIES",
+   "html": "[[a href=\"https://www.briargroveeye.com/eye-care-services/emergency-eye-care-services/\"]] EYE EMERGENCIES [[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "If you experience loss of vision, double vision, swelling, infection, or any eye emergency, contact us immediately. We’ll help you with the best treatment options and care for your eyes immediately."
+  },
+  {
+   "t": "p",
+   "html": "EYE HEALTH BLOGS & LATEST NEWS"
+  },
+  {
+   "t": "p",
+   "html": "Explore sustained-release implants, SLT, MIGS, home pressure checks, and advanced imaging that may support simpler glaucoma care with fewer daily medication steps."
+  },
+  {
+   "t": "p",
+   "html": "Dry eye symptoms can develop from inflammation, poor tear stability, environmental stress, or blocked oil glands. While home remedies may calm occasional irritation, chronic symptoms often need more targeted treatment to improve long-term comfort and visual clarity."
+  },
+  {
+   "t": "p",
+   "html": "A sudden return of reading vision can feel exciting for adults who depend on readers every day. This article breaks down the science behind second sight, how nuclear sclerosis changes refractive power, and why many professionals mistake cataract symptoms for digital fatigue."
+  },
+  {
+   "t": "p",
+   "html": "Many patients dismiss sudden vision changes because discomfort never appears. Unfortunately, some painless eye emergencies can permanently damage sight within hours."
+  },
+  {
+   "t": "p",
+   "html": "REVIEWS"
+  },
+  {
+   "t": "p",
+   "html": "His staff is courteous and goes the extra mile when you need them to. Dr. Muldoon is very personable and offers the latest in vision technology. I highly recommend him."
+  },
+  {
+   "t": "p",
+   "html": "His staff is courteous and goes the extra mile when you need them to. Dr. Muldoon is very personable and offers the latest in vision technology. I highly recommend him."
+  },
+  {
+   "t": "p",
+   "html": "His staff is courteous and goes the extra mile when you need them to. Dr. Muldoon is very personable and offers the latest in vision technology. I highly recommend him."
+  },
+  {
+   "t": "p",
+   "html": "His staff is courteous and goes the extra mile when you need them to. Dr. Muldoon is very personable and offers the latest in vision technology. I highly recommend him."
+  },
+  {
+   "t": "p",
+   "html": "His staff is courteous and goes the extra mile when you need them to. Dr. Muldoon is very personable and offers the latest in vision technology. I highly recommend him."
+  },
+  {
+   "t": "btn",
+   "href": "https://www.yelp.com/biz/briargrove-eye-center-houston-3",
+   "text": "Read Our Reviews"
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/05/VSP-Providers-1.jpg",
+   "alt": "VSP Providers 1",
+   "w": 0,
+   "h": 0,
+   "shownW": 640
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/05/pexels-ali-pazani.jpg",
+   "alt": "pexels ali pazani",
+   "w": 0,
+   "h": 0,
+   "shownW": 640
+  },
+  {
+   "t": "p",
+   "html": "OUR FOCUS IS…"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Comprehensive Eye Exams with Your Houston Eye Doctor",
+   "html": "Comprehensive Eye Exams with Your Houston Eye Doctor"
+  },
+  {
+   "t": "p",
+   "html": "Protecting your vision starts with comprehensive eye exams in Houston tailored to your needs. Our experienced Houston optometrist uses advanced diagnostic technology to thoroughly assess your ocular health and vision. During every exam, we check for early signs of eye conditions such as glaucoma, cataracts, macular degeneration, and diabetic eye disease. By catching issues early, we can provide effective glaucoma treatment in Houston and management of other eye diseases to preserve your sight."
+  },
+  {
+   "t": "p",
+   "html": "Every patient receives a personalized exam and clear explanations of the findings. Whether it’s your annual vision check-up or a specialized consultation, you’ll experience attentive care aimed at keeping your eyes healthy for life. After your exam, we’ll recommend the optimal solutions – from updated prescriptions to preventive treatments – so you can see clearly and comfortably."
+  },
+  {
+   "t": "btn",
+   "href": "tel:855-974-4245",
+   "text": "Call Us 855-974-4245"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Comfortable Contact Lens Fittings in Uptown Houston",
+   "html": "Comfortable Contact Lens Fittings in Uptown Houston"
+  },
+  {
+   "t": "p",
+   "html": "If you prefer contact lenses, our team offers professional contact lens fittings to ensure you get the most comfortable and accurate vision correction. Contact lenses Houston patients need should fit right and suit their lifestyle – we take detailed measurements of your eyes and evaluate your tear film to find the perfect lenses for you. Whether you need daily disposables, multifocal contacts, or have a condition that requires specialty lenses, we have you covered."
+  },
+  {
+   "t": "p",
+   "html": "New to contacts? We’ll patiently teach you how to insert, remove, and care for your lenses, so you feel confident. With a wide selection of quality contact lens options and Dr. Muldoon’s expertise in hard-to-fit contacts, you can enjoy crisp vision without glasses. Our goal is to make switching to contacts easy and successful for every patient."
+  },
+  {
+   "t": "btn",
+   "href": "https://www.zocdoc.com/practice/briargrove-eye-center-15824",
+   "text": "Schedule An Appointment"
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/05/Health-And-Beauty-Beautiful-Contact-Lenses.jpg",
+   "alt": "Health And Beauty Beautiful Contact Lenses",
+   "w": 0,
+   "h": 0,
+   "shownW": 640
+  },
+  {
+   "t": "p",
+   "html": "OUR FAVOURITES"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Stylish Optical Boutique in Houston – Designer Frames & Sunglasses",
+   "html": "Stylish Optical Boutique in Houston – Designer Frames & Sunglasses"
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/01/Ray-ban-thumbnail-1.jpg",
+   "alt": "Model wearing Ray-Ban sunglasses",
+   "w": 0,
+   "h": 0,
+   "shownW": 250
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/01/KATE-SPADE-.jpg",
+   "alt": "woman wearing Kate Spade sunglasses",
+   "w": 0,
+   "h": 0,
+   "shownW": 250
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/01/ralph-lauren.jpg",
+   "alt": "Model wearing Raph Laurel sunglasses",
+   "w": 0,
+   "h": 0,
+   "shownW": 250
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/Tommy-Hifiger-Ad.jpg",
+   "alt": "couple wearing Tommy Hilfiger sunglasses",
+   "w": 0,
+   "h": 0,
+   "shownW": 250
+  },
+  {
+   "t": "p",
+   "html": "See and be seen with eyewear that matches your style. Our on-site optical boutique offers an extensive selection of [[b]]designer eyeglasses in Houston[[/b]], so you can find the perfect pair of frames right after your exam. [[b]]Visit our Houston optical boutique[[/b]] to browse the latest European and American designer brands, trendy frame styles, and high-quality lens options. Whether you need lightweight daily-wear glasses or a statement pair of sunglasses, we have options to suit every taste and face shape."
+  },
+  {
+   "t": "p",
+   "html": "Our knowledgeable opticians provide one-on-one assistance to help you choose frames that complement your look and correct your vision perfectly. We also offer prescription sunglasses and specialty lenses (like blue light filtering or transitions) to meet your lifestyle needs. With our wide variety of eyewear and personalized styling advice, you’ll leave with glasses you’ll love to wear."
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/05/child-glasses.jpg",
+   "alt": "child wearing eyeglasses",
+   "w": 0,
+   "h": 0,
+   "shownW": 640
+  },
+  {
+   "t": "p",
+   "html": "OUR FOCUS IS…"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Pediatric Eye Exams In Uptown Houston",
+   "html": "Pediatric Eye Exams In Uptown Houston"
+  },
+  {
+   "t": "p",
+   "html": "Good vision is vital for children’s growth and learning. Our optometry practice provides friendly, pediatric eye exams in Houston to care for your little ones’ eyes from toddler years through teens. We create a fun, stress-free environment so kids feel at ease during their visit. From using kid-friendly eye charts to taking extra time to answer questions, we make sure both children and parents are comfortable throughout the exam."
+  },
+  {
+   "t": "p",
+   "html": "Our doctor checks for vision issues early on – like nearsightedness, lazy eye, or focusing problems – that can impact school performance or development. If your child needs glasses, we’ll help find frames they love and that fit properly. For teens interested in contacts, we ensure they learn safe handling and care. At Briargrove Eye Center, we treat your family like our own, giving parents peace of mind that their child’s vision is in excellent hands."
+  },
+  {
+   "t": "btn",
+   "href": "https://www.zocdoc.com/practice/briargrove-eye-center-15824",
+   "text": "Schedule An Appointment"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Advanced Technology & Personalized Care",
+   "html": "Advanced Technology & Personalized Care"
+  },
+  {
+   "t": "p",
+   "html": "Experience modern eye care with a personal touch. At our Houston eye clinic, we invest in state-of-the-art diagnostic equipment to deliver the highest standard of care. From digital retinal imaging that captures detailed pictures of your eye health to visual field testing for detecting glaucoma, our advanced technology helps us diagnose issues with precision. This means more accurate prescriptions, early detection of problems, and effective treatments tailored to you."
+  },
+  {
+   "t": "btn",
+   "href": "https://www.zocdoc.com/practice/briargrove-eye-center-15824",
+   "text": "Schedule An Appointment"
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/05/Dr-Muldoon-and-exam-room.jpg",
+   "alt": "Dr Muldoon and exam room",
+   "w": 0,
+   "h": 0,
+   "shownW": 640
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/"
+}

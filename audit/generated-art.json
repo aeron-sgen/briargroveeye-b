@@ -1,0 +1,578 @@
+{
+ "images": {
+  "g-lens-coating": {
+   "file": "assets/generated/g-lens-coating.jpg",
+   "prompt": "a man in his thirties in a navy and white striped shirt wearing clear thin-rimmed eyeglasses working on a laptop in a home office at night, his lenses clear with no glare, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "5591ca23-b445-44f7-973f-82781958e5c4",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:38:40.554Z"
+  },
+  "g-frame-care": {
+   "file": "assets/generated/g-frame-care.jpg",
+   "prompt": "an older man in a checked flannel shirt sitting at a kitchen table polishing the lenses of a pair of eyeglasses held in his hands with a small cloth, looking down at the glasses, he is not wearing them, morning light, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "032219b1-9865-4903-bd3a-df3f5ce61677",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:08:24.860Z"
+  },
+  "g-frame-materials": {
+   "file": "assets/generated/g-frame-materials.jpg",
+   "prompt": "a young woman at home by a window holding up two pairs of eyeglass frames, tortoiseshell and gold wire, deciding between them, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "cc9dca7d-070c-45e6-9947-a1612cfcc9ee",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:08:44.693Z"
+  },
+  "g-progressive": {
+   "file": "assets/generated/g-progressive.jpg",
+   "prompt": "a woman in her sixties in a rust-coloured knit sweater wearing eyeglasses reading a hardcover book in a green armchair beside a warm lamp, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "a0cb453e-0950-4d51-89dc-c21e2da28a08",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:09:09.078Z"
+  },
+  "g-contact-macro": {
+   "file": "assets/generated/g-contact-macro.jpg",
+   "prompt": "a young woman in a red sports top playing tennis on an outdoor court, mid-swing, focused and smiling, bright clear eyes, bare natural face, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "e721cfc3-ed85-4827-973e-08000ded817b",
+   "width": 1259,
+   "height": 944,
+   "generated": "2026-09-30T00:09:48.462Z"
+  },
+  "g-sunglasses": {
+   "file": "assets/generated/g-sunglasses.jpg",
+   "prompt": "waist-up photo of a woman in a coral linen shirt wearing aviator sunglasses on a sunny terrace, relaxed, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "ff78595f-a54a-42d9-a5b5-665e8807b131",
+   "width": 1168,
+   "height": 876,
+   "generated": "2026-09-30T00:39:19.854Z"
+  },
+  "g-kids-sunglasses": {
+   "file": "assets/generated/g-kids-sunglasses.jpg",
+   "prompt": "close-up waist-up photo of a smiling young child in a striped t-shirt wearing colourful kids' sunglasses and a sun hat at the beach, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "c5b2cf50-fab4-48ff-a511-80206807721f",
+   "width": 1204,
+   "height": 903,
+   "generated": "2026-09-30T00:39:43.999Z"
+  },
+  "g-sport": {
+   "file": "assets/generated/g-sport.jpg",
+   "prompt": "a cyclist wearing wraparound sport sunglasses and a helmet pausing on a country road at sunrise, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "e7d65819-5d02-4f54-855a-d865993cc242",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:10:56.835Z"
+  },
+  "g-shooting": {
+   "file": "assets/generated/g-shooting.jpg",
+   "prompt": "a man wearing amber-tinted shooting glasses and ear protection earmuffs at an outdoor clay range in autumn, looking into the distance, no firearm visible, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "d9c9965f-c11d-4b27-bf3d-b37e06bcd52e",
+   "width": 1091,
+   "height": 818,
+   "generated": "2026-09-30T00:11:35.817Z"
+  },
+  "g-photochromic": {
+   "file": "assets/generated/g-photochromic.jpg",
+   "prompt": "a woman in a green knit sweater walking outdoors on a sunny street wearing eyeglasses whose lenses are visibly tinted dark grey like sunglasses in the bright sun, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "4a932e20-0625-45b6-ad16-a05925f39371",
+   "width": 1091,
+   "height": 818,
+   "generated": "2026-09-30T00:11:59.734Z"
+  },
+  "g-exam-optics": {
+   "file": "assets/generated/g-exam-optics.jpg",
+   "prompt": "a middle-aged couple in casual autumn jackets walking together in a park in golden light, the man wearing eyeglasses, both smiling, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "a6e40567-8ec3-4155-9e2d-83583cb33441",
+   "width": 1308,
+   "height": 981,
+   "generated": "2026-09-30T00:12:19.477Z"
+  },
+  "g-retina-light": {
+   "file": "assets/generated/g-retina-light.jpg",
+   "prompt": "an older man wearing eyeglasses reading a newspaper by a bright window at home, calm and focused, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "67fccbed-6c22-4987-93bf-38b093dfdbc2",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:12:43.563Z"
+  },
+  "g-drops": {
+   "file": "assets/generated/g-drops.jpg",
+   "prompt": "a woman in a blue sweater at home by a window, head tilted back, holding a small eye drop bottle above her open eye, a single clear drop falling from the bottle, soft daylight, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "3d6444cf-cc1d-4b76-a728-3f16542e3d46",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:13:07.558Z"
+  },
+  "g-tap-water": {
+   "file": "assets/generated/g-tap-water.jpg",
+   "prompt": "a woman in a striped shirt in a bright kitchen filling a clear drinking glass with water from the tap, morning light, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "5d8987ff-449c-4afd-9557-0bcb09297cf4",
+   "width": 1486,
+   "height": 1115,
+   "generated": "2026-09-30T00:13:31.500Z"
+  },
+  "g-benefits": {
+   "file": "assets/generated/g-benefits.jpg",
+   "prompt": "a couple in casual knit sweaters at a home kitchen table looking over household paperwork and a laptop together, both wearing eyeglasses, relaxed, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "cb7a3e93-81c1-46ac-a969-14e93894671a",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:14:19.906Z"
+  },
+  "g-reading": {
+   "file": "assets/generated/g-reading.jpg",
+   "prompt": "an older man in a navy cardigan wearing reading glasses reading a book on a green sofa, warm lamp light, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "6ef8903f-d429-4bd9-9f45-4c28086824ce",
+   "width": 1440,
+   "height": 1080,
+   "generated": "2026-09-30T00:15:03.139Z"
+  },
+  "g-home-tall": {
+   "file": "assets/generated/g-home-tall.jpg",
+   "prompt": "head-and-shoulders portrait of a smiling woman in her thirties in a rust-coloured blouse wearing gold wire-rim eyeglasses, outdoors in warm late-afternoon light with soft green foliage behind her, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:4",
+   "request_id": "8395241e-6662-4cdc-938f-caed4c25cc70",
+   "width": 732,
+   "height": 976,
+   "generated": "2026-09-30T00:15:51.396Z"
+  },
+  "g-family": {
+   "file": "assets/generated/g-family.jpg",
+   "prompt": "a young family of four on a living-room sofa laughing together, two small children, the father wearing eyeglasses, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "16:9",
+   "request_id": "14b725f7-7f68-44f1-ad87-eeb4d785e832",
+   "width": 1600,
+   "height": 900,
+   "generated": "2026-09-30T00:16:11.100Z"
+  },
+  "g-winter": {
+   "file": "assets/generated/g-winter.jpg",
+   "prompt": "waist-up photo of a woman in a forest-green winter jacket and knit hat outdoors on a cold windy day, blinking against the wind, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "b82448f6-ccd7-4e57-9150-88b6d5ee4431",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:44:30.052Z"
+  },
+  "g-fashion": {
+   "file": "assets/generated/g-fashion.jpg",
+   "prompt": "waist-up photo of a fashionable young woman in a mustard-yellow knit sweater wearing bold green acetate eyeglasses, playful smile, hands lightly framing her face, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:4",
+   "request_id": "d52fba4a-2559-408c-8dd3-c35001a705b7",
+   "width": 1200,
+   "height": 1600,
+   "generated": "2026-09-30T00:40:51.604Z"
+  },
+  "g-eyestrain": {
+   "file": "assets/generated/g-eyestrain.jpg",
+   "prompt": "a man in a navy sweater at a desk rubbing his tired eyes after long screen work, laptop open in front of him, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:2",
+   "request_id": "ac24d3cc-f10e-471c-b3d6-ad0e9040f61f",
+   "width": 1600,
+   "height": 1067,
+   "generated": "2026-09-30T00:17:42.107Z"
+  },
+  "g-photochromic-group": {
+   "file": "assets/generated/g-photochromic-group.jpg",
+   "prompt": "a group of smiling friends in bright casual clothes (red, yellow, denim, green) outdoors in sunshine, several wearing eyeglasses whose lenses are tinted grey in the sun, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "b823d9b3-e630-4ace-b1aa-8814e45dd23b",
+   "width": 1272,
+   "height": 954,
+   "generated": "2026-09-30T00:41:34.819Z"
+  },
+  "g-banner-calm": {
+   "file": "assets/generated/g-banner-calm.jpg",
+   "prompt": "a relaxed woman in a mustard-yellow sweater sitting on a green sofa by a sunny window, eyes gently closed, calm and refreshed, her whole face in view, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "21:9",
+   "request_id": "eb16cae5-f946-46da-a0af-c3cafbbdcb41",
+   "width": 1600,
+   "height": 686,
+   "generated": "2026-09-30T00:19:06.011Z"
+  },
+  "g-banner-smile": {
+   "file": "assets/generated/g-banner-smile.jpg",
+   "prompt": "a smiling woman wearing tortoiseshell eyeglasses outdoors in warm golden light, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "21:9",
+   "request_id": "af6fcf88-3168-4be0-bdbb-4cfd699a5a09",
+   "width": 1600,
+   "height": 686,
+   "generated": "2026-09-30T00:19:45.404Z"
+  },
+  "g-woman-glasses": {
+   "file": "assets/generated/g-woman-glasses.jpg",
+   "prompt": "a woman in her fifties in a denim jacket and striped top wearing modern eyeglasses sitting on a stone wall outdoors, relaxed, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:2",
+   "request_id": "ddc41848-3f93-408a-a7df-8e334d59f30b",
+   "width": 1600,
+   "height": 1067,
+   "generated": "2026-09-30T00:20:05.201Z"
+  },
+  "g-computer": {
+   "file": "assets/generated/g-computer.jpg",
+   "prompt": "a man in a red plaid flannel shirt working at a desktop computer in a cosy home study with bookshelves, wearing eyeglasses, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "21:9",
+   "request_id": "7801e3a9-c49a-4215-9a15-0fc525528cc7",
+   "width": 1600,
+   "height": 686,
+   "generated": "2026-09-30T00:20:24.836Z"
+  },
+  "g-new-glasses": {
+   "file": "assets/generated/g-new-glasses.jpg",
+   "prompt": "waist-up photo of a young woman with curly hair in a mustard sweater adjusting a new pair of eyeglasses on her face and smiling, standing in a bright living room, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "16:9",
+   "request_id": "8c5d2e52-608b-4e7e-a3bb-fde28f27d5a8",
+   "width": 1600,
+   "height": 900,
+   "generated": "2026-09-30T00:20:44.375Z"
+  },
+  "g-father-son": {
+   "file": "assets/generated/g-father-son.jpg",
+   "prompt": "an older father in a navy quarter-zip sweater and his adult son in a green flannel shirt smiling together in a backyard, the father wearing eyeglasses, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "8f86009f-c2ae-435f-b32a-6087e7ee4bf7",
+   "width": 1224,
+   "height": 918,
+   "generated": "2026-09-30T00:21:04.031Z"
+  },
+  "g-cleaning": {
+   "file": "assets/generated/g-cleaning.jpg",
+   "prompt": "a person wearing yellow rubber gloves and clear protective glasses wiping a bright kitchen counter with a spray bottle, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "16:9",
+   "request_id": "46478b6f-0827-4d3e-8bde-591c3355bfe2",
+   "width": 1600,
+   "height": 900,
+   "generated": "2026-09-30T00:21:23.654Z"
+  },
+  "g-dad-child": {
+   "file": "assets/generated/g-dad-child.jpg",
+   "prompt": "a father in a green t-shirt and jeans wearing eyeglasses carrying his young daughter on his hip and waving, in a sunny park, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "41481519-dd9f-48f2-8984-b0effdd00c6a",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:22:26.155Z"
+  },
+  "g-banner-man": {
+   "file": "assets/generated/g-banner-man.jpg",
+   "prompt": "a smiling young man in a leather jacket in a sunlit field at golden hour, wearing eyeglasses, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "21:9",
+   "request_id": "1713e4ae-14a1-4598-ab1d-74ba126d9a78",
+   "width": 1600,
+   "height": 686,
+   "generated": "2026-09-30T00:22:45.755Z"
+  },
+  "g-banner-teen": {
+   "file": "assets/generated/g-banner-teen.jpg",
+   "prompt": "waist-up photo of a smiling teenage girl in a green hoodie wearing eyeglasses by a bright window, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "21:9",
+   "request_id": "c17ad617-a833-44eb-9c8e-4a362a508cb0",
+   "width": 1600,
+   "height": 686,
+   "generated": "2026-09-30T00:45:13.320Z"
+  },
+  "g-reading-outdoor": {
+   "file": "assets/generated/g-reading-outdoor.jpg",
+   "prompt": "a woman in a teal linen shirt reading a book in a garden chair in bright sun, wearing eyeglasses whose lenses are tinted grey, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "06e420b2-84e6-41aa-baa5-0beeeaee166f",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:23:25.096Z"
+  },
+  "g-banner-family": {
+   "file": "assets/generated/g-banner-family.jpg",
+   "prompt": "three generations of a family smiling together in a park: a grandfather in a blue cardigan and a grandmother in a red blouse, both wearing eyeglasses, their adult daughter and two children in colourful clothes, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "21:9",
+   "request_id": "d70a9270-3ae0-49c8-9bda-0d66e0974599",
+   "width": 1600,
+   "height": 686,
+   "generated": "2026-09-30T00:23:44.803Z"
+  },
+  "g-young-woman": {
+   "file": "assets/generated/g-young-woman.jpg",
+   "prompt": "a young woman with long curly brown hair in a green knit sweater sitting on a park bench, photographed from a few metres away with space above her head, bright clear eyes, bare natural face, soft smile, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:2",
+   "request_id": "63e1712f-755c-458f-9cc7-b52cadcbb7ad",
+   "width": 1600,
+   "height": 1067,
+   "generated": "2026-09-30T00:24:08.771Z"
+  },
+  "g-banner-suit": {
+   "file": "assets/generated/g-banner-suit.jpg",
+   "prompt": "waist-up photo of a laughing bald man with a beard in a navy suit wearing eyeglasses, his whole head in view, in a bright office lobby, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "21:9",
+   "request_id": "71f6cf7a-5508-4d17-9b8f-89ae645b3a05",
+   "width": 1600,
+   "height": 686,
+   "generated": "2026-09-30T00:24:28.462Z"
+  },
+  "g-insurance": {
+   "file": "assets/generated/g-insurance.jpg",
+   "prompt": "a mother in a denim shirt wearing eyeglasses hugging her young daughter in a pink t-shirt at home, both smiling, waist-up, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:2",
+   "request_id": "d20d886f-66d5-41cf-b3de-cf19d49a9261",
+   "width": 1600,
+   "height": 1067,
+   "generated": "2026-09-30T00:42:52.750Z"
+  },
+  "g-seniors": {
+   "file": "assets/generated/g-seniors.jpg",
+   "prompt": "two older women laughing together on a garden bench, one in a red cardigan and one in a yellow floral blouse, one wearing eyeglasses, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:2",
+   "request_id": "ac4cfe09-148c-4dd7-b5fe-0b895a303e40",
+   "width": 1272,
+   "height": 848,
+   "generated": "2026-09-30T00:43:16.713Z"
+  },
+  "g-photochromic-phone": {
+   "file": "assets/generated/g-photochromic-phone.jpg",
+   "prompt": "a woman in a mustard trench coat talking on her phone on a sunny city street, wearing eyeglasses whose lenses are tinted grey, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "5be1f487-b911-4bec-9bf2-cad92f55431a",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:25:31.465Z"
+  },
+  "g-antiglare": {
+   "file": "assets/generated/g-antiglare.jpg",
+   "prompt": "a man in his forties in a green sweater wearing eyeglasses reading a laptop at a desk at night, his lenses perfectly clear with no reflections or glare, warm desk lamp, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:2",
+   "request_id": "1c3845a5-a5b9-4ca6-999a-a63e0dddda16",
+   "width": 1600,
+   "height": 1067,
+   "generated": "2026-09-30T00:25:51.136Z"
+  },
+  "g-uv-sun": {
+   "file": "assets/generated/g-uv-sun.jpg",
+   "prompt": "waist-up photo of a woman in a straw hat and a coral t-shirt wearing clear eyeglasses outdoors in strong midday sunshine in a park, blue sky and green trees behind her, her face and shoulders filling the lower half of the frame, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:2",
+   "request_id": "14109f79-676d-4c2e-99db-b6a5324ba606",
+   "width": 1600,
+   "height": 1067,
+   "generated": "2026-09-30T00:26:10.952Z"
+  },
+  "g-transitions-family": {
+   "file": "assets/generated/g-transitions-family.jpg",
+   "prompt": "a smiling family of four in colourful casual clothes (a red jacket, a green sweater, denim) walking outdoors on a sunny day, the parents wearing eyeglasses whose lenses are tinted grey in the sun, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:2",
+   "request_id": "eed847c2-b05b-4d18-a480-43a3b90ccdba",
+   "width": 1600,
+   "height": 1067,
+   "generated": "2026-09-30T00:26:30.640Z"
+  },
+  "g-cataract-view": {
+   "file": "assets/generated/g-cataract-view.jpg",
+   "prompt": "a sunny garden seen through a window, the left half of the view hazy, faded and cloudy as if through a clouded lens, the right half crisp, bright and clear, no people, candid editorial lifestyle photograph, soft warm natural light, palette of cream, deep forest green, walnut wood and brushed brass, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:2",
+   "request_id": "9f57df93-7f67-4021-974b-59cba85f9922",
+   "width": 1600,
+   "height": 1067,
+   "generated": "2026-09-29T07:36:03.022Z",
+   "note": "shared with design A: five B-style attempts came back framed as a picture-in-picture"
+  },
+  "g-lens-workbench": {
+   "file": "assets/generated/g-lens-workbench.jpg",
+   "prompt": "waist-up photo of a man in his fifties in a blue polo shirt wearing slim lightweight rimless eyeglasses on a city street, looking ahead, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "28ec47f2-3297-4977-9e96-c3ad614ee3f4",
+   "width": 1124,
+   "height": 843,
+   "generated": "2026-09-30T00:39:00.371Z"
+  },
+  "g-contact-case": {
+   "file": "assets/generated/g-contact-case.jpg",
+   "prompt": "a young woman at a bright bathroom vanity holding an open contact lens case, morning routine; she is not wearing glasses or any eyewear, bare face, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "b5776f31-e90f-4827-be36-54da3aa14e21",
+   "width": 1227,
+   "height": 920,
+   "generated": "2026-09-30T00:28:00.005Z"
+  },
+  "g-swim": {
+   "file": "assets/generated/g-swim.jpg",
+   "prompt": "a swimmer wearing swimming goggles resting at the edge of an outdoor pool, turquoise water, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "55da571f-0298-4080-973b-f02a2ff3edce",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:28:24.008Z"
+  },
+  "g-safety": {
+   "file": "assets/generated/g-safety.jpg",
+   "prompt": "a woodworker wearing clear protective safety glasses at a workbench in a sunlit workshop, wood shavings, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "3e56f0fa-be56-4953-ade1-5bb6cb8765cb",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:28:47.969Z"
+  },
+  "g-prism": {
+   "file": "assets/generated/g-prism.jpg",
+   "prompt": "a young man in a green hoodie on a hillside trail at sunrise looking out over a wide valley view, bright clear eyes, bare natural face, smiling, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "287d5453-ca7a-4f9f-9be2-63a9a4aed3df",
+   "width": 1396,
+   "height": 1047,
+   "generated": "2026-09-30T00:29:11.947Z"
+  },
+  "g-clear-cloudy": {
+   "file": "assets/generated/g-clear-cloudy.jpg",
+   "prompt": "waist-up photo of a smiling older woman in a coral blouse wearing eyeglasses in a sunny garden with green hedges, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "f459174a-7aba-4d50-8a4d-e7ba8e6bed1e",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:48:27.729Z"
+  },
+  "g-banner-sun": {
+   "file": "assets/generated/g-banner-sun.jpg",
+   "prompt": "waist-up photo of a smiling woman with auburn hair in a coral top wearing sunglasses sitting on a sunny terrace, centred in the frame, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "21:9",
+   "request_id": "262d64e9-7a3d-4885-9e79-51a75692ed06",
+   "width": 1507,
+   "height": 646,
+   "generated": "2026-09-30T00:50:14.224Z"
+  },
+  "g-card-contacts": {
+   "file": "assets/generated/g-card-contacts.jpg",
+   "prompt": "waist-up photo of a smiling young woman with curly hair in a teal top outdoors, bright clear eyes, bare natural face, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:4",
+   "request_id": "620ae497-866e-413e-97f1-fa45161cb4f1",
+   "width": 717,
+   "height": 956,
+   "generated": "2026-09-30T00:42:13.809Z"
+  },
+  "g-winter-wide": {
+   "file": "assets/generated/g-winter-wide.jpg",
+   "prompt": "a young woman in an orange knit scarf outdoors on a crisp winter day, snow-dusted evergreen trees behind her, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "21:9",
+   "request_id": "effecbee-0d02-457e-8f46-66820ec7b574",
+   "width": 1600,
+   "height": 686,
+   "generated": "2026-09-30T00:32:17.917Z"
+  },
+  "g-banner-eyes": {
+   "file": "assets/generated/g-banner-eyes.jpg",
+   "prompt": "close-up portrait of a smiling woman with bright clear eyes in soft daylight, bare natural face, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "21:9",
+   "request_id": "6c1ab6e1-96aa-4dc0-b70b-f315af38ff20",
+   "width": 1600,
+   "height": 686,
+   "generated": "2026-09-30T00:32:56.574Z"
+  },
+  "g-card-exams": {
+   "file": "assets/generated/g-card-exams.jpg",
+   "prompt": "waist-up photo of a smiling woman in a wide-brimmed straw hat and a rust-coloured top wearing eyeglasses, standing in a garden in warm light, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:4",
+   "request_id": "d60cc70d-4cb2-4861-9ba4-dee0eec1b7ce",
+   "width": 1200,
+   "height": 1600,
+   "generated": "2026-09-30T00:33:16.243Z"
+  },
+  "g-uv": {
+   "file": "assets/generated/g-uv.jpg",
+   "prompt": "a woman in her forties wearing clear eyeglasses sitting by a bright sunny café window, sunlight across her face, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, the person centred in the frame with space around the head, natural relaxed expression, wearing casual coloured everyday clothes (never white or cream clothing, never a robe, gown, coat, scrubs or uniform), full-bleed photograph filling the whole frame edge to edge, no border, no picture-in-picture, not in a clinic or shop, no medical staff, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "5943e0f5-5949-461a-a469-bf4ea8c47b37",
+   "width": 1600,
+   "height": 1200,
+   "generated": "2026-09-30T00:33:37.551Z"
+  },
+  "g-kid-glasses": {
+   "file": "assets/generated/g-kid-glasses.jpg",
+   "prompt": "close-up waist-up photo of a smiling girl about seven in a yellow t-shirt wearing colourful kids' eyeglasses, in a park, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "3:4",
+   "request_id": "b87d60d8-5f70-46ac-bbdb-c195fce7f6cd",
+   "width": 1200,
+   "height": 1600,
+   "generated": "2026-09-30T00:41:54.439Z"
+  },
+  "g-home-wide": {
+   "file": "assets/generated/g-home-wide.jpg",
+   "prompt": "wide photo of a smiling woman in her thirties in a coral linen blouse wearing gold wire-rim eyeglasses, standing on the right side of the frame (not centred), waist-up, in a bright airy room; the left half of the frame is an open, softly out-of-focus plain white and mint-green wall with a tall green plant at the far edge, candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "16:9",
+   "request_id": "d382a3eb-561e-4852-a1e6-f1307856a322",
+   "width": 2048,
+   "height": 1152,
+   "generated": "2026-09-30T01:18:11.208Z"
+  }
+ },
+ "policy": "lifestyle photographs of people in everyday settings; never a clinic, exam room, optical store, medical staff, exam, procedure or treatment result; no text or logos",
+ "model": "higgsfield-ai/soul/standard",
+ "style": "candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos"
+}

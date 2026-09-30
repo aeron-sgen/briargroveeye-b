@@ -1,0 +1,20 @@
+node_modules/
+.DS_Store
+Thumbs.db
+.tmp/
+# the subfolder preview is built in CI by src/tools/preview.mjs (.github/workflows/pages.yml)
+_site/
+# Evidence stays on the build machine and out of git, as it does out of the handoff zip:
+# audit/raw is the untouched live-site capture, audit/rendered the browser-rendered DOM (61 MB),
+# audit/css + capture the style harvest, audit/screens the pixel-diff shots (115 MB).
+# audit/content-blocks and the inventories ARE committed: build.mjs reads them.
+/audit/raw/
+/audit/rendered/
+/audit/css/
+/audit/capture/
+/audit/screens/
+# The downloaded source-image library (47 MB). dist/assets/ carries every image the site uses.
+# Re-download with sr-assets.mjs; responsive variants with src/tools/responsive.mjs.
+/assets/
+# the handoff zip is a build output
+*.zip

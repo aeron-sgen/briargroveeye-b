@@ -1,0 +1,81 @@
+{
+ "title": "Designer Eyeglasses In Uptown Houston | Briargrove Eye Center",
+ "description": "We carry a large variety of top designer frames for both eyeglasses and sunglasses.Optometrist in Uptown Houston.",
+ "canonical": "https://www.briargroveeye.com/eyeglasses/designer-frames/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2026/08/5d737bc0-d400-42b3-b5a1-28671a6e001c-320x427.png",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Designer Frames",
+   "html": "Designer Frames"
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/09/briargrove-optical-banner.jpg",
+   "alt": "collection of eyeglasses on the wall",
+   "w": 0,
+   "h": 0,
+   "shownW": 770
+  },
+  {
+   "t": "p",
+   "html": "We have an extensive selection of eyewear including the latest styles in designer sunglasses and prescription [[a href=\"/eyeglasses/quality-eyeglass-lenses-in-houston-tx/\"]]eyeglasses[[/a]]. Here are just some of the lines we offer:"
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/06/800px-Under_armour_logo.svg.png",
+   "alt": "Under Armor logo",
+   "w": 0,
+   "h": 0,
+   "shownW": 770
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/06/IMG-2481-225x300.jpg",
+   "alt": "Front desk of Briargrove Eye Center",
+   "w": 0,
+   "h": 0,
+   "shownW": 225
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/06/IMG-2482-scaled.jpg",
+   "alt": "Under Armor leaflet",
+   "w": 0,
+   "h": 0,
+   "shownW": 770
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "We’ve got",
+   "html": "[[b]]We’ve got [[/b]]"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Under Armour!",
+   "html": "[[b]]Under Armour![[/b]]"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Our Optician's Picks",
+   "html": "Our Optician's Picks"
+  },
+  {
+   "t": "p",
+   "html": "Is there such a thing as too much choice? Sometimes the selection of eyewear on the market can be overwhelming. We can help! Our Optician's Pick list highlights brands that have been proven winners with both our staff and our customers."
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/designer-frames/mcallister-eyewear/\"]]McAllister Eyewear[[/a]]"
+   ]
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/eyeglasses/designer-frames/"
+}

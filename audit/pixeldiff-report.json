@@ -1,0 +1,647 @@
+{
+  "schema": "site-reforge/pixeldiff-report@1",
+  "generated": "2026-09-28T01:29:31.241Z",
+  "threshold": 0.02,
+  "tolerance": 8,
+  "pairCount": 32,
+  "verdict": "DRIFT",
+  "worst": [
+    {
+      "file": "index.768.png",
+      "ratio": 0.980933,
+      "verdict": "SIZE-MISMATCH"
+    },
+    {
+      "file": "index.1440.png",
+      "ratio": 0.975123,
+      "verdict": "SIZE-MISMATCH"
+    },
+    {
+      "file": "index.1024.png",
+      "ratio": 0.962377,
+      "verdict": "SIZE-MISMATCH"
+    },
+    {
+      "file": "index.390.png",
+      "ratio": 0.958239,
+      "verdict": "SIZE-MISMATCH"
+    },
+    {
+      "file": "visit-us.768.png",
+      "ratio": 0.9364,
+      "verdict": "SIZE-MISMATCH"
+    }
+  ],
+  "unpairedBaseline": [],
+  "unpairedRebuild": [],
+  "pairs": [
+    {
+      "file": "eye-health.1024.png",
+      "slug": "eye-health",
+      "width": 1024,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 1605945,
+      "compared": 5428224,
+      "ratio": 0.295851,
+      "baselineSize": [
+        1024,
+        5301
+      ],
+      "rebuildSize": [
+        1024,
+        8479
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/eye-health.1024.png"
+    },
+    {
+      "file": "eye-health.1440.png",
+      "slug": "eye-health",
+      "width": 1440,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 2216319,
+      "compared": 7414560,
+      "ratio": 0.298914,
+      "baselineSize": [
+        1440,
+        5149
+      ],
+      "rebuildSize": [
+        1440,
+        7736
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/eye-health.1440.png"
+    },
+    {
+      "file": "eye-health.390.png",
+      "slug": "eye-health",
+      "width": 390,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 942695,
+      "compared": 3156270,
+      "ratio": 0.298674,
+      "baselineSize": [
+        390,
+        8093
+      ],
+      "rebuildSize": [
+        390,
+        11950
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/eye-health.390.png"
+    },
+    {
+      "file": "eye-health.768.png",
+      "slug": "eye-health",
+      "width": 768,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 1722240,
+      "compared": 4931328,
+      "ratio": 0.349245,
+      "baselineSize": [
+        768,
+        6421
+      ],
+      "rebuildSize": [
+        768,
+        9264
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/eye-health.768.png"
+    },
+    {
+      "file": "index.1024.png",
+      "slug": "index",
+      "width": 1024,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 7943908,
+      "compared": 8254464,
+      "ratio": 0.962377,
+      "baselineSize": [
+        1024,
+        8061
+      ],
+      "rebuildSize": [
+        1024,
+        11771
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/index.1024.png"
+    },
+    {
+      "file": "index.1440.png",
+      "slug": "index",
+      "width": 1440,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 11227802,
+      "compared": 11514240,
+      "ratio": 0.975123,
+      "baselineSize": [
+        1440,
+        7996
+      ],
+      "rebuildSize": [
+        1440,
+        11232
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/index.1440.png"
+    },
+    {
+      "file": "index.390.png",
+      "slug": "index",
+      "width": 390,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 4615357,
+      "compared": 4816500,
+      "ratio": 0.958239,
+      "baselineSize": [
+        390,
+        12350
+      ],
+      "rebuildSize": [
+        390,
+        17218
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/index.390.png"
+    },
+    {
+      "file": "index.768.png",
+      "slug": "index",
+      "width": 768,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 8723873,
+      "compared": 8893440,
+      "ratio": 0.980933,
+      "baselineSize": [
+        768,
+        11580
+      ],
+      "rebuildSize": [
+        768,
+        15500
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/index.768.png"
+    },
+    {
+      "file": "insurance.1024.png",
+      "slug": "insurance",
+      "width": 1024,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 2065436,
+      "compared": 4154368,
+      "ratio": 0.497172,
+      "baselineSize": [
+        1024,
+        4057
+      ],
+      "rebuildSize": [
+        1024,
+        4725
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/insurance.1024.png"
+    },
+    {
+      "file": "insurance.1440.png",
+      "slug": "insurance",
+      "width": 1440,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 2851767,
+      "compared": 5726880,
+      "ratio": 0.497962,
+      "baselineSize": [
+        1440,
+        3977
+      ],
+      "rebuildSize": [
+        1440,
+        4271
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/insurance.1440.png"
+    },
+    {
+      "file": "insurance.390.png",
+      "slug": "insurance",
+      "width": 390,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 1382868,
+      "compared": 2880150,
+      "ratio": 0.480137,
+      "baselineSize": [
+        390,
+        7385
+      ],
+      "rebuildSize": [
+        390,
+        7447
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/insurance.390.png"
+    },
+    {
+      "file": "insurance.768.png",
+      "slug": "insurance",
+      "width": 768,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 2156323,
+      "compared": 4176384,
+      "ratio": 0.516313,
+      "baselineSize": [
+        768,
+        7174
+      ],
+      "rebuildSize": [
+        768,
+        5438
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/insurance.768.png"
+    },
+    {
+      "file": "products-contact-lenses.1024.png",
+      "slug": "products-contact-lenses",
+      "width": 1024,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 3698462,
+      "compared": 4940800,
+      "ratio": 0.748555,
+      "baselineSize": [
+        1024,
+        4825
+      ],
+      "rebuildSize": [
+        1024,
+        8464
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/products-contact-lenses.1024.png"
+    },
+    {
+      "file": "products-contact-lenses.1440.png",
+      "slug": "products-contact-lenses",
+      "width": 1440,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 4442319,
+      "compared": 6448320,
+      "ratio": 0.688911,
+      "baselineSize": [
+        1440,
+        4478
+      ],
+      "rebuildSize": [
+        1440,
+        7818
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/products-contact-lenses.1440.png"
+    },
+    {
+      "file": "products-contact-lenses.390.png",
+      "slug": "products-contact-lenses",
+      "width": 390,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 2786299,
+      "compared": 3834480,
+      "ratio": 0.726643,
+      "baselineSize": [
+        390,
+        9832
+      ],
+      "rebuildSize": [
+        390,
+        10377
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/products-contact-lenses.390.png"
+    },
+    {
+      "file": "products-contact-lenses.768.png",
+      "slug": "products-contact-lenses",
+      "width": 768,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 5645073,
+      "compared": 7046400,
+      "ratio": 0.801129,
+      "baselineSize": [
+        768,
+        11590
+      ],
+      "rebuildSize": [
+        768,
+        9175
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/products-contact-lenses.768.png"
+    },
+    {
+      "file": "products.1024.png",
+      "slug": "products",
+      "width": 1024,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 2945269,
+      "compared": 3646464,
+      "ratio": 0.807705,
+      "baselineSize": [
+        1024,
+        3561
+      ],
+      "rebuildSize": [
+        1024,
+        4280
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/products.1024.png"
+    },
+    {
+      "file": "products.1440.png",
+      "slug": "products",
+      "width": 1440,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 3132542,
+      "compared": 4492800,
+      "ratio": 0.697236,
+      "baselineSize": [
+        1440,
+        3120
+      ],
+      "rebuildSize": [
+        1440,
+        3810
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/products.1440.png"
+    },
+    {
+      "file": "products.390.png",
+      "slug": "products",
+      "width": 390,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 1867958,
+      "compared": 2717130,
+      "ratio": 0.687475,
+      "baselineSize": [
+        390,
+        7187
+      ],
+      "rebuildSize": [
+        390,
+        6967
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/products.390.png"
+    },
+    {
+      "file": "products.768.png",
+      "slug": "products",
+      "width": 768,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 3125035,
+      "compared": 4032768,
+      "ratio": 0.774911,
+      "baselineSize": [
+        768,
+        9544
+      ],
+      "rebuildSize": [
+        768,
+        5251
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/products.768.png"
+    },
+    {
+      "file": "services-dry-eye-treatment.1024.png",
+      "slug": "services-dry-eye-treatment",
+      "width": 1024,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 1220736,
+      "compared": 2918400,
+      "ratio": 0.418289,
+      "baselineSize": [
+        1024,
+        2850
+      ],
+      "rebuildSize": [
+        1024,
+        5408
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/services-dry-eye-treatment.1024.png"
+    },
+    {
+      "file": "services-dry-eye-treatment.1440.png",
+      "slug": "services-dry-eye-treatment",
+      "width": 1440,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 1641882,
+      "compared": 3942720,
+      "ratio": 0.416434,
+      "baselineSize": [
+        1440,
+        2738
+      ],
+      "rebuildSize": [
+        1440,
+        4644
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/services-dry-eye-treatment.1440.png"
+    },
+    {
+      "file": "services-dry-eye-treatment.390.png",
+      "slug": "services-dry-eye-treatment",
+      "width": 390,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 746708,
+      "compared": 2069730,
+      "ratio": 0.360776,
+      "baselineSize": [
+        390,
+        5307
+      ],
+      "rebuildSize": [
+        390,
+        9334
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/services-dry-eye-treatment.390.png"
+    },
+    {
+      "file": "services-dry-eye-treatment.768.png",
+      "slug": "services-dry-eye-treatment",
+      "width": 768,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 1389556,
+      "compared": 3103488,
+      "ratio": 0.44774,
+      "baselineSize": [
+        768,
+        4041
+      ],
+      "rebuildSize": [
+        768,
+        6672
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/services-dry-eye-treatment.768.png"
+    },
+    {
+      "file": "services.1024.png",
+      "slug": "services",
+      "width": 1024,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 2758165,
+      "compared": 3447808,
+      "ratio": 0.799976,
+      "baselineSize": [
+        1024,
+        3367
+      ],
+      "rebuildSize": [
+        1024,
+        4053
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/services.1024.png"
+    },
+    {
+      "file": "services.1440.png",
+      "slug": "services",
+      "width": 1440,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 2818599,
+      "compared": 4154400,
+      "ratio": 0.678461,
+      "baselineSize": [
+        1440,
+        2885
+      ],
+      "rebuildSize": [
+        1440,
+        3560
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/services.1440.png"
+    },
+    {
+      "file": "services.390.png",
+      "slug": "services",
+      "width": 390,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 1832540,
+      "compared": 2436720,
+      "ratio": 0.752052,
+      "baselineSize": [
+        390,
+        6248
+      ],
+      "rebuildSize": [
+        390,
+        6929
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/services.390.png"
+    },
+    {
+      "file": "services.768.png",
+      "slug": "services",
+      "width": 768,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 3079599,
+      "compared": 3976704,
+      "ratio": 0.77441,
+      "baselineSize": [
+        768,
+        7663
+      ],
+      "rebuildSize": [
+        768,
+        5178
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/services.768.png"
+    },
+    {
+      "file": "visit-us.1024.png",
+      "slug": "visit-us",
+      "width": 1024,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 2511031,
+      "compared": 2758656,
+      "ratio": 0.910237,
+      "baselineSize": [
+        1024,
+        2694
+      ],
+      "rebuildSize": [
+        1024,
+        5492
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/visit-us.1024.png"
+    },
+    {
+      "file": "visit-us.1440.png",
+      "slug": "visit-us",
+      "width": 1440,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 3470499,
+      "compared": 3980160,
+      "ratio": 0.87195,
+      "baselineSize": [
+        1440,
+        2764
+      ],
+      "rebuildSize": [
+        1440,
+        5803
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/visit-us.1440.png"
+    },
+    {
+      "file": "visit-us.390.png",
+      "slug": "visit-us",
+      "width": 390,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 1909345,
+      "compared": 2044770,
+      "ratio": 0.93377,
+      "baselineSize": [
+        390,
+        5243
+      ],
+      "rebuildSize": [
+        390,
+        7109
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/visit-us.390.png"
+    },
+    {
+      "file": "visit-us.768.png",
+      "slug": "visit-us",
+      "width": 768,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 3521702,
+      "compared": 3760896,
+      "ratio": 0.9364,
+      "baselineSize": [
+        768,
+        4897
+      ],
+      "rebuildSize": [
+        768,
+        6700
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/visit-us.768.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+ "title": "Dr. Muldoon is a super nice guy.",
+ "description": "",
+ "canonical": "https://www.briargroveeye.com/testimonial/dr-muldoon-is-a-super-nice-guy/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Dr. Muldoon is a super nice guy.",
+   "html": "Dr. Muldoon is a super nice guy."
+  },
+  {
+   "t": "p",
+   "html": "Reminds me of one of my cool professors from UH."
+  },
+  {
+   "t": "p",
+   "html": "- Cogs - Google Review April 2018",
+   "loose": true
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/testimonial/dr-muldoon-is-a-super-nice-guy/"
+}

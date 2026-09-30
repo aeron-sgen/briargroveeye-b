@@ -1,0 +1,33 @@
+{
+ "title": "Eye Doctor Uptown Houston | Eye Conditions",
+ "description": "Our Uptown Houston eye care team treats common eye conditions from dry eyes to corneal transplants. Book a consultation at Briargrove Eye Center today.",
+ "canonical": "https://www.briargroveeye.com/eye-care-services/eye-conditions/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2022/05/Dry-Eye-Africam-American-Man_Thumbnail-1.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Eye Condition Treatment",
+   "html": "Eye Condition Treatment"
+  },
+  {
+   "t": "p",
+   "html": "Eye problems can range from mild to severe; some are chronic, while others may resolve on their own and never return. [[a href=\"/eye-care-services/eye-exams/\"]]Regular eye checkups[[/a]] are essential for maintaining healthy vision and detecting potential issues early. The articles below provide a basic understanding of common eye conditions and their implications. The cardinal rule is simple: if your eyes don't look good, feel good, or see well, don't wait—visit our Uptown Houston eye doctor at [[a href=\"/hours-location/\"]]Briargrove Eye Center[[/a]]. Whether you need a routine exam or prompt [[a href=\"/eye-care-services/emergency-eye-care-services/\"]]emergency eye care[[/a]], our team is here to help protect your vision."
+  },
+  {
+   "t": "p",
+   "html": "The following is a short list of common eye conditions we treat, such as [[a href=\"/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/\"]]astigmatism[[/a]], dry eye syndrome and presbyopia. For information about cataracts, glaucoma, macular degeneration and diabetic retinopathy please see [[a href=\"/eye-care-services/management-of-ocular-diseases/\"]]Eye Disease Management[[/a]]."
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[a href=\"https://www.briargroveeye.com/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/\"]]Astigmatism[[/a]] Astigmatism is a very common eye condition that's easily corrected with eyeglasses or contact lenses and on some occasions, surgery.",
+    "[[a href=\"https://www.briargroveeye.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/\"]]Dry Eyes[[/a]] Dry eye syndrome (DES) is a chronic condition that develops when your eyes do not produce and maintain enough tears to keep the eye’s surface lubricated.",
+    "[[a href=\"https://www.briargroveeye.com/eye-care-services/eye-conditions/presbyopia-diagnosis-and-treatment/\"]]Presbyopia Treatment[[/a]] As we reach middle age, particularly after age 40, it is common to start to experience difficulty with reading and performing other tasks that require near vision. This is because with age, the lens of our eye becomes increasingly inflexible, making it harder to focus on close objects. This condition is called presbyopia and eventually it happens to some extent, to everyone as they age."
+   ]
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/eye-care-services/eye-conditions/"
+}

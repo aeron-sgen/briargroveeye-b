@@ -1,0 +1,71 @@
+{
+  "schema": "site-reforge/scripts@1",
+  "generated": "2026-09-27T23:47:44.002Z",
+  "note": "Same-origin <script src> only. A third-party script is an outbound dependency of the site, not an asset of it; vendoring one would change what the page does.",
+  "discovered": [
+    "https://www.briargroveeye.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://www.briargroveeye.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.2",
+    "https://www.briargroveeye.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=2.9.2",
+    "https://www.briargroveeye.com/wp-content/themes/_default/js/public.js?v=2025-02-11",
+    "https://www.briargroveeye.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+    "https://www.briargroveeye.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3"
+  ],
+  "saved": [
+    {
+      "url": "https://www.briargroveeye.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "savedAs": "ada4fa1d-jquery.min.js",
+      "bytes": 87553
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.2",
+      "savedAs": "d5f8ee01-jquery.json.min.js",
+      "bytes": 1823
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=2.9.2",
+      "savedAs": "2380d2e3-jquery.maskedinput.min.js",
+      "bytes": 4159
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-content/themes/_default/js/public.js?v=2025-02-11",
+      "savedAs": "990376ee-public.js",
+      "bytes": 270312
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+      "savedAs": "e5a72920-core.min.js",
+      "bytes": 21464
+    },
+    {
+      "url": "https://www.briargroveeye.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3",
+      "savedAs": "a29dbf0b-datepicker.min.js",
+      "bytes": 36748
+    }
+  ],
+  "map": {
+    "https://www.briargroveeye.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1": "/scripts/ada4fa1d-jquery.min.js",
+    "//www.briargroveeye.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1": "/scripts/ada4fa1d-jquery.min.js",
+    "/wp-includes/js/jquery/jquery.min.js?ver=3.7.1": "/scripts/ada4fa1d-jquery.min.js",
+    "/wp-includes/js/jquery/jquery.min.js": "/scripts/ada4fa1d-jquery.min.js",
+    "https://www.briargroveeye.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.2": "/scripts/d5f8ee01-jquery.json.min.js",
+    "//www.briargroveeye.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.2": "/scripts/d5f8ee01-jquery.json.min.js",
+    "/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.2": "/scripts/d5f8ee01-jquery.json.min.js",
+    "/wp-content/plugins/gravityforms/js/jquery.json.min.js": "/scripts/d5f8ee01-jquery.json.min.js",
+    "https://www.briargroveeye.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=2.9.2": "/scripts/2380d2e3-jquery.maskedinput.min.js",
+    "//www.briargroveeye.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=2.9.2": "/scripts/2380d2e3-jquery.maskedinput.min.js",
+    "/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=2.9.2": "/scripts/2380d2e3-jquery.maskedinput.min.js",
+    "/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js": "/scripts/2380d2e3-jquery.maskedinput.min.js",
+    "https://www.briargroveeye.com/wp-content/themes/_default/js/public.js?v=2025-02-11": "/scripts/990376ee-public.js",
+    "//www.briargroveeye.com/wp-content/themes/_default/js/public.js?v=2025-02-11": "/scripts/990376ee-public.js",
+    "/wp-content/themes/_default/js/public.js?v=2025-02-11": "/scripts/990376ee-public.js",
+    "/wp-content/themes/_default/js/public.js": "/scripts/990376ee-public.js",
+    "https://www.briargroveeye.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3": "/scripts/e5a72920-core.min.js",
+    "//www.briargroveeye.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3": "/scripts/e5a72920-core.min.js",
+    "/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3": "/scripts/e5a72920-core.min.js",
+    "/wp-includes/js/jquery/ui/core.min.js": "/scripts/e5a72920-core.min.js",
+    "https://www.briargroveeye.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3": "/scripts/a29dbf0b-datepicker.min.js",
+    "//www.briargroveeye.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3": "/scripts/a29dbf0b-datepicker.min.js",
+    "/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3": "/scripts/a29dbf0b-datepicker.min.js",
+    "/wp-includes/js/jquery/ui/datepicker.min.js": "/scripts/a29dbf0b-datepicker.min.js"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "schema": "site-reforge/failures@1",
+  "items": [
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/1280x853/xSport_laneswim_underwater-bkground_sm-300x200.jpg.pagespeed.ic.AtPTo4G2CZ.jpg",
+      "reason": "status 404",
+      "at": "2026-09-27T23:48:02.363Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.756Z",
+      "acceptedWhy": "The source itself serves HTTP 404 for this image (it is broken on the live site); nothing to carry over."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/1280x853/xAfrican-Woman-Trying-on-Glasses-1280x853-300x200.jpg.pagespeed.ic.wLXI3xJUkn.jpg",
+      "reason": "status 404",
+      "at": "2026-09-27T23:48:02.909Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The source itself serves HTTP 404 for this image (it is broken on the live site); nothing to carry over."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2023/02/man-using-computer-having-dre-eyes-640x427.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:48:54.979Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2023/03/SGE-Blog-%E2%80%93-Del-Mar-640x427.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:48:55.409Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2023/04/man-washing-face-640x427.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:48:56.319Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/05/Dr-Muldoon-and-exam-room.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:48:56.975Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/05/Health-And-Beauty-Beautiful-Contact-Lenses.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:48:57.389Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/05/VSP-Providers-1.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:48:57.844Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/05/Woman-Glasses-Blue-Sky.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:48:58.199Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/05/child-glasses.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:48:58.654Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/05/pexels-ali-pazani.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:48:59.068Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/07/pexels-olly-3755494-scaled.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:48:59.853Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/08/pexels-glassesshop-gs-1317359316-27624600-1.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:49:00.314Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/09/pexels-karolina-grabowska-5201997-scaled.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:49:00.671Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2025/11/pexels-kseniachernaya-5715882-640x427.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:49:01.115Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2026/01/mutifocal-lens-640x427.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:49:01.535Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2026/06/happy-could-wearing-eye-glasses-1024x853.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:49:01.919Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2026/06/woman-undergoing-eye-exam.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:49:02.315Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2026/08/IMG_1803-rotated.jpeg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:49:06.962Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2026/08/woman-putting-a-eye-solution-in-her-eyes.jpg",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:49:07.778Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/454/2016/10/dailies-total-one-boxes-resized-600-300x300.png",
+      "reason": "status 404",
+      "at": "2026-09-27T23:49:11.465Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The source itself serves HTTP 404 for this image (it is broken on the live site); nothing to carry over."
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.eyecarepro.net/sites/all/themes/ECP/images/review-quote.png",
+      "reason": "refused: HTTP 403",
+      "at": "2026-09-27T23:49:32.256Z",
+      "accepted": true,
+      "acceptedAt": "2026-09-28T00:36:36.757Z",
+      "acceptedWhy": "The image CDN refused with HTTP 403; the skill never retries past a 403. Where the image sat in a page, the build records it in audit/build-report.json imgDropped and the page falls back to its section art (existing-site photography). Recoverable only by the owner supplying the files."
+    }
+  ]
+}

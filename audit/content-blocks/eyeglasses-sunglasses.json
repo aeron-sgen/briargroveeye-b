@@ -1,0 +1,43 @@
+{
+ "title": "Sunglasses | Eye Doctor in Uptown Houston",
+ "description": "Whether or not you require vision correction, sunglasses can add an element of comfort and enhanced vision, while helping you look great.Optometrist in Uptown Houston.",
+ "canonical": "https://www.briargroveeye.com/eyeglasses/sunglasses/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2022/05/ray-ban-clubmaster-metal-427x427px-e1653212128128.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Sunglasses",
+   "html": "Sunglasses"
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2022/05/briargrove-doc-sunglasses.jpeg",
+   "alt": "briargrove doc sunglasses",
+   "w": 0,
+   "h": 0,
+   "shownW": 770
+  },
+  {
+   "t": "p",
+   "html": "Whether or not you require vision correction, [[a href=\"https://www.briargroveeye.com/eyeglasses/sunglasses/prescription-sunglasses/\"]]sunglasses[[/a]] can add an element of comfort and enhanced performance to your activities, while helping you look great."
+  },
+  {
+   "t": "p",
+   "html": "[[a href=\"/eyeglasses-contacts/designer-frames\"]]Browse some of the designer eyewear brands we carry![[/a]]"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/sunglasses/nonprescription-sunglasses/\"]]Nonprescription Sunglasses[[/a]] Think fashion and function when choosing the right shades for you.",
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/sunglasses/prescription-sunglasses/\"]]Prescription Sunglasses[[/a]] Prescription sunglasses will allow you to enjoy (and see!) your time outdoors, hassle-free.",
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/sunglasses/sunglasses-for-kids/\"]]Sunglasses for Kids[[/a]] Because children spend so much time outdoors in direct sunlight, they need sun protection even more than adults.",
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/sunglasses/prescription-sunglass-treatments/\"]]Prescription Sunglass Treatments[[/a]] Pamper your eyes while in the sun, driving or playing at the beach—all the while delivering the vision correction you need in a second pair of glasses.",
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/sunglasses/performance-and-sport-sunglasses/\"]]Performance and Sport Sunglasses[[/a]] Activity-specific lenses can enhance whatever activities you enjoy."
+   ]
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/eyeglasses/sunglasses/"
+}

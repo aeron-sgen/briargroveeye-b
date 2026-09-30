@@ -1,0 +1,104 @@
+{
+ "title": "Eyeglasses in Uptown Houston | Briargrove Eye Center",
+ "description": "The optical staff at Briargrove Eye Center will help you find the best fit for your specific needs and explain how different lenses and frames will impact your vision.",
+ "canonical": "https://www.briargroveeye.com/eyeglasses/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "PLENTY OF CHOICE-EYEGLASSES NEAR ME",
+   "html": "PLENTY OF CHOICE-EYEGLASSES Near Me"
+  },
+  {
+   "t": "p",
+   "html": "Contemporary eyewear provides you with much more than sharp vision. Following your [[a href=\"/eye-care-services/eye-exams/\"]]general eye exam[[/a]], our Uptown Houston optical carries the latest European and American designer eyewear collections in a variety of styles, colors, and materials, including titanium, stainless steel, and plastic. Our optical staff looks forward to helping you select the best eyewear for your vision prescription, lifestyle, and unique fashion taste, ensuring you enjoy clear, comfortable vision every day."
+  },
+  {
+   "t": "btn",
+   "href": "https://www.zocdoc.com/practice/briargrove-eye-center-15824",
+   "text": "SCHEDULE AN APPOINTMENT"
+  },
+  {
+   "t": "p",
+   "html": "[[a href=\"/\"]]Home[[/a]] » Eyeglasses",
+   "loose": true
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Quality Lenses and Eyeglasses In Uptown Houston, Texas",
+   "html": "[[b]]Quality Lenses and Eyeglasses In Uptown Houston, Texas[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "Find the best fit for your specific needs and we can explain how different lenses and frames will impact your vision. We will help you narrow down your choices so you can find the look, fit and functionality you want from your eyewear."
+  },
+  {
+   "t": "p",
+   "html": "New clients and all our current patients are welcome to visit our optical at [[a href=\"/hours-location/\"]]Briargrove Eye Center[[/a]] with their current prescription – no appointment necessary."
+  },
+  {
+   "t": "p",
+   "html": "[[b]]Proudly serving Texas residents for more than 18 years.[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "Schedule An Appointment",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Patient History Form",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Email Us",
+   "loose": true
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Our Eyeglass Services:",
+   "html": "[[b]]Our Eyeglass Services:[[/b]]"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/designer-frames/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eyeglasses/designer-frames/\"]]Designer Frames[[/a]] We have an extensive selection of eyewear including the latest styles in designer sunglasses and prescription eyeglasses.",
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/quality-eyeglass-lenses-in-houston-tx/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eyeglasses/quality-eyeglass-lenses-in-houston-tx/\"]]Quality Eyeglass Lenses in Houston, TX[[/a]] Providing a quality selection of top of the line premium lenses: Zeiss",
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/eyeglass-basics/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eyeglasses/eyeglass-basics/\"]]Eyeglass Basics[[/a]] Eyeglasses are more popular today than ever, despite the availability of contact lenses and vision correction surgery.",
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/sunglasses/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eyeglasses/sunglasses/\"]]Sunglasses[[/a]] Whether or not you require vision correction, sunglasses can add an element of comfort and enhanced performance to your activities, while helping you look great.",
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/prescription-eyeglasses/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eyeglasses/prescription-eyeglasses/\"]]Prescription Eyeglasses[[/a]] Get tips on caring for your lenses and frames and learn about the benefits of bifocals, progressives, high index lenses and prescription sunglasses.",
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/lens-treatments/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eyeglasses/lens-treatments/\"]]Lens Treatments[[/a]] Today’s eyeglass lens treatments make a real difference in what you see, and what you don’t see: UV protection, scratch resistant, anti reflective...",
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/transitions-lenses/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eyeglasses/transitions-lenses/\"]]Transitions® Lenses[[/a]] Transitions® Lenses Optical, Inc. has developed the world's most advanced photochromic lens technology—the ability of a lens to darken in the presence of invisible UV light.",
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/kids-optical/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eyeglasses/kids-optical/\"]]Kid's Optical[[/a]] Help your child choose eyewear that suits their lifestyle. The right frame and lens will help them in school, work and at play.",
+    "[[a href=\"https://www.briargroveeye.com/eyeglasses/eyeglass-guide/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/eyeglasses/eyeglass-guide/\"]]EyeGlass Guide[[/a]] Visit our interactive on-line tool and we'll guide you through a series of questions about you, your lifestyle and needs to choose the glasses that are right for you!"
+   ]
+  }
+ ],
+ "forms": [
+  {
+   "id": "",
+   "intro": [],
+   "sections": [],
+   "fields": [
+    {
+     "section": "",
+     "group": "",
+     "sub": "",
+     "desc": "",
+     "choice": "",
+     "tag": "input",
+     "type": "search",
+     "name": "s",
+     "label": "Search:",
+     "required": false
+    }
+   ]
+  }
+ ],
+ "url": "https://www.briargroveeye.com/eyeglasses/"
+}

@@ -1,0 +1,37 @@
+{
+ "title": "Contact Lens Brands We Offer To Tanglewood & The Galleria Patients",
+ "description": "At Briargrove Eye Center we carry all of the top contact lens brands in Greater Houston area! Patients from Uptown Houston & Westside are welcome!",
+ "canonical": "https://www.briargroveeye.com/contact-lenses/our-featured-brands/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2022/05/Contact-Lens-Info-Display-1280x480-640x240-1.jpeg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Our Featured Brands",
+   "html": "Our Featured Brands"
+  },
+  {
+   "t": "p",
+   "html": "Learn more about the [[a href=\"/contact-lenses/disposable-contacts/\"]]contact lens[[/a]] lines that we carry."
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[a href=\"https://www.acuvue.com/\"]][[/a]]",
+    "[[a href=\"http://www.bausch.com/our-products/contact-lenses\"]][[/a]]",
+    "[[a href=\"https://coopervision.com/contact-lenses\"]][[/a]]"
+   ]
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2021/11/IMG-3901-scaled.jpg",
+   "alt": "IMG 3901",
+   "w": 0,
+   "h": 0,
+   "shownW": 770
+  }
+ ],
+ "forms": [],
+ "url": "https://www.briargroveeye.com/contact-lenses/our-featured-brands/"
+}

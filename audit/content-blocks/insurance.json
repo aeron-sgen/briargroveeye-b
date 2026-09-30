@@ -1,0 +1,153 @@
+{
+ "title": "Vision Insurance Accepted in Houston | Briargrove Eye Center",
+ "description": "The cost of routine eye exams & prescription eyewear can be of real concern, insurance accepted at our Uptown Houston eye care center can lower these annual expenses.",
+ "canonical": "https://www.briargroveeye.com/insurance/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "p",
+   "html": "Because we provide both medical and routine eye care, we accept a number of insurance plans to help cover the cost depending on your individual needs."
+  },
+  {
+   "t": "btn",
+   "href": "https://www.zocdoc.com/practice/briargrove-eye-center-15824",
+   "text": "SCHEDULE AN APPOINTMENT"
+  },
+  {
+   "t": "p",
+   "html": "[[a href=\"/\"]]Home[[/a]] » Insurance",
+   "loose": true
+  },
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Our Clinic in Uptown Houston Accepts The Following:",
+   "html": "[[b]]Our Clinic in Uptown Houston Accepts The Following:[[/b]]"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Vision Plans We Accept",
+   "html": "[[b]]Vision Plans We Accept[[/b]]"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "Blue Cross Blue Shield",
+    "United Health Care",
+    "Cigna",
+    "Aetna",
+    "Medicare",
+    "Tricare",
+    "PHCS",
+    "Avesis",
+    "Eye Med",
+    "Eyemed Vision Care",
+    "Davis Vision",
+    "Spectera",
+    "Superior Vision",
+    "VSP",
+    "Vision Care Plan"
+   ]
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Medical Plans We Accept",
+   "html": "[[b]]Medical Plans We Accept[[/b]]"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "Blue Cross Blue Shield",
+    "United Health Care",
+    "Cigna",
+    "Aetna",
+    "Humana",
+    "Medicare",
+    "Tricare",
+    "PHCS"
+   ]
+  },
+  {
+   "t": "p",
+   "html": "Schedule An Appointment",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Patient History Form",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Email Us",
+   "loose": true
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Vision & Medical Insurance – Best Eye Exam & Family Eye Care in Uptown Houston, Texas",
+   "html": "[[b]]Vision & Medical Insurance – Best Eye Exam & Family Eye Care in Uptown Houston, Texas [[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "Having a vision plan and choosing an optometrist who participates in your plan in Uptown Houston, Texas will help you receive the most insurance benefits to pay the least out of pocket for your eye care. At Briargrove Eye Center our eye doctor has excellent credentials and is experienced in family eye care. Our patients are satisfied with their eye exams."
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Our Eye Care Staff Is Here To Help You With Your Insurance",
+   "html": "[[b]]Our Eye Care Staff Is Here To Help You With Your Insurance[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "Briargrove Eye Center in [[a href=\"https://www.briargroveeye.com/hours-location/\"]]Uptown Houston, Texas[[/a]] provides eye exams and contact lens eye exams in [[a href=\"/hours-location/\"]]Uptown Houston, Texas. Briargrove Eye Center[[/a]] accepts most vision insurance plans. We provide expert eye care services. Our office is open on Saturdays from 8:00 AM to 2:00 PM."
+  },
+  {
+   "t": "p",
+   "html": "If you do not see your plan listed here, please give us a call and we would be happy to assist you. Our staff is also always available to answer any questions regarding your benefits."
+  },
+  {
+   "t": "p",
+   "html": "The cost of [[a href=\"/eye-care-services/eye-exams/\"]]routine eye exams[[/a]] and prescription eyewear can be of real concern, especially for large families. In many cases, vision insurance can lower these annual expenses."
+  },
+  {
+   "t": "p",
+   "html": "A vision insurance policy is not the same as medical insurance. Regular medical health insurance plans protect you against financial losses due to unexpected eye injuries or disease. Vision insurance, on the other hand, is a wellness benefit designed to provide routine eye care, prescription eyewear and other vision-related services at a reduced cost."
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[a href=\"https://www.briargroveeye.com/insurance/faqs-of-vision-insurance-plans/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/insurance/faqs-of-vision-insurance-plans/\"]]FAQs of Vision Insurance Plans[[/a]] Vision insurance is designed to provide routine eye care, prescription eyewear and other vision-related services at a reduced cost. Learn about types of plans, coverage and payment options.",
+    "[[a href=\"https://www.briargroveeye.com/insurance/whats-in-your-vision-insurance-plan/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/insurance/whats-in-your-vision-insurance-plan/\"]]What's in Your Vision Insurance Plan[[/a]] Make the most of your vision insurance plan by understanding your particular vision coverage.",
+    "[[a href=\"https://www.briargroveeye.com/insurance/carecredit/\"]][[/a]] [[a href=\"https://www.briargroveeye.com/insurance/carecredit/\"]]CareCredit[[/a]] As a service to our patients, we are pleased to offer the CareCredit card, the nation's leading patient payment program. CareCredit lets you begin your procedure immediately—then pay for it over time with low monthly payments that are easy to fit into your monthly budget."
+   ]
+  }
+ ],
+ "forms": [
+  {
+   "id": "",
+   "intro": [],
+   "sections": [],
+   "fields": [
+    {
+     "section": "",
+     "group": "",
+     "sub": "",
+     "desc": "",
+     "choice": "",
+     "tag": "input",
+     "type": "search",
+     "name": "s",
+     "label": "Search:",
+     "required": false
+    }
+   ]
+  }
+ ],
+ "url": "https://www.briargroveeye.com/insurance/"
+}

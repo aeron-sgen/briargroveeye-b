@@ -1,0 +1,111 @@
+{
+ "title": "Our Eye Doctor in Uptown Houston",
+ "description": "Our Uptown Houston optometrist, Dr. Muldoon, takes the time to explain your eye exam, describe your options and listen to your eye care needs.",
+ "canonical": "https://www.briargroveeye.com/our-eye-doctors/",
+ "ogImage": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/logo2.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "OUR UPTOWN HOUSTON OPTOMETRIST",
+   "html": "OUR Uptown Houston OPTOMETRIST"
+  },
+  {
+   "t": "p",
+   "html": "The eye doctor and staff at [[a href=\"/hours-location/\"]]Briargrove Eye Center[[/a]] have been providing Uptown Houston with quality eye care for many years. Our friendly staff is dedicated to providing this care in an atmosphere of compassion and respect. Our goal is to remain at the forefront of eye care through continuing education utilizing the latest state-of-the-art equipment, technology, contact lens, and eyewear products."
+  },
+  {
+   "t": "btn",
+   "href": "https://www.zocdoc.com/practice/briargrove-eye-center-15824",
+   "text": "SCHEDULE AN APPOINTMENT"
+  },
+  {
+   "t": "p",
+   "html": "[[a href=\"/\"]]Home[[/a]] » Our Eye Doctor | Optometrist In Uptown Houston",
+   "loose": true
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Meet Our Uptown Houston Eye Doctor",
+   "html": "Meet Our Uptown Houston Eye Doctor"
+  },
+  {
+   "t": "p",
+   "html": "Our eye doctors take the time to explain the results of [[a href=\"/eye-care-services/eye-exams/\"]]your eye exam[[/a]], describe your options and listen to your eye care needs. Because maintaining good eye health is an ongoing partnership, we encourage you to ask questions and share your health information, which could be vital to monitoring, diagnosing, and treating potential vision problems."
+  },
+  {
+   "t": "p",
+   "html": "Schedule An Appointment",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Patient History Form",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Email Us",
+   "loose": true
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Dr. Shawn Muldoon",
+   "html": "[[a href=\"https://www.briargroveeye.com/team/dr-shawn-muldoon/\"]]Dr. Shawn Muldoon[[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "Dr. Shawn Muldoon graduated from the University of Houston College of Optometry and now serves as an adjunct assistant professor at the Cornea and Contact Lens Service within the college. Due to his professorship within the university and his membership in the American Optometric Association, the Texas Optometric Association, and the Harris County Optometric Society, Dr. Muldoon is committed to remaining current on state of the art technology and procedures. Dr. Muldoon performs a number of different services, including eye examinations, optical frames dispensary, and dry eye/tear tests. He specializes in hard to fit contact lenses, ocular disease, laser vision correction, and primary care optometry. With a caring and friendly demeanor, Dr. Muldoon knows how to put patients at ease and make them feel well informed about their treatment. When he is not working, Dr. Muldoon enjoys cycling, soccer, and spending time with his family."
+  },
+  {
+   "t": "img",
+   "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2426/2018/07/Shawn-Muldoon-OD.jpg",
+   "alt": "Dr. Shawn Muldoon",
+   "w": 0,
+   "h": 0,
+   "shownW": 24
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Briargrove Eye Center in Uptown Houston",
+   "html": "Briargrove Eye Center in Uptown Houston"
+  },
+  {
+   "t": "p",
+   "html": "Briargrove Eye Center provides innovative eye care services to patients from in and around Uptown Houston. We offer comprehensive eye health assessments, ocular disease diagnosis and treatment, contact lens evaluation and fitting, and prescriptions."
+  },
+  {
+   "t": "p",
+   "html": "The team at Briargrove Eye Center aims to provide the best possible solution for the patient's eye health and vision needs. By utilizing the latest technologies and evidence-based treatments, we can ensure that each patient maintains optimal eye health."
+  },
+  {
+   "t": "p",
+   "html": "We welcome new patients and accept most major forms of insurance."
+  }
+ ],
+ "forms": [
+  {
+   "id": "",
+   "intro": [],
+   "sections": [],
+   "fields": [
+    {
+     "section": "",
+     "group": "",
+     "sub": "",
+     "desc": "",
+     "choice": "",
+     "tag": "input",
+     "type": "search",
+     "name": "s",
+     "label": "Search:",
+     "required": false
+    }
+   ]
+  }
+ ],
+ "url": "https://www.briargroveeye.com/our-eye-doctors/"
+}

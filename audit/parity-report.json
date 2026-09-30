@@ -1,0 +1,3926 @@
+{
+  "schema": "site-reforge/parity-report@1",
+  "generated": "2026-09-30T03:00:07.518Z",
+  "sourcePages": 165,
+  "rebuiltFiles": 119,
+  "mappedPages": 117,
+  "missingPages": [
+    "https://www.briargroveeye.com/author/briargroveeyecenter",
+    "https://www.briargroveeye.com/category/news",
+    "https://www.briargroveeye.com/category/our-doctors",
+    "https://www.briargroveeye.com/category/our-staff",
+    "https://www.briargroveeye.com/category/testimonial",
+    "https://www.briargroveeye.com/category/uncategorized",
+    "https://www.briargroveeye.com/sitemap",
+    "https://www.briargroveeye.com/tag/all-about-vision",
+    "https://www.briargroveeye.com/tag/childrens-vision-houston",
+    "https://www.briargroveeye.com/tag/contact-lenses",
+    "https://www.briargroveeye.com/tag/contact-lenses-near-me",
+    "https://www.briargroveeye.com/tag/diabetic-retinopathy",
+    "https://www.briargroveeye.com/tag/dry-eye",
+    "https://www.briargroveeye.com/tag/dry-eyes",
+    "https://www.briargroveeye.com/tag/eye-care-houston",
+    "https://www.briargroveeye.com/tag/eye-doctor",
+    "https://www.briargroveeye.com/tag/eye-doctor-houston",
+    "https://www.briargroveeye.com/tag/eye-doctor-near-me",
+    "https://www.briargroveeye.com/tag/eye-drops",
+    "https://www.briargroveeye.com/tag/eye-emergency",
+    "https://www.briargroveeye.com/tag/eye-exam",
+    "https://www.briargroveeye.com/tag/eye-exam-houston",
+    "https://www.briargroveeye.com/tag/eye-exam-near-me",
+    "https://www.briargroveeye.com/tag/eye-infection",
+    "https://www.briargroveeye.com/tag/eyeglass-lens-services",
+    "https://www.briargroveeye.com/tag/eyeglass-warranty",
+    "https://www.briargroveeye.com/tag/eyeglasses-in-houston",
+    "https://www.briargroveeye.com/tag/eyelid",
+    "https://www.briargroveeye.com/tag/houston-eye-care",
+    "https://www.briargroveeye.com/tag/houston-eye-doctor",
+    "https://www.briargroveeye.com/tag/houston-eye-exam",
+    "https://www.briargroveeye.com/tag/houston-optometrist",
+    "https://www.briargroveeye.com/tag/houston-tx-eye-exam",
+    "https://www.briargroveeye.com/tag/kids-eye-exam",
+    "https://www.briargroveeye.com/tag/microfibre-cloth",
+    "https://www.briargroveeye.com/tag/mosquito-bite",
+    "https://www.briargroveeye.com/tag/multiple-sclerosis",
+    "https://www.briargroveeye.com/tag/optometrist",
+    "https://www.briargroveeye.com/tag/optometrist-houston",
+    "https://www.briargroveeye.com/tag/optometrist-near-me",
+    "https://www.briargroveeye.com/tag/pediatric-eye-exams",
+    "https://www.briargroveeye.com/tag/polycarbonate-lenses",
+    "https://www.briargroveeye.com/tag/vision-care-services",
+    "https://www.briargroveeye.com/template/footer",
+    "https://www.briargroveeye.com/template/footer-2",
+    "https://www.briargroveeye.com/template/header",
+    "https://www.briargroveeye.com/template/header-2",
+    "https://www.briargroveeye.com/template/header-2-copy"
+  ],
+  "extraFiles": [
+    "404.html",
+    "search/index.html"
+  ],
+  "recallFloor": 0.95,
+  "contentRunFloor": 12,
+  "meanRecall": 0.9981,
+  "counts": {
+    "minor": 121,
+    "blocker": 48
+  },
+  "verdict": "DRIFT",
+  "rows": [
+    {
+      "url": "https://www.briargroveeye.com/",
+      "file": "index.html",
+      "pageType": "home",
+      "status": "DIFFERS",
+      "recall": 0.9991,
+      "missingWords": 1,
+      "longestMissingRun": 1,
+      "sourceWords": 1138,
+      "rebuiltWords": 1279,
+      "sourceH1": [
+        "Comprehensive Eye Care in Houston, TX – Briargrove Eye Center"
+      ],
+      "rebuiltH1": [
+        "Comprehensive Eye Care in Houston, TX – Briargrove Eye Center"
+      ],
+      "sourceLinks": 17,
+      "rebuiltLinks": 146,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "17 image(s) without alt",
+          "detail": "index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/at-home-vs-in-office-dry-eye-treatments",
+      "file": "eye-health/at-home-vs-in-office-dry-eye-treatments/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 635,
+      "rebuiltWords": 842,
+      "sourceH1": [
+        "At-Home vs. In-Office Dry Eye Treatments"
+      ],
+      "rebuiltH1": [
+        "At-Home vs. In-Office Dry Eye Treatments"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 140,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "eye-health/at-home-vs-in-office-dry-eye-treatments/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/author/briargroveeyecenter",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at author/briargroveeyecenter.html | author/briargroveeyecenter.htm | author/briargroveeyecenter/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/author/briargroveeyecenter"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/autoimmune-disease-and-dry-eye-2023",
+      "file": "eye-health/autoimmune-disease-and-dry-eye-2023/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 490,
+      "rebuiltWords": 697,
+      "sourceH1": [
+        "Autoimmune Disease and Dry Eye: Is There a Connection?"
+      ],
+      "rebuiltH1": [
+        "Autoimmune Disease and Dry Eye: Is There a Connection?"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 138,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "eye-health/autoimmune-disease-and-dry-eye-2023/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/cataract-awareness-month-2016-2",
+      "file": "eye-health/cataract-awareness-month-2016-2/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 953,
+      "rebuiltWords": 1160,
+      "sourceH1": [
+        "Cataract Awareness Month: What to Expect from Cataract Surgery"
+      ],
+      "rebuiltH1": [
+        "Cataract Awareness Month: What to Expect from Cataract Surgery"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 136,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "eye-health/cataract-awareness-month-2016-2/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/category/news",
+      "pageType": "blog-index",
+      "status": "MISSING",
+      "detail": "no rebuilt file at category/news.html | category/news.htm | category/news/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/category/news"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/category/our-doctors",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at category/our-doctors.html | category/our-doctors.htm | category/our-doctors/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/category/our-doctors"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/category/our-staff",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at category/our-staff.html | category/our-staff.htm | category/our-staff/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/category/our-staff"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/category/testimonial",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at category/testimonial.html | category/testimonial.htm | category/testimonial/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/category/testimonial"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/category/uncategorized",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at category/uncategorized.html | category/uncategorized.htm | category/uncategorized/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/category/uncategorized"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-lens-options-finding-the-best-fit-for-your-vision-lifestyle",
+      "file": "eye-health/contact-lens-options-finding-the-best-fit-for-your-vision-lifestyle/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 742,
+      "rebuiltWords": 949,
+      "sourceH1": [
+        "Contact Lens Options: Finding the Best Fit for Your Vision & Lifestyle"
+      ],
+      "rebuiltH1": [
+        "Contact Lens Options: Finding the Best Fit for Your Vision & Lifestyle"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 139,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "eye-health/contact-lens-options-finding-the-best-fit-for-your-vision-lifestyle/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-lenses",
+      "file": "products/contact-lenses/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9971,
+      "missingWords": 2,
+      "longestMissingRun": 2,
+      "sourceWords": 660,
+      "rebuiltWords": 819,
+      "sourceH1": [
+        "A WIDE SELECTION OF CONTACT LENSES IN Uptown Houston, Texas"
+      ],
+      "rebuiltH1": [
+        "A Wide Selection of Contact Lenses in Uptown Houston, Texas"
+      ],
+      "sourceLinks": 26,
+      "rebuiltLinks": 154,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"A WIDE SELECTION OF CONTACT LENSES IN Uptown Houston, Texas\" -> \"A Wide Selection of Contact Lenses in Uptown Houston, Texas\""
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/contact-lenses/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-lenses/best-sellers-top-contact-lenses-in-uptown-houston",
+      "file": "products/contact-lenses/top-contact-lenses/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9655,
+      "missingWords": 23,
+      "longestMissingRun": 4,
+      "sourceWords": 664,
+      "rebuiltWords": 795,
+      "sourceH1": [
+        "Best Sellers – Top Contact Lenses in Uptown Houston, Texas"
+      ],
+      "rebuiltH1": [
+        "Best Sellers – Top Contact Lenses in Uptown Houston, Texas"
+      ],
+      "sourceLinks": 14,
+      "rebuiltLinks": 134,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/contact-lenses/top-contact-lenses/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-lenses/bifocal-and-multifocal-contact-lenses",
+      "file": "products/contact-lenses/multifocal/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 845,
+      "rebuiltWords": 1001,
+      "sourceH1": [
+        "Bifocal and Multifocal Contact Lenses"
+      ],
+      "rebuiltH1": [
+        "Bifocal and Multifocal Contact Lenses"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 133,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/contact-lenses/multifocal/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "file": "products/contact-lenses/hard-to-fit/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1108,
+      "rebuiltWords": 1264,
+      "sourceH1": [
+        "Contact Lenses for the “Hard-to-Fit” Patient"
+      ],
+      "rebuiltH1": [
+        "Contact Lenses for the “Hard-to-Fit” Patient"
+      ],
+      "sourceLinks": 14,
+      "rebuiltLinks": 133,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/contact-lenses/hard-to-fit/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-lenses/disposable-contacts",
+      "file": "products/contact-lenses/disposable/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 349,
+      "rebuiltWords": 505,
+      "sourceH1": [
+        "Disposable Contacts"
+      ],
+      "rebuiltH1": [
+        "Disposable Contacts"
+      ],
+      "sourceLinks": 14,
+      "rebuiltLinks": 133,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/contact-lenses/disposable/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-lenses/eye-exams-for-contact-lenses",
+      "file": "products/contact-lenses/eye-exams-for-contacts/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1002,
+      "rebuiltWords": 1158,
+      "sourceH1": [
+        "Eye Exams for Contact Lenses"
+      ],
+      "rebuiltH1": [
+        "Eye Exams for Contact Lenses"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 133,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/contact-lenses/eye-exams-for-contacts/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-lenses/gas-permeable-gp-contact-lenses",
+      "file": "products/contact-lenses/gas-permeable/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 618,
+      "rebuiltWords": 774,
+      "sourceH1": [
+        "Gas Permeable (GP) Contact Lenses"
+      ],
+      "rebuiltH1": [
+        "Gas Permeable (GP) Contact Lenses"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 133,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/contact-lenses/gas-permeable/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-lenses/order-contact-lenses-online",
+      "file": "products/contact-lenses/order-online/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 51,
+      "rebuiltWords": 207,
+      "sourceH1": [
+        "Order Contact Lenses Online"
+      ],
+      "rebuiltH1": [
+        "Order Contact Lenses Online"
+      ],
+      "sourceLinks": 14,
+      "rebuiltLinks": 134,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/contact-lenses/order-online/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-lenses/our-featured-brands",
+      "file": "products/contact-lenses/brands/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 21,
+      "rebuiltWords": 177,
+      "sourceH1": [
+        "Our Featured Brands"
+      ],
+      "rebuiltH1": [
+        "Our Featured Brands"
+      ],
+      "sourceLinks": 14,
+      "rebuiltLinks": 133,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "products/contact-lenses/brands/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "file": "products/contact-lenses/toric/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 403,
+      "rebuiltWords": 559,
+      "sourceH1": [
+        "Toric Contact Lenses for Astigmatism"
+      ],
+      "rebuiltH1": [
+        "Toric Contact Lenses for Astigmatism"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 133,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/contact-lenses/toric/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-us",
+      "file": "contact/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 105,
+      "rebuiltWords": 199,
+      "sourceH1": [
+        "Contact Us"
+      ],
+      "rebuiltH1": [
+        "Contact Us"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 127,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "contact/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-us/contact-form",
+      "file": "contact/email-us/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 105,
+      "rebuiltWords": 253,
+      "sourceH1": [
+        "Email Us"
+      ],
+      "rebuiltH1": [
+        "Email Us"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 127,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "contact/email-us/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-us/patient-registration-form",
+      "file": "patient-forms/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9935,
+      "missingWords": 15,
+      "longestMissingRun": 5,
+      "sourceWords": 2318,
+      "rebuiltWords": 2434,
+      "sourceH1": [
+        "Patient Registration Form"
+      ],
+      "rebuiltH1": [
+        "Patient Registration Form"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 124,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "patient-forms/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/contact-us/patient-testimonials",
+      "file": "reviews/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9714,
+      "missingWords": 6,
+      "longestMissingRun": 1,
+      "sourceWords": 222,
+      "rebuiltWords": 348,
+      "sourceH1": [
+        "Patient Testimonials"
+      ],
+      "rebuiltH1": [
+        "Patient Testimonials"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 133,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "reviews/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/disclaimer",
+      "file": "disclaimer/index.html",
+      "pageType": "legal",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 382,
+      "rebuiltWords": 471,
+      "sourceH1": [
+        "Disclaimer"
+      ],
+      "rebuiltH1": [
+        "Disclaimer"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 121,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "disclaimer/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services",
+      "file": "services/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9946,
+      "missingWords": 2,
+      "longestMissingRun": 2,
+      "sourceWords": 369,
+      "rebuiltWords": 510,
+      "sourceH1": [
+        "EYE CARE SERVICES IN Uptown Houston, TX"
+      ],
+      "rebuiltH1": [
+        "Eye Care Services in Uptown Houston, TX"
+      ],
+      "sourceLinks": 14,
+      "rebuiltLinks": 148,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"EYE CARE SERVICES IN Uptown Houston, TX\" -> \"Eye Care Services in Uptown Houston, TX\""
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/contact-lens-exams",
+      "file": "services/contact-lens-exams/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1091,
+      "rebuiltWords": 1229,
+      "sourceH1": [
+        "Contact Lens Exams"
+      ],
+      "rebuiltH1": [
+        "Contact Lens Exams"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 140,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/contact-lens-exams/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "file": "services/specialty-contacts/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1121,
+      "rebuiltWords": 1255,
+      "sourceH1": [
+        "Hard-to-Fit Contacts"
+      ],
+      "rebuiltH1": [
+        "Hard-to-Fit Contacts"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 137,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/specialty-contacts/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/emergency-eye-care-services",
+      "file": "services/emergency-eye-care/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 895,
+      "rebuiltWords": 1030,
+      "sourceH1": [
+        "Emergency Eye Care Services"
+      ],
+      "rebuiltH1": [
+        "Emergency Eye Care Services"
+      ],
+      "sourceLinks": 14,
+      "rebuiltLinks": 143,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/emergency-eye-care/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/eye-conditions",
+      "file": "services/eye-conditions/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 263,
+      "rebuiltWords": 404,
+      "sourceH1": [
+        "Eye Condition Treatment"
+      ],
+      "rebuiltH1": [
+        "Eye Condition Treatment"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 144,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/eye-conditions/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment",
+      "file": "services/astigmatism/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 255,
+      "rebuiltWords": 389,
+      "sourceH1": [
+        "Astigmatism"
+      ],
+      "rebuiltH1": [
+        "Astigmatism"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 137,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "services/astigmatism/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "file": "services/dry-eye-treatment/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1030,
+      "rebuiltWords": 1164,
+      "sourceH1": [
+        "Dry Eyes"
+      ],
+      "rebuiltH1": [
+        "Dry Eyes"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 137,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/dry-eye-treatment/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/eye-conditions/presbyopia-diagnosis-and-treatment",
+      "file": "services/presbyopia/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 739,
+      "rebuiltWords": 873,
+      "sourceH1": [
+        "Presbyopia Treatment"
+      ],
+      "rebuiltH1": [
+        "Presbyopia Treatment"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 137,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/presbyopia/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/eye-exams",
+      "file": "services/comprehensive-eye-exams/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 617,
+      "rebuiltWords": 727,
+      "sourceH1": [
+        "Comprehensive Eye Exams"
+      ],
+      "rebuiltH1": [
+        "Comprehensive Eye Exams"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 129,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "services/comprehensive-eye-exams/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/eye-exams/advanced-technology",
+      "file": "services/comprehensive-eye-exams/advanced-technology/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1155,
+      "rebuiltWords": 1257,
+      "sourceH1": [
+        "Technology – Advanced Eye Care"
+      ],
+      "rebuiltH1": [
+        "Technology – Advanced Eye Care"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 126,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/comprehensive-eye-exams/advanced-technology/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/eye-exams/pediatric-eye-exams",
+      "file": "services/pediatric-eye-exams/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.999,
+      "missingWords": 1,
+      "longestMissingRun": 1,
+      "sourceWords": 989,
+      "rebuiltWords": 1088,
+      "sourceH1": [
+        "Children’s Eye Care"
+      ],
+      "rebuiltH1": [
+        "Children’s Eye Care"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 125,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/pediatric-eye-exams/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/eye-exams/pediatric-eye-exams/kids-vision-learning",
+      "file": "services/pediatric-eye-exams/kids-vision-and-learning/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9987,
+      "missingWords": 1,
+      "longestMissingRun": 1,
+      "sourceWords": 723,
+      "rebuiltWords": 817,
+      "sourceH1": [
+        "Kids’ Vision & Learning"
+      ],
+      "rebuiltH1": [
+        "Kids’ Vision & Learning"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 125,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/pediatric-eye-exams/kids-vision-and-learning/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/eye-exams/what-to-expect",
+      "file": "services/comprehensive-eye-exams/what-to-expect/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 675,
+      "rebuiltWords": 777,
+      "sourceH1": [
+        "What to Expect"
+      ],
+      "rebuiltH1": [
+        "What to Expect"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 126,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/comprehensive-eye-exams/what-to-expect/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "file": "services/lasik-co-management/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1189,
+      "rebuiltWords": 1327,
+      "sourceH1": [
+        "LASIK & Refractive Surgery Co-Management"
+      ],
+      "rebuiltH1": [
+        "LASIK & Refractive Surgery Co-Management"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 140,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/lasik-co-management/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/latisse",
+      "file": "services/latisse/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 229,
+      "rebuiltWords": 367,
+      "sourceH1": [
+        "Latisse"
+      ],
+      "rebuiltH1": [
+        "Latisse"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 139,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "services/latisse/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/management-of-ocular-diseases",
+      "file": "services/medical-eye-care/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 297,
+      "rebuiltWords": 439,
+      "sourceH1": [
+        "Eye Disease Management"
+      ],
+      "rebuiltH1": [
+        "Eye Disease Management"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 144,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/medical-eye-care/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "file": "services/cataract-co-management/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 390,
+      "rebuiltWords": 524,
+      "sourceH1": [
+        "Cataract Surgery Co-Management"
+      ],
+      "rebuiltH1": [
+        "Cataract Surgery Co-Management"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 137,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/cataract-co-management/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "file": "services/glaucoma-management/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1332,
+      "rebuiltWords": 1466,
+      "sourceH1": [
+        "Glaucoma Testing & Treatment"
+      ],
+      "rebuiltH1": [
+        "Glaucoma Testing & Treatment"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 140,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/glaucoma-management/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "file": "services/diabetic-eye-exams/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 242,
+      "rebuiltWords": 376,
+      "sourceH1": [
+        "Diabetic Eye Disease"
+      ],
+      "rebuiltH1": [
+        "Diabetic Eye Disease"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 136,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/diabetic-eye-exams/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "file": "services/macular-degeneration/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 294,
+      "rebuiltWords": 428,
+      "sourceH1": [
+        "Macular Degeneration"
+      ],
+      "rebuiltH1": [
+        "Macular Degeneration"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 137,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "services/macular-degeneration/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/we-also-serve",
+      "file": "visit-us/areas-we-serve/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9931,
+      "missingWords": 1,
+      "longestMissingRun": 1,
+      "sourceWords": 146,
+      "rebuiltWords": 260,
+      "sourceH1": [
+        "We Also Serve"
+      ],
+      "rebuiltH1": [
+        "We Also Serve"
+      ],
+      "sourceLinks": 11,
+      "rebuiltLinks": 129,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "visit-us/areas-we-serve/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/we-also-serve/tanglewood-houston",
+      "file": "visit-us/areas-we-serve/tanglewood-houston/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9733,
+      "missingWords": 7,
+      "longestMissingRun": 2,
+      "sourceWords": 255,
+      "rebuiltWords": 354,
+      "sourceH1": [
+        "Tanglewood, Houston"
+      ],
+      "rebuiltH1": [
+        "Tanglewood, Houston"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 130,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "visit-us/areas-we-serve/tanglewood-houston/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eye-care-services/we-also-serve/the-galleria-houston-tx",
+      "file": "visit-us/areas-we-serve/the-galleria-houston-tx/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9718,
+      "missingWords": 7,
+      "longestMissingRun": 2,
+      "sourceWords": 245,
+      "rebuiltWords": 344,
+      "sourceH1": [
+        "The Galleria – Houston, TX"
+      ],
+      "rebuiltH1": [
+        "The Galleria – Houston, TX"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 130,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "visit-us/areas-we-serve/the-galleria-houston-tx/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglass-care-warranties-in-houston-briargrove-eye-center",
+      "file": "eye-health/eyeglass-care-warranties-in-houston-briargrove-eye-center/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 461,
+      "rebuiltWords": 668,
+      "sourceH1": [
+        "Eyeglass Care & Warranties in Houston | Briargrove Eye Center"
+      ],
+      "rebuiltH1": [
+        "Eyeglass Care & Warranties in Houston | Briargrove Eye Center"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 142,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "eye-health/eyeglass-care-warranties-in-houston-briargrove-eye-center/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses",
+      "file": "products/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.995,
+      "missingWords": 2,
+      "longestMissingRun": 2,
+      "sourceWords": 397,
+      "rebuiltWords": 533,
+      "sourceH1": [
+        "PLENTY OF CHOICE-EYEGLASSES Near Me"
+      ],
+      "rebuiltH1": [
+        "Plenty of Choice-Eyeglasses Near Me"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 147,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"PLENTY OF CHOICE-EYEGLASSES Near Me\" -> \"Plenty of Choice-Eyeglasses Near Me\""
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/designer-frames",
+      "file": "products/designer-frames/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 85,
+      "rebuiltWords": 184,
+      "sourceH1": [
+        "Designer Frames"
+      ],
+      "rebuiltH1": [
+        "Designer Frames"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 125,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "products/designer-frames/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/designer-frames/mcallister-eyewear",
+      "file": "products/designer-frames/mcallister-eyewear/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 63,
+      "rebuiltWords": 158,
+      "sourceH1": [
+        "McAllister Eyewear"
+      ],
+      "rebuiltH1": [
+        "McAllister Eyewear"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 124,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "products/designer-frames/mcallister-eyewear/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/eyeglass-basics",
+      "file": "products/eyeglass-basics/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 786,
+      "rebuiltWords": 892,
+      "sourceH1": [
+        "Eyeglass Basics"
+      ],
+      "rebuiltH1": [
+        "Eyeglass Basics"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 129,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "products/eyeglass-basics/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/eyeglass-basics/eyeglass-frames",
+      "file": "products/eyeglass-basics/frames/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 525,
+      "rebuiltWords": 627,
+      "sourceH1": [
+        "Eyeglass Frames"
+      ],
+      "rebuiltH1": [
+        "Eyeglass Frames"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 127,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/eyeglass-basics/frames/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/eyeglass-basics/lens-options-for-eyeglasses",
+      "file": "products/eyeglass-basics/lens-options/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 708,
+      "rebuiltWords": 810,
+      "sourceH1": [
+        "Lens Options for Eyeglasses"
+      ],
+      "rebuiltH1": [
+        "Lens Options for Eyeglasses"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 127,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/eyeglass-basics/lens-options/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/eyeglass-basics/womens-eyeglass-frames",
+      "file": "products/eyeglass-basics/womens-frames/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 502,
+      "rebuiltWords": 604,
+      "sourceH1": [
+        "Women’s Eyeglass Frames"
+      ],
+      "rebuiltH1": [
+        "Women’s Eyeglass Frames"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 127,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/eyeglass-basics/womens-frames/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/eyeglass-guide",
+      "file": "products/eyeglass-guide/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 98,
+      "rebuiltWords": 228,
+      "sourceH1": [
+        "EyeGlass Guide"
+      ],
+      "rebuiltH1": [
+        "EyeGlass Guide"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 134,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/eyeglass-guide/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/kids-optical",
+      "file": "products/kids-eyewear/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 602,
+      "rebuiltWords": 732,
+      "sourceH1": [
+        "Kid’s Optical"
+      ],
+      "rebuiltH1": [
+        "Kid’s Optical"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 134,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/kids-eyewear/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/lens-treatments",
+      "file": "products/lens-treatments/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 151,
+      "rebuiltWords": 256,
+      "sourceH1": [
+        "Lens Treatments"
+      ],
+      "rebuiltH1": [
+        "Lens Treatments"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 129,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/lens-treatments/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/lens-treatments/anti-reflective",
+      "file": "products/lens-treatments/anti-reflective/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 237,
+      "rebuiltWords": 335,
+      "sourceH1": [
+        "Anti-Reflective"
+      ],
+      "rebuiltH1": [
+        "Anti-Reflective"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/lens-treatments/anti-reflective/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/lens-treatments/scratch-resistant",
+      "file": "products/lens-treatments/scratch-resistant/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 198,
+      "rebuiltWords": 296,
+      "sourceH1": [
+        "Scratch Resistant"
+      ],
+      "rebuiltH1": [
+        "Scratch Resistant"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 127,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/lens-treatments/scratch-resistant/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/lens-treatments/uv-protection",
+      "file": "products/lens-treatments/uv-protection/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 243,
+      "rebuiltWords": 341,
+      "sourceH1": [
+        "UV Protection"
+      ],
+      "rebuiltH1": [
+        "UV Protection"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/lens-treatments/uv-protection/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/prescription-eyeglasses",
+      "file": "products/prescription-eyeglasses/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 245,
+      "rebuiltWords": 365,
+      "sourceH1": [
+        "Prescription Eyeglasses"
+      ],
+      "rebuiltH1": [
+        "Prescription Eyeglasses"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 135,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "products/prescription-eyeglasses/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/prescription-eyeglasses/bifocal-lenses",
+      "file": "products/prescription-eyeglasses/bifocal-lenses/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 224,
+      "rebuiltWords": 334,
+      "sourceH1": [
+        "Bifocal Lenses"
+      ],
+      "rebuiltH1": [
+        "Bifocal Lenses"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 130,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/prescription-eyeglasses/bifocal-lenses/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/prescription-eyeglasses/caring-for-lenses",
+      "file": "products/prescription-eyeglasses/caring-for-lenses/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 407,
+      "rebuiltWords": 517,
+      "sourceH1": [
+        "Caring for Lenses"
+      ],
+      "rebuiltH1": [
+        "Caring for Lenses"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 130,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/prescription-eyeglasses/caring-for-lenses/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/prescription-eyeglasses/eyeglass-frame-materials",
+      "file": "products/prescription-eyeglasses/frame-materials/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 645,
+      "rebuiltWords": 755,
+      "sourceH1": [
+        "Eyeglass Frame Materials"
+      ],
+      "rebuiltH1": [
+        "Eyeglass Frame Materials"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 130,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/prescription-eyeglasses/frame-materials/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/prescription-eyeglasses/frame-maintenance",
+      "file": "products/prescription-eyeglasses/frame-maintenance/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 499,
+      "rebuiltWords": 609,
+      "sourceH1": [
+        "Frame Maintenance"
+      ],
+      "rebuiltH1": [
+        "Frame Maintenance"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 130,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/prescription-eyeglasses/frame-maintenance/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses",
+      "file": "products/prescription-eyeglasses/high-index-aspheric-lenses/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 234,
+      "rebuiltWords": 344,
+      "sourceH1": [
+        "High Index and Aspheric Lenses"
+      ],
+      "rebuiltH1": [
+        "High Index and Aspheric Lenses"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 130,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/prescription-eyeglasses/high-index-aspheric-lenses/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/prescription-eyeglasses/polycarbonate-lenses",
+      "file": "products/prescription-eyeglasses/polycarbonate-lenses/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 246,
+      "rebuiltWords": 356,
+      "sourceH1": [
+        "Polycarbonate Lenses"
+      ],
+      "rebuiltH1": [
+        "Polycarbonate Lenses"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 130,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/prescription-eyeglasses/polycarbonate-lenses/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/quality-eyeglass-lenses-in-houston-tx",
+      "file": "products/quality-eyeglass-lenses/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 288,
+      "rebuiltWords": 418,
+      "sourceH1": [
+        "Quality Eyeglass Lenses in Houston, TX"
+      ],
+      "rebuiltH1": [
+        "Quality Eyeglass Lenses in Houston, TX"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 139,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "products/quality-eyeglass-lenses/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/sunglasses",
+      "file": "products/sunglasses/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 131,
+      "rebuiltWords": 247,
+      "sourceH1": [
+        "Sunglasses"
+      ],
+      "rebuiltH1": [
+        "Sunglasses"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 134,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "products/sunglasses/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/sunglasses/nonprescription-sunglasses",
+      "file": "products/sunglasses/nonprescription/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 652,
+      "rebuiltWords": 758,
+      "sourceH1": [
+        "Nonprescription Sunglasses"
+      ],
+      "rebuiltH1": [
+        "Nonprescription Sunglasses"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 129,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/sunglasses/nonprescription/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/sunglasses/performance-and-sport-sunglasses",
+      "file": "products/sunglasses/performance-and-sport/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 546,
+      "rebuiltWords": 652,
+      "sourceH1": [
+        "Performance and Sport Sunglasses"
+      ],
+      "rebuiltH1": [
+        "Performance and Sport Sunglasses"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 129,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/sunglasses/performance-and-sport/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/sunglasses/prescription-sunglass-treatments",
+      "file": "products/sunglasses/prescription-treatments/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 170,
+      "rebuiltWords": 276,
+      "sourceH1": [
+        "Prescription Sunglass Treatments"
+      ],
+      "rebuiltH1": [
+        "Prescription Sunglass Treatments"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 129,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/sunglasses/prescription-treatments/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/sunglasses/prescription-sunglasses",
+      "file": "products/sunglasses/prescription/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 461,
+      "rebuiltWords": 567,
+      "sourceH1": [
+        "Prescription Sunglasses"
+      ],
+      "rebuiltH1": [
+        "Prescription Sunglasses"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 129,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/sunglasses/prescription/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/sunglasses/sunglasses-for-kids",
+      "file": "products/sunglasses/for-kids/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 514,
+      "rebuiltWords": 620,
+      "sourceH1": [
+        "Sunglasses for Kids"
+      ],
+      "rebuiltH1": [
+        "Sunglasses for Kids"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 129,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/sunglasses/for-kids/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/transitions-lenses",
+      "file": "products/transitions-lenses/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 313,
+      "rebuiltWords": 430,
+      "sourceH1": [
+        "Transitions® Lenses"
+      ],
+      "rebuiltH1": [
+        "Transitions® Lenses"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 131,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/transitions-lenses/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/transitions-lenses/are-transitions-right-for-you",
+      "file": "products/transitions-lenses/are-they-right-for-you/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 263,
+      "rebuiltWords": 372,
+      "sourceH1": [
+        "Are Transitions® Lenses Right For You?"
+      ],
+      "rebuiltH1": [
+        "Are Transitions® Lenses Right For You?"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/transitions-lenses/are-they-right-for-you/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/transitions-lenses/original-transitions-lenses",
+      "file": "products/transitions-lenses/original/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 107,
+      "rebuiltWords": 215,
+      "sourceH1": [
+        "Original Transitions Lenses"
+      ],
+      "rebuiltH1": [
+        "Original Transitions Lenses"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/transitions-lenses/original/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/transitions-lenses/transition-solfx-sunwear-products",
+      "file": "products/transitions-lenses/solfx-sunwear/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 151,
+      "rebuiltWords": 260,
+      "sourceH1": [
+        "Transitions® SOLFX Sunwear Products"
+      ],
+      "rebuiltH1": [
+        "Transitions® SOLFX Sunwear Products"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/transitions-lenses/solfx-sunwear/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyeglasses/transitions-lenses/transitions-xtractive",
+      "file": "products/transitions-lenses/xtractive/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 116,
+      "rebuiltWords": 225,
+      "sourceH1": [
+        "Transitions® Lenses XTRActive"
+      ],
+      "rebuiltH1": [
+        "Transitions® Lenses XTRActive"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/transitions-lenses/xtractive/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/eyes-a-window-into-your-health-2023",
+      "file": "eye-health/eyes-a-window-into-your-health-2023/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 399,
+      "rebuiltWords": 606,
+      "sourceH1": [
+        "Your Eyes As A Window Into Your Whole-Body Health"
+      ],
+      "rebuiltH1": [
+        "Your Eyes As A Window Into Your Whole-Body Health"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 139,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "eye-health/eyes-a-window-into-your-health-2023/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/hours-location",
+      "file": "visit-us/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9893,
+      "missingWords": 3,
+      "longestMissingRun": 2,
+      "sourceWords": 278,
+      "rebuiltWords": 373,
+      "sourceH1": [
+        "Best Eye Exam & Family Eye Care in Uptown Houston, Texas"
+      ],
+      "rebuiltH1": [
+        "Best Eye Exam & Family Eye Care in Uptown Houston, Texas"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 136,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "visit-us/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/houston-vision-problems-are-common-in-older-parkinsons-patients",
+      "file": "eye-health/houston-vision-problems-are-common-in-older-parkinsons-patients/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 586,
+      "rebuiltWords": 793,
+      "sourceH1": [
+        "Houston | Vision Problems Are Common in Older Parkinson’s Patients"
+      ],
+      "rebuiltH1": [
+        "Houston | Vision Problems Are Common in Older Parkinson’s Patients"
+      ],
+      "sourceLinks": 14,
+      "rebuiltLinks": 150,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "eye-health/houston-vision-problems-are-common-in-older-parkinsons-patients/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/how-do-we-see",
+      "file": "eye-health/how-do-we-see/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 499,
+      "rebuiltWords": 706,
+      "sourceH1": [
+        "How Do We See?"
+      ],
+      "rebuiltH1": [
+        "How Do We See?"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 136,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "6 image(s) without alt",
+          "detail": "eye-health/how-do-we-see/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023",
+      "file": "eye-health/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 607,
+      "rebuiltWords": 814,
+      "sourceH1": [
+        "How Safe Is It To Rinse Your Eyes With Tap Water?"
+      ],
+      "rebuiltH1": [
+        "How Safe Is It To Rinse Your Eyes With Tap Water?"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 141,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "eye-health/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/insurance",
+      "file": "insurance/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9868,
+      "missingWords": 6,
+      "longestMissingRun": 2,
+      "sourceWords": 452,
+      "rebuiltWords": 560,
+      "sourceH1": [
+        "Our Clinic in Uptown Houston Accepts The Following:"
+      ],
+      "rebuiltH1": [
+        "Our Clinic in Uptown Houston Accepts The Following:"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 134,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "insurance/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/insurance/carecredit",
+      "file": "insurance/carecredit/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 201,
+      "rebuiltWords": 316,
+      "sourceH1": [
+        "CareCredit"
+      ],
+      "rebuiltH1": [
+        "CareCredit"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 127,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "insurance/carecredit/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/insurance/faqs-of-vision-insurance-plans",
+      "file": "insurance/vision-insurance-faqs/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 429,
+      "rebuiltWords": 544,
+      "sourceH1": [
+        "FAQs of Vision Insurance Plans"
+      ],
+      "rebuiltH1": [
+        "FAQs of Vision Insurance Plans"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 125,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "insurance/vision-insurance-faqs/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/insurance/whats-in-your-vision-insurance-plan",
+      "file": "insurance/whats-in-your-vision-plan/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 719,
+      "rebuiltWords": 834,
+      "sourceH1": [
+        "What’s in Your Vision Insurance Plan"
+      ],
+      "rebuiltH1": [
+        "What’s in Your Vision Insurance Plan"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 125,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "insurance/whats-in-your-vision-plan/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/location/briargrove-eye-center",
+      "file": "visit-us/briargrove-eye-center/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 62,
+      "rebuiltWords": 179,
+      "sourceH1": [
+        "Briargrove Eye Center"
+      ],
+      "rebuiltH1": [
+        "Briargrove Eye Center"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 125,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "visit-us/briargrove-eye-center/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/new-glaucoma-treatments-in-2026-beyond-eye-drops",
+      "file": "eye-health/new-glaucoma-treatments-in-2026-beyond-eye-drops/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 2446,
+      "rebuiltWords": 2653,
+      "sourceH1": [
+        "New Glaucoma Treatments in 2026: Beyond Eye Drops"
+      ],
+      "rebuiltH1": [
+        "New Glaucoma Treatments in 2026: Beyond Eye Drops"
+      ],
+      "sourceLinks": 14,
+      "rebuiltLinks": 140,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "eye-health/new-glaucoma-treatments-in-2026-beyond-eye-drops/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/new-year-fresh-vision-lets-put-your-benefits-to-good-use",
+      "file": "eye-health/new-year-fresh-vision-lets-put-your-benefits-to-good-use/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 604,
+      "rebuiltWords": 811,
+      "sourceH1": [
+        "New Year, Fresh Vision, Let’s Put Your Benefits to Good Use"
+      ],
+      "rebuiltH1": [
+        "New Year, Fresh Vision, Let’s Put Your Benefits to Good Use"
+      ],
+      "sourceLinks": 14,
+      "rebuiltLinks": 145,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "eye-health/new-year-fresh-vision-lets-put-your-benefits-to-good-use/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/november-is-diabetes-awareness-month-2016",
+      "file": "eye-health/november-is-diabetes-awareness-month-2016/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 525,
+      "rebuiltWords": 732,
+      "sourceH1": [
+        "November is Diabetes Awareness Month"
+      ],
+      "rebuiltH1": [
+        "November is Diabetes Awareness Month"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 136,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "eye-health/november-is-diabetes-awareness-month-2016/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/our-eye-care-clinic",
+      "file": "about/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 147,
+      "rebuiltWords": 241,
+      "sourceH1": [
+        "Our Eye Care Clinic"
+      ],
+      "rebuiltH1": [
+        "Our Eye Care Clinic"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 123,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "about/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/our-eye-doctors",
+      "file": "our-doctor/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9923,
+      "missingWords": 3,
+      "longestMissingRun": 2,
+      "sourceWords": 390,
+      "rebuiltWords": 479,
+      "sourceH1": [
+        "OUR Uptown Houston OPTOMETRIST"
+      ],
+      "rebuiltH1": [
+        "Our Uptown Houston Optometrist"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 129,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"OUR Uptown Houston OPTOMETRIST\" -> \"Our Uptown Houston Optometrist\""
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "our-doctor/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/pediatric-eye-exams-at-briargrove-eye-center",
+      "file": "eye-health/pediatric-eye-exams-at-briargrove-eye-center/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 452,
+      "rebuiltWords": 659,
+      "sourceH1": [
+        "Pediatric Eye Exams In Houston, TX"
+      ],
+      "rebuiltH1": [
+        "Pediatric Eye Exams In Houston, TX"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 140,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "eye-health/pediatric-eye-exams-at-briargrove-eye-center/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/privacy-policy",
+      "file": "privacy-policy/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 2167,
+      "rebuiltWords": 2256,
+      "sourceH1": [
+        "Privacy Policy"
+      ],
+      "rebuiltH1": [
+        "Privacy Policy"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 121,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "privacy-policy/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/protecting-your-eyes-from-the-desk-job",
+      "file": "eye-health/protecting-your-eyes-from-the-desk-job/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 746,
+      "rebuiltWords": 953,
+      "sourceH1": [
+        "Protecting Your Eyes From The Desk Job"
+      ],
+      "rebuiltH1": [
+        "Protecting Your Eyes From The Desk Job"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 136,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "eye-health/protecting-your-eyes-from-the-desk-job/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/silent-vision-loss-and-emergency-eye-care-in-uptown-houston",
+      "file": "eye-health/silent-vision-loss-and-emergency-eye-care-in-uptown-houston/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 531,
+      "rebuiltWords": 738,
+      "sourceH1": [
+        "Silent Vision Loss and Emergency Eye Care in Uptown Houston"
+      ],
+      "rebuiltH1": [
+        "Silent Vision Loss and Emergency Eye Care in Uptown Houston"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 140,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "eye-health/silent-vision-loss-and-emergency-eye-care-in-uptown-houston/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/sitemap",
+      "pageType": "page",
+      "status": "MISSING",
+      "detail": "no rebuilt file at sitemap.html | sitemap.htm | sitemap/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/sitemap"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/specialty-eyewear",
+      "file": "products/specialty-eyewear/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 373,
+      "rebuiltWords": 502,
+      "sourceH1": [
+        "Specialty Eyewear"
+      ],
+      "rebuiltH1": [
+        "Specialty Eyewear"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 132,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/specialty-eyewear/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/specialty-eyewear/contacts-glasses-that-enhance-performance",
+      "file": "products/specialty-eyewear/performance-eyewear/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 926,
+      "rebuiltWords": 1046,
+      "sourceH1": [
+        "Contacts & Glasses that Enhance Performance"
+      ],
+      "rebuiltH1": [
+        "Contacts & Glasses that Enhance Performance"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/specialty-eyewear/performance-eyewear/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/specialty-eyewear/safety-and-sports-glasses",
+      "file": "products/specialty-eyewear/safety-and-sports-glasses/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 733,
+      "rebuiltWords": 853,
+      "sourceH1": [
+        "Safety and Sports Glasses"
+      ],
+      "rebuiltH1": [
+        "Safety and Sports Glasses"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/specialty-eyewear/safety-and-sports-glasses/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/specialty-eyewear/scuba-masks-and-swim-goggles",
+      "file": "products/specialty-eyewear/scuba-masks-and-swim-goggles/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 537,
+      "rebuiltWords": 657,
+      "sourceH1": [
+        "Eyewear for Swimming, Snorkeling and Scuba Diving"
+      ],
+      "rebuiltH1": [
+        "Eyewear for Swimming, Snorkeling and Scuba Diving"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/specialty-eyewear/scuba-masks-and-swim-goggles/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/specialty-eyewear/shooting-glasses-and-hunting-eyewear",
+      "file": "products/specialty-eyewear/shooting-and-hunting-eyewear/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 584,
+      "rebuiltWords": 704,
+      "sourceH1": [
+        "Shooting Glasses and Hunting Eyewear"
+      ],
+      "rebuiltH1": [
+        "Shooting Glasses and Hunting Eyewear"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/specialty-eyewear/shooting-and-hunting-eyewear/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/specialty-eyewear/specialty-eyewear-overview",
+      "file": "products/specialty-eyewear/overview/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 519,
+      "rebuiltWords": 639,
+      "sourceH1": [
+        "Specialty Eyewear Overview"
+      ],
+      "rebuiltH1": [
+        "Specialty Eyewear Overview"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "products/specialty-eyewear/overview/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/all-about-vision",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/all-about-vision.html | tag/all-about-vision.htm | tag/all-about-vision/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/all-about-vision"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/childrens-vision-houston",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/childrens-vision-houston.html | tag/childrens-vision-houston.htm | tag/childrens-vision-houston/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/childrens-vision-houston"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/contact-lenses",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/contact-lenses.html | tag/contact-lenses.htm | tag/contact-lenses/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/contact-lenses"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/contact-lenses-near-me",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/contact-lenses-near-me.html | tag/contact-lenses-near-me.htm | tag/contact-lenses-near-me/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/contact-lenses-near-me"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/diabetic-retinopathy",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/diabetic-retinopathy.html | tag/diabetic-retinopathy.htm | tag/diabetic-retinopathy/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/diabetic-retinopathy"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/dry-eye",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/dry-eye.html | tag/dry-eye.htm | tag/dry-eye/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/dry-eye"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/dry-eyes",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/dry-eyes.html | tag/dry-eyes.htm | tag/dry-eyes/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/dry-eyes"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eye-care-houston",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eye-care-houston.html | tag/eye-care-houston.htm | tag/eye-care-houston/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eye-care-houston"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eye-doctor",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eye-doctor.html | tag/eye-doctor.htm | tag/eye-doctor/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eye-doctor"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eye-doctor-houston",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eye-doctor-houston.html | tag/eye-doctor-houston.htm | tag/eye-doctor-houston/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eye-doctor-houston"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eye-doctor-near-me",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eye-doctor-near-me.html | tag/eye-doctor-near-me.htm | tag/eye-doctor-near-me/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eye-doctor-near-me"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eye-drops",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eye-drops.html | tag/eye-drops.htm | tag/eye-drops/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eye-drops"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eye-emergency",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eye-emergency.html | tag/eye-emergency.htm | tag/eye-emergency/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eye-emergency"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eye-exam",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eye-exam.html | tag/eye-exam.htm | tag/eye-exam/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eye-exam"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eye-exam-houston",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eye-exam-houston.html | tag/eye-exam-houston.htm | tag/eye-exam-houston/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eye-exam-houston"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eye-exam-near-me",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eye-exam-near-me.html | tag/eye-exam-near-me.htm | tag/eye-exam-near-me/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eye-exam-near-me"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eye-infection",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eye-infection.html | tag/eye-infection.htm | tag/eye-infection/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eye-infection"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eyeglass-lens-services",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eyeglass-lens-services.html | tag/eyeglass-lens-services.htm | tag/eyeglass-lens-services/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eyeglass-lens-services"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eyeglass-warranty",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eyeglass-warranty.html | tag/eyeglass-warranty.htm | tag/eyeglass-warranty/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eyeglass-warranty"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eyeglasses-in-houston",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eyeglasses-in-houston.html | tag/eyeglasses-in-houston.htm | tag/eyeglasses-in-houston/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eyeglasses-in-houston"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/eyelid",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/eyelid.html | tag/eyelid.htm | tag/eyelid/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/eyelid"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/houston-eye-care",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/houston-eye-care.html | tag/houston-eye-care.htm | tag/houston-eye-care/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/houston-eye-care"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/houston-eye-doctor",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/houston-eye-doctor.html | tag/houston-eye-doctor.htm | tag/houston-eye-doctor/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/houston-eye-doctor"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/houston-eye-exam",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/houston-eye-exam.html | tag/houston-eye-exam.htm | tag/houston-eye-exam/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/houston-eye-exam"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/houston-optometrist",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/houston-optometrist.html | tag/houston-optometrist.htm | tag/houston-optometrist/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/houston-optometrist"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/houston-tx-eye-exam",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/houston-tx-eye-exam.html | tag/houston-tx-eye-exam.htm | tag/houston-tx-eye-exam/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/houston-tx-eye-exam"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/kids-eye-exam",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/kids-eye-exam.html | tag/kids-eye-exam.htm | tag/kids-eye-exam/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/kids-eye-exam"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/microfibre-cloth",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/microfibre-cloth.html | tag/microfibre-cloth.htm | tag/microfibre-cloth/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/microfibre-cloth"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/mosquito-bite",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/mosquito-bite.html | tag/mosquito-bite.htm | tag/mosquito-bite/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/mosquito-bite"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/multiple-sclerosis",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/multiple-sclerosis.html | tag/multiple-sclerosis.htm | tag/multiple-sclerosis/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/multiple-sclerosis"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/optometrist",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/optometrist.html | tag/optometrist.htm | tag/optometrist/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/optometrist"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/optometrist-houston",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/optometrist-houston.html | tag/optometrist-houston.htm | tag/optometrist-houston/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/optometrist-houston"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/optometrist-near-me",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/optometrist-near-me.html | tag/optometrist-near-me.htm | tag/optometrist-near-me/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/optometrist-near-me"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/pediatric-eye-exams",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/pediatric-eye-exams.html | tag/pediatric-eye-exams.htm | tag/pediatric-eye-exams/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/pediatric-eye-exams"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/polycarbonate-lenses",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/polycarbonate-lenses.html | tag/polycarbonate-lenses.htm | tag/polycarbonate-lenses/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/polycarbonate-lenses"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/tag/vision-care-services",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at tag/vision-care-services.html | tag/vision-care-services.htm | tag/vision-care-services/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/tag/vision-care-services"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/team/dr-shawn-muldoon",
+      "file": "our-doctor/dr-shawn-muldoon/index.html",
+      "pageType": "about",
+      "status": "DIFFERS",
+      "recall": 0.9935,
+      "missingWords": 1,
+      "longestMissingRun": 1,
+      "sourceWords": 156,
+      "rebuiltWords": 253,
+      "sourceH1": [
+        "Dr. Shawn Muldoon"
+      ],
+      "rebuiltH1": [
+        "Dr. Shawn Muldoon"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 123,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "our-doctor/dr-shawn-muldoon/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/template/footer",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at template/footer.html | template/footer.htm | template/footer/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/template/footer"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/template/footer-2",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at template/footer-2.html | template/footer-2.htm | template/footer-2/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/template/footer-2"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/template/header",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at template/header.html | template/header.htm | template/header/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/template/header"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/template/header-2",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at template/header-2.html | template/header-2.htm | template/header-2/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/template/header-2"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/template/header-2-copy",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at template/header-2-copy.html | template/header-2-copy.htm | template/header-2-copy/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://www.briargroveeye.com/template/header-2-copy"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/testimonial/dr-muldoon-and-his-staff-go-above-and-beyond-to-give-efficient-friendly-service",
+      "file": "reviews/above-and-beyond/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 55,
+      "rebuiltWords": 196,
+      "sourceH1": [
+        "Dr Muldoon and his staff go above and beyond to give efficient friendly service."
+      ],
+      "rebuiltH1": [
+        "Dr Muldoon and his staff go above and beyond to give efficient friendly service."
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "reviews/above-and-beyond/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/testimonial/dr-muldoon-has-been-our-family-ophthalmologist-for-17-years",
+      "file": "reviews/our-family-eye-doctor-for-17-years/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 63,
+      "rebuiltWords": 204,
+      "sourceH1": [
+        "Dr. Muldoon has been our family Ophthalmologist for 17 years."
+      ],
+      "rebuiltH1": [
+        "Dr. Muldoon has been our family Ophthalmologist for 17 years."
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "reviews/our-family-eye-doctor-for-17-years/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/testimonial/dr-muldoon-is-a-super-nice-guy",
+      "file": "reviews/a-super-nice-guy/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 36,
+      "rebuiltWords": 177,
+      "sourceH1": [
+        "Dr. Muldoon is a super nice guy."
+      ],
+      "rebuiltH1": [
+        "Dr. Muldoon is a super nice guy."
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "reviews/a-super-nice-guy/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/testimonial/highly-recommended",
+      "file": "reviews/highly-recommended/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 47,
+      "rebuiltWords": 188,
+      "sourceH1": [
+        "Highly recommended."
+      ],
+      "rebuiltH1": [
+        "Highly recommended."
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "reviews/highly-recommended/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/testimonial/i-am-a-long-time-satisfied-customer",
+      "file": "reviews/long-time-satisfied-customer/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 51,
+      "rebuiltWords": 192,
+      "sourceH1": [
+        "I am a long-time satisfied customer."
+      ],
+      "rebuiltH1": [
+        "I am a long-time satisfied customer."
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "reviews/long-time-satisfied-customer/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/testimonial/i-highly-recommend-them",
+      "file": "reviews/i-highly-recommend-them/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 28,
+      "rebuiltWords": 169,
+      "sourceH1": [
+        "I highly recommend them."
+      ],
+      "rebuiltH1": [
+        "I highly recommend them."
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 128,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "reviews/i-highly-recommend-them/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/the-staff",
+      "file": "about/our-staff/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 49,
+      "rebuiltWords": 148,
+      "sourceH1": [
+        "The Staff"
+      ],
+      "rebuiltH1": [
+        "The Staff"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 123,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "about/our-staff/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/use-it-or-lose-it-make-the-most-of-your-fsa-vision-benefits-before-year-end",
+      "file": "eye-health/use-it-or-lose-it-make-the-most-of-your-fsa-vision-benefits-before-year-end/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 593,
+      "rebuiltWords": 800,
+      "sourceH1": [
+        "Use It or Lose It: Make the Most of Your FSA Vision Benefits Before Year-End"
+      ],
+      "rebuiltH1": [
+        "Use It or Lose It: Make the Most of Your FSA Vision Benefits Before Year-End"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 139,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "eye-health/use-it-or-lose-it-make-the-most-of-your-fsa-vision-benefits-before-year-end/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/website-accessibility-policy",
+      "file": "accessibility/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1140,
+      "rebuiltWords": 1229,
+      "sourceH1": [
+        "Website Accessibility Policy"
+      ],
+      "rebuiltH1": [
+        "Website Accessibility Policy"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 124,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "accessibility/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/what-to-do-if-a-mosquito-bites-your-eyelid-2021",
+      "file": "eye-health/what-to-do-if-a-mosquito-bites-your-eyelid-2021/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 804,
+      "rebuiltWords": 1011,
+      "sourceH1": [
+        "What To Do if a Mosquito Bites Your Eyelid"
+      ],
+      "rebuiltH1": [
+        "What To Do if a Mosquito Bites Your Eyelid"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 136,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "eye-health/what-to-do-if-a-mosquito-bites-your-eyelid-2021/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/whats-in-your-household-cleaning-supplies-2019",
+      "file": "eye-health/whats-in-your-household-cleaning-supplies-2019/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1017,
+      "rebuiltWords": 1224,
+      "sourceH1": [
+        "What’s in Your Household Cleaning Supplies?"
+      ],
+      "rebuiltH1": [
+        "What’s in Your Household Cleaning Supplies?"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 136,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "eye-health/whats-in-your-household-cleaning-supplies-2019/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/whats-new",
+      "file": "eye-health/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9615,
+      "missingWords": 42,
+      "longestMissingRun": 2,
+      "sourceWords": 1073,
+      "rebuiltWords": 1239,
+      "sourceH1": [
+        "What’s New"
+      ],
+      "rebuiltH1": [
+        "What’s New"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 156,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "eye-health/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/why-your-reading-vision-came-back",
+      "file": "eye-health/why-your-reading-vision-came-back/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 478,
+      "rebuiltWords": 685,
+      "sourceH1": [
+        "Why Your Reading Vision Came Back"
+      ],
+      "rebuiltH1": [
+        "Why Your Reading Vision Came Back"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 140,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "eye-health/why-your-reading-vision-came-back/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/winter-dry-eyes-2023",
+      "file": "eye-health/winter-dry-eyes-2023/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 339,
+      "rebuiltWords": 546,
+      "sourceH1": [
+        "This Winter, Don’t Let Dry Eyes Get the Best of You"
+      ],
+      "rebuiltH1": [
+        "This Winter, Don’t Let Dry Eyes Get the Best of You"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 139,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "eye-health/winter-dry-eyes-2023/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.briargroveeye.com/your-glasses-warranty-care-scheduling-in-in-houston-tx",
+      "file": "eye-health/your-glasses-warranty-care-scheduling-in-in-houston-tx/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 438,
+      "rebuiltWords": 645,
+      "sourceH1": [
+        "Your Glasses, Warranty, Care & Scheduling in in Houston, TX"
+      ],
+      "rebuiltH1": [
+        "Your Glasses, Warranty, Care & Scheduling in in Houston, TX"
+      ],
+      "sourceLinks": 13,
+      "rebuiltLinks": 138,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "eye-health/your-glasses-warranty-care-scheduling-in-in-houston-tx/index.html"
+        }
+      ]
+    }
+  ]
+}
