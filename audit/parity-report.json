@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/parity-report@1",
-  "generated": "2026-09-30T03:00:07.518Z",
+  "generated": "2026-10-05T01:18:49.369Z",
   "sourcePages": 165,
   "rebuiltFiles": 119,
   "mappedPages": 117,
@@ -76,7 +76,7 @@
       "missingWords": 1,
       "longestMissingRun": 1,
       "sourceWords": 1138,
-      "rebuiltWords": 1279,
+      "rebuiltWords": 1287,
       "sourceH1": [
         "Comprehensive Eye Care in Houston, TX – Briargrove Eye Center"
       ],
@@ -84,12 +84,12 @@
         "Comprehensive Eye Care in Houston, TX – Briargrove Eye Center"
       ],
       "sourceLinks": 17,
-      "rebuiltLinks": 146,
+      "rebuiltLinks": 150,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "17 image(s) without alt",
+          "title": "18 image(s) without alt",
           "detail": "index.html"
         }
       ]
@@ -111,12 +111,12 @@
         "At-Home vs. In-Office Dry Eye Treatments"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 140,
+      "rebuiltLinks": 141,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "eye-health/at-home-vs-in-office-dry-eye-treatments/index.html"
         }
       ]
@@ -152,12 +152,12 @@
         "Autoimmune Disease and Dry Eye: Is There a Connection?"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 138,
+      "rebuiltLinks": 139,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "eye-health/autoimmune-disease-and-dry-eye-2023/index.html"
         }
       ]
@@ -179,12 +179,12 @@
         "Cataract Awareness Month: What to Expect from Cataract Surgery"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 136,
+      "rebuiltLinks": 137,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "eye-health/cataract-awareness-month-2016-2/index.html"
         }
       ]
@@ -276,12 +276,12 @@
         "Contact Lens Options: Finding the Best Fit for Your Vision & Lifestyle"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 139,
+      "rebuiltLinks": 140,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "eye-health/contact-lens-options-finding-the-best-fit-for-your-vision-lifestyle/index.html"
         }
       ]
@@ -295,7 +295,7 @@
       "missingWords": 2,
       "longestMissingRun": 2,
       "sourceWords": 660,
-      "rebuiltWords": 819,
+      "rebuiltWords": 824,
       "sourceH1": [
         "A WIDE SELECTION OF CONTACT LENSES IN Uptown Houston, Texas"
       ],
@@ -303,7 +303,7 @@
         "A Wide Selection of Contact Lenses in Uptown Houston, Texas"
       ],
       "sourceLinks": 26,
-      "rebuiltLinks": 154,
+      "rebuiltLinks": 155,
       "findings": [
         {
           "severity": "minor",
@@ -314,7 +314,7 @@
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/contact-lenses/index.html"
         }
       ]
@@ -328,7 +328,7 @@
       "missingWords": 23,
       "longestMissingRun": 4,
       "sourceWords": 664,
-      "rebuiltWords": 795,
+      "rebuiltWords": 805,
       "sourceH1": [
         "Best Sellers – Top Contact Lenses in Uptown Houston, Texas"
       ],
@@ -336,12 +336,12 @@
         "Best Sellers – Top Contact Lenses in Uptown Houston, Texas"
       ],
       "sourceLinks": 14,
-      "rebuiltLinks": 134,
+      "rebuiltLinks": 135,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/contact-lenses/top-contact-lenses/index.html"
         }
       ]
@@ -355,7 +355,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 845,
-      "rebuiltWords": 1001,
+      "rebuiltWords": 1011,
       "sourceH1": [
         "Bifocal and Multifocal Contact Lenses"
       ],
@@ -363,12 +363,12 @@
         "Bifocal and Multifocal Contact Lenses"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 133,
+      "rebuiltLinks": 134,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/contact-lenses/multifocal/index.html"
         }
       ]
@@ -382,7 +382,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 1108,
-      "rebuiltWords": 1264,
+      "rebuiltWords": 1274,
       "sourceH1": [
         "Contact Lenses for the “Hard-to-Fit” Patient"
       ],
@@ -390,12 +390,12 @@
         "Contact Lenses for the “Hard-to-Fit” Patient"
       ],
       "sourceLinks": 14,
-      "rebuiltLinks": 133,
+      "rebuiltLinks": 134,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/contact-lenses/hard-to-fit/index.html"
         }
       ]
@@ -409,7 +409,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 349,
-      "rebuiltWords": 505,
+      "rebuiltWords": 515,
       "sourceH1": [
         "Disposable Contacts"
       ],
@@ -417,12 +417,12 @@
         "Disposable Contacts"
       ],
       "sourceLinks": 14,
-      "rebuiltLinks": 133,
+      "rebuiltLinks": 134,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/contact-lenses/disposable/index.html"
         }
       ]
@@ -436,7 +436,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 1002,
-      "rebuiltWords": 1158,
+      "rebuiltWords": 1168,
       "sourceH1": [
         "Eye Exams for Contact Lenses"
       ],
@@ -444,12 +444,12 @@
         "Eye Exams for Contact Lenses"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 133,
+      "rebuiltLinks": 134,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/contact-lenses/eye-exams-for-contacts/index.html"
         }
       ]
@@ -463,7 +463,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 618,
-      "rebuiltWords": 774,
+      "rebuiltWords": 784,
       "sourceH1": [
         "Gas Permeable (GP) Contact Lenses"
       ],
@@ -471,12 +471,12 @@
         "Gas Permeable (GP) Contact Lenses"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 133,
+      "rebuiltLinks": 134,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/contact-lenses/gas-permeable/index.html"
         }
       ]
@@ -490,7 +490,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 51,
-      "rebuiltWords": 207,
+      "rebuiltWords": 217,
       "sourceH1": [
         "Order Contact Lenses Online"
       ],
@@ -498,12 +498,12 @@
         "Order Contact Lenses Online"
       ],
       "sourceLinks": 14,
-      "rebuiltLinks": 134,
+      "rebuiltLinks": 135,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/contact-lenses/order-online/index.html"
         }
       ]
@@ -517,7 +517,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 21,
-      "rebuiltWords": 177,
+      "rebuiltWords": 187,
       "sourceH1": [
         "Our Featured Brands"
       ],
@@ -525,12 +525,12 @@
         "Our Featured Brands"
       ],
       "sourceLinks": 14,
-      "rebuiltLinks": 133,
+      "rebuiltLinks": 134,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "products/contact-lenses/brands/index.html"
         }
       ]
@@ -544,7 +544,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 403,
-      "rebuiltWords": 559,
+      "rebuiltWords": 569,
       "sourceH1": [
         "Toric Contact Lenses for Astigmatism"
       ],
@@ -552,12 +552,12 @@
         "Toric Contact Lenses for Astigmatism"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 133,
+      "rebuiltLinks": 134,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/contact-lenses/toric/index.html"
         }
       ]
@@ -579,12 +579,12 @@
         "Contact Us"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 127,
+      "rebuiltLinks": 128,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "contact/index.html"
         }
       ]
@@ -598,7 +598,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 105,
-      "rebuiltWords": 253,
+      "rebuiltWords": 255,
       "sourceH1": [
         "Email Us"
       ],
@@ -606,12 +606,12 @@
         "Email Us"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 127,
+      "rebuiltLinks": 128,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "contact/email-us/index.html"
         }
       ]
@@ -633,12 +633,12 @@
         "Patient Registration Form"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 124,
+      "rebuiltLinks": 125,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "patient-forms/index.html"
         }
       ]
@@ -660,12 +660,12 @@
         "Patient Testimonials"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 133,
+      "rebuiltLinks": 134,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "reviews/index.html"
         }
       ]
@@ -687,12 +687,12 @@
         "Disclaimer"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 121,
+      "rebuiltLinks": 122,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "disclaimer/index.html"
         }
       ]
@@ -714,7 +714,7 @@
         "Eye Care Services in Uptown Houston, TX"
       ],
       "sourceLinks": 14,
-      "rebuiltLinks": 148,
+      "rebuiltLinks": 149,
       "findings": [
         {
           "severity": "minor",
@@ -725,7 +725,7 @@
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/index.html"
         }
       ]
@@ -739,7 +739,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 1091,
-      "rebuiltWords": 1229,
+      "rebuiltWords": 1236,
       "sourceH1": [
         "Contact Lens Exams"
       ],
@@ -747,12 +747,12 @@
         "Contact Lens Exams"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 140,
+      "rebuiltLinks": 141,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/contact-lens-exams/index.html"
         }
       ]
@@ -766,7 +766,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 1121,
-      "rebuiltWords": 1255,
+      "rebuiltWords": 1262,
       "sourceH1": [
         "Hard-to-Fit Contacts"
       ],
@@ -774,12 +774,12 @@
         "Hard-to-Fit Contacts"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 137,
+      "rebuiltLinks": 138,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/specialty-contacts/index.html"
         }
       ]
@@ -793,7 +793,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 895,
-      "rebuiltWords": 1030,
+      "rebuiltWords": 1037,
       "sourceH1": [
         "Emergency Eye Care Services"
       ],
@@ -801,12 +801,12 @@
         "Emergency Eye Care Services"
       ],
       "sourceLinks": 14,
-      "rebuiltLinks": 143,
+      "rebuiltLinks": 144,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/emergency-eye-care/index.html"
         }
       ]
@@ -820,7 +820,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 263,
-      "rebuiltWords": 404,
+      "rebuiltWords": 411,
       "sourceH1": [
         "Eye Condition Treatment"
       ],
@@ -828,12 +828,12 @@
         "Eye Condition Treatment"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 144,
+      "rebuiltLinks": 145,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/eye-conditions/index.html"
         }
       ]
@@ -847,7 +847,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 255,
-      "rebuiltWords": 389,
+      "rebuiltWords": 396,
       "sourceH1": [
         "Astigmatism"
       ],
@@ -855,12 +855,12 @@
         "Astigmatism"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 137,
+      "rebuiltLinks": 138,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "services/astigmatism/index.html"
         }
       ]
@@ -874,7 +874,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 1030,
-      "rebuiltWords": 1164,
+      "rebuiltWords": 1171,
       "sourceH1": [
         "Dry Eyes"
       ],
@@ -882,12 +882,12 @@
         "Dry Eyes"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 137,
+      "rebuiltLinks": 138,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/dry-eye-treatment/index.html"
         }
       ]
@@ -901,7 +901,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 739,
-      "rebuiltWords": 873,
+      "rebuiltWords": 880,
       "sourceH1": [
         "Presbyopia Treatment"
       ],
@@ -909,12 +909,12 @@
         "Presbyopia Treatment"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 137,
+      "rebuiltLinks": 138,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/presbyopia/index.html"
         }
       ]
@@ -928,7 +928,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 617,
-      "rebuiltWords": 727,
+      "rebuiltWords": 734,
       "sourceH1": [
         "Comprehensive Eye Exams"
       ],
@@ -936,12 +936,12 @@
         "Comprehensive Eye Exams"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 129,
+      "rebuiltLinks": 130,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "services/comprehensive-eye-exams/index.html"
         }
       ]
@@ -955,7 +955,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 1155,
-      "rebuiltWords": 1257,
+      "rebuiltWords": 1260,
       "sourceH1": [
         "Technology – Advanced Eye Care"
       ],
@@ -963,12 +963,12 @@
         "Technology – Advanced Eye Care"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 126,
+      "rebuiltLinks": 127,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/comprehensive-eye-exams/advanced-technology/index.html"
         }
       ]
@@ -982,7 +982,7 @@
       "missingWords": 1,
       "longestMissingRun": 1,
       "sourceWords": 989,
-      "rebuiltWords": 1088,
+      "rebuiltWords": 1095,
       "sourceH1": [
         "Children’s Eye Care"
       ],
@@ -990,12 +990,12 @@
         "Children’s Eye Care"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 125,
+      "rebuiltLinks": 126,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/pediatric-eye-exams/index.html"
         }
       ]
@@ -1009,7 +1009,7 @@
       "missingWords": 1,
       "longestMissingRun": 1,
       "sourceWords": 723,
-      "rebuiltWords": 817,
+      "rebuiltWords": 820,
       "sourceH1": [
         "Kids’ Vision & Learning"
       ],
@@ -1017,12 +1017,12 @@
         "Kids’ Vision & Learning"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 125,
+      "rebuiltLinks": 126,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/pediatric-eye-exams/kids-vision-and-learning/index.html"
         }
       ]
@@ -1036,7 +1036,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 675,
-      "rebuiltWords": 777,
+      "rebuiltWords": 780,
       "sourceH1": [
         "What to Expect"
       ],
@@ -1044,12 +1044,12 @@
         "What to Expect"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 126,
+      "rebuiltLinks": 127,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/comprehensive-eye-exams/what-to-expect/index.html"
         }
       ]
@@ -1063,7 +1063,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 1189,
-      "rebuiltWords": 1327,
+      "rebuiltWords": 1334,
       "sourceH1": [
         "LASIK & Refractive Surgery Co-Management"
       ],
@@ -1071,12 +1071,12 @@
         "LASIK & Refractive Surgery Co-Management"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 140,
+      "rebuiltLinks": 141,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/lasik-co-management/index.html"
         }
       ]
@@ -1090,7 +1090,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 229,
-      "rebuiltWords": 367,
+      "rebuiltWords": 374,
       "sourceH1": [
         "Latisse"
       ],
@@ -1098,12 +1098,12 @@
         "Latisse"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 139,
+      "rebuiltLinks": 140,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "services/latisse/index.html"
         }
       ]
@@ -1117,7 +1117,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 297,
-      "rebuiltWords": 439,
+      "rebuiltWords": 446,
       "sourceH1": [
         "Eye Disease Management"
       ],
@@ -1125,12 +1125,12 @@
         "Eye Disease Management"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 144,
+      "rebuiltLinks": 145,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/medical-eye-care/index.html"
         }
       ]
@@ -1144,7 +1144,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 390,
-      "rebuiltWords": 524,
+      "rebuiltWords": 531,
       "sourceH1": [
         "Cataract Surgery Co-Management"
       ],
@@ -1152,12 +1152,12 @@
         "Cataract Surgery Co-Management"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 137,
+      "rebuiltLinks": 138,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/cataract-co-management/index.html"
         }
       ]
@@ -1171,7 +1171,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 1332,
-      "rebuiltWords": 1466,
+      "rebuiltWords": 1473,
       "sourceH1": [
         "Glaucoma Testing & Treatment"
       ],
@@ -1179,12 +1179,12 @@
         "Glaucoma Testing & Treatment"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 140,
+      "rebuiltLinks": 141,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/glaucoma-management/index.html"
         }
       ]
@@ -1198,7 +1198,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 242,
-      "rebuiltWords": 376,
+      "rebuiltWords": 383,
       "sourceH1": [
         "Diabetic Eye Disease"
       ],
@@ -1206,12 +1206,12 @@
         "Diabetic Eye Disease"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 136,
+      "rebuiltLinks": 137,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/diabetic-eye-exams/index.html"
         }
       ]
@@ -1225,7 +1225,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 294,
-      "rebuiltWords": 428,
+      "rebuiltWords": 435,
       "sourceH1": [
         "Macular Degeneration"
       ],
@@ -1233,12 +1233,12 @@
         "Macular Degeneration"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 137,
+      "rebuiltLinks": 138,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "services/macular-degeneration/index.html"
         }
       ]
@@ -1252,7 +1252,7 @@
       "missingWords": 1,
       "longestMissingRun": 1,
       "sourceWords": 146,
-      "rebuiltWords": 260,
+      "rebuiltWords": 271,
       "sourceH1": [
         "We Also Serve"
       ],
@@ -1260,12 +1260,12 @@
         "We Also Serve"
       ],
       "sourceLinks": 11,
-      "rebuiltLinks": 129,
+      "rebuiltLinks": 130,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "visit-us/areas-we-serve/index.html"
         }
       ]
@@ -1279,7 +1279,7 @@
       "missingWords": 7,
       "longestMissingRun": 2,
       "sourceWords": 255,
-      "rebuiltWords": 354,
+      "rebuiltWords": 357,
       "sourceH1": [
         "Tanglewood, Houston"
       ],
@@ -1287,12 +1287,12 @@
         "Tanglewood, Houston"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 130,
+      "rebuiltLinks": 131,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "visit-us/areas-we-serve/tanglewood-houston/index.html"
         }
       ]
@@ -1306,7 +1306,7 @@
       "missingWords": 7,
       "longestMissingRun": 2,
       "sourceWords": 245,
-      "rebuiltWords": 344,
+      "rebuiltWords": 347,
       "sourceH1": [
         "The Galleria – Houston, TX"
       ],
@@ -1314,12 +1314,12 @@
         "The Galleria – Houston, TX"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 130,
+      "rebuiltLinks": 131,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "visit-us/areas-we-serve/the-galleria-houston-tx/index.html"
         }
       ]
@@ -1341,12 +1341,12 @@
         "Eyeglass Care & Warranties in Houston | Briargrove Eye Center"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 142,
+      "rebuiltLinks": 143,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "eye-health/eyeglass-care-warranties-in-houston-briargrove-eye-center/index.html"
         }
       ]
@@ -1368,7 +1368,7 @@
         "Plenty of Choice-Eyeglasses Near Me"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 147,
+      "rebuiltLinks": 148,
       "findings": [
         {
           "severity": "minor",
@@ -1379,7 +1379,7 @@
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/index.html"
         }
       ]
@@ -1393,7 +1393,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 85,
-      "rebuiltWords": 184,
+      "rebuiltWords": 189,
       "sourceH1": [
         "Designer Frames"
       ],
@@ -1401,12 +1401,12 @@
         "Designer Frames"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 125,
+      "rebuiltLinks": 126,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "products/designer-frames/index.html"
         }
       ]
@@ -1420,7 +1420,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 63,
-      "rebuiltWords": 158,
+      "rebuiltWords": 160,
       "sourceH1": [
         "McAllister Eyewear"
       ],
@@ -1428,12 +1428,12 @@
         "McAllister Eyewear"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 124,
+      "rebuiltLinks": 125,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "products/designer-frames/mcallister-eyewear/index.html"
         }
       ]
@@ -1447,7 +1447,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 786,
-      "rebuiltWords": 892,
+      "rebuiltWords": 897,
       "sourceH1": [
         "Eyeglass Basics"
       ],
@@ -1455,12 +1455,12 @@
         "Eyeglass Basics"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 129,
+      "rebuiltLinks": 130,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "products/eyeglass-basics/index.html"
         }
       ]
@@ -1474,7 +1474,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 525,
-      "rebuiltWords": 627,
+      "rebuiltWords": 629,
       "sourceH1": [
         "Eyeglass Frames"
       ],
@@ -1482,12 +1482,12 @@
         "Eyeglass Frames"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 127,
+      "rebuiltLinks": 128,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/eyeglass-basics/frames/index.html"
         }
       ]
@@ -1501,7 +1501,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 708,
-      "rebuiltWords": 810,
+      "rebuiltWords": 812,
       "sourceH1": [
         "Lens Options for Eyeglasses"
       ],
@@ -1509,12 +1509,12 @@
         "Lens Options for Eyeglasses"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 127,
+      "rebuiltLinks": 128,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/eyeglass-basics/lens-options/index.html"
         }
       ]
@@ -1528,7 +1528,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 502,
-      "rebuiltWords": 604,
+      "rebuiltWords": 606,
       "sourceH1": [
         "Women’s Eyeglass Frames"
       ],
@@ -1536,12 +1536,12 @@
         "Women’s Eyeglass Frames"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 127,
+      "rebuiltLinks": 128,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/eyeglass-basics/womens-frames/index.html"
         }
       ]
@@ -1555,7 +1555,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 98,
-      "rebuiltWords": 228,
+      "rebuiltWords": 233,
       "sourceH1": [
         "EyeGlass Guide"
       ],
@@ -1563,12 +1563,12 @@
         "EyeGlass Guide"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 134,
+      "rebuiltLinks": 135,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/eyeglass-guide/index.html"
         }
       ]
@@ -1582,7 +1582,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 602,
-      "rebuiltWords": 732,
+      "rebuiltWords": 737,
       "sourceH1": [
         "Kid’s Optical"
       ],
@@ -1590,12 +1590,12 @@
         "Kid’s Optical"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 134,
+      "rebuiltLinks": 135,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/kids-eyewear/index.html"
         }
       ]
@@ -1609,7 +1609,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 151,
-      "rebuiltWords": 256,
+      "rebuiltWords": 261,
       "sourceH1": [
         "Lens Treatments"
       ],
@@ -1617,12 +1617,12 @@
         "Lens Treatments"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 129,
+      "rebuiltLinks": 130,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/lens-treatments/index.html"
         }
       ]
@@ -1636,7 +1636,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 237,
-      "rebuiltWords": 335,
+      "rebuiltWords": 337,
       "sourceH1": [
         "Anti-Reflective"
       ],
@@ -1644,12 +1644,12 @@
         "Anti-Reflective"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/lens-treatments/anti-reflective/index.html"
         }
       ]
@@ -1663,7 +1663,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 198,
-      "rebuiltWords": 296,
+      "rebuiltWords": 298,
       "sourceH1": [
         "Scratch Resistant"
       ],
@@ -1671,12 +1671,12 @@
         "Scratch Resistant"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 127,
+      "rebuiltLinks": 128,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/lens-treatments/scratch-resistant/index.html"
         }
       ]
@@ -1690,7 +1690,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 243,
-      "rebuiltWords": 341,
+      "rebuiltWords": 343,
       "sourceH1": [
         "UV Protection"
       ],
@@ -1698,12 +1698,12 @@
         "UV Protection"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/lens-treatments/uv-protection/index.html"
         }
       ]
@@ -1717,7 +1717,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 245,
-      "rebuiltWords": 365,
+      "rebuiltWords": 370,
       "sourceH1": [
         "Prescription Eyeglasses"
       ],
@@ -1725,12 +1725,12 @@
         "Prescription Eyeglasses"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 135,
+      "rebuiltLinks": 136,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "products/prescription-eyeglasses/index.html"
         }
       ]
@@ -1744,7 +1744,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 224,
-      "rebuiltWords": 334,
+      "rebuiltWords": 336,
       "sourceH1": [
         "Bifocal Lenses"
       ],
@@ -1752,12 +1752,12 @@
         "Bifocal Lenses"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 130,
+      "rebuiltLinks": 131,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/prescription-eyeglasses/bifocal-lenses/index.html"
         }
       ]
@@ -1771,7 +1771,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 407,
-      "rebuiltWords": 517,
+      "rebuiltWords": 519,
       "sourceH1": [
         "Caring for Lenses"
       ],
@@ -1779,12 +1779,12 @@
         "Caring for Lenses"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 130,
+      "rebuiltLinks": 131,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/prescription-eyeglasses/caring-for-lenses/index.html"
         }
       ]
@@ -1798,7 +1798,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 645,
-      "rebuiltWords": 755,
+      "rebuiltWords": 757,
       "sourceH1": [
         "Eyeglass Frame Materials"
       ],
@@ -1806,12 +1806,12 @@
         "Eyeglass Frame Materials"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 130,
+      "rebuiltLinks": 131,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/prescription-eyeglasses/frame-materials/index.html"
         }
       ]
@@ -1825,7 +1825,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 499,
-      "rebuiltWords": 609,
+      "rebuiltWords": 611,
       "sourceH1": [
         "Frame Maintenance"
       ],
@@ -1833,12 +1833,12 @@
         "Frame Maintenance"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 130,
+      "rebuiltLinks": 131,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/prescription-eyeglasses/frame-maintenance/index.html"
         }
       ]
@@ -1852,7 +1852,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 234,
-      "rebuiltWords": 344,
+      "rebuiltWords": 346,
       "sourceH1": [
         "High Index and Aspheric Lenses"
       ],
@@ -1860,12 +1860,12 @@
         "High Index and Aspheric Lenses"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 130,
+      "rebuiltLinks": 131,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/prescription-eyeglasses/high-index-aspheric-lenses/index.html"
         }
       ]
@@ -1879,7 +1879,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 246,
-      "rebuiltWords": 356,
+      "rebuiltWords": 358,
       "sourceH1": [
         "Polycarbonate Lenses"
       ],
@@ -1887,12 +1887,12 @@
         "Polycarbonate Lenses"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 130,
+      "rebuiltLinks": 131,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/prescription-eyeglasses/polycarbonate-lenses/index.html"
         }
       ]
@@ -1906,7 +1906,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 288,
-      "rebuiltWords": 418,
+      "rebuiltWords": 423,
       "sourceH1": [
         "Quality Eyeglass Lenses in Houston, TX"
       ],
@@ -1914,12 +1914,12 @@
         "Quality Eyeglass Lenses in Houston, TX"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 139,
+      "rebuiltLinks": 140,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "products/quality-eyeglass-lenses/index.html"
         }
       ]
@@ -1933,7 +1933,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 131,
-      "rebuiltWords": 247,
+      "rebuiltWords": 252,
       "sourceH1": [
         "Sunglasses"
       ],
@@ -1941,12 +1941,12 @@
         "Sunglasses"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 134,
+      "rebuiltLinks": 135,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "products/sunglasses/index.html"
         }
       ]
@@ -1960,7 +1960,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 652,
-      "rebuiltWords": 758,
+      "rebuiltWords": 759,
       "sourceH1": [
         "Nonprescription Sunglasses"
       ],
@@ -1968,12 +1968,12 @@
         "Nonprescription Sunglasses"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 129,
+      "rebuiltLinks": 130,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/sunglasses/nonprescription/index.html"
         }
       ]
@@ -1987,7 +1987,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 546,
-      "rebuiltWords": 652,
+      "rebuiltWords": 653,
       "sourceH1": [
         "Performance and Sport Sunglasses"
       ],
@@ -1995,12 +1995,12 @@
         "Performance and Sport Sunglasses"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 129,
+      "rebuiltLinks": 130,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/sunglasses/performance-and-sport/index.html"
         }
       ]
@@ -2014,7 +2014,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 170,
-      "rebuiltWords": 276,
+      "rebuiltWords": 277,
       "sourceH1": [
         "Prescription Sunglass Treatments"
       ],
@@ -2022,12 +2022,12 @@
         "Prescription Sunglass Treatments"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 129,
+      "rebuiltLinks": 130,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/sunglasses/prescription-treatments/index.html"
         }
       ]
@@ -2041,7 +2041,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 461,
-      "rebuiltWords": 567,
+      "rebuiltWords": 568,
       "sourceH1": [
         "Prescription Sunglasses"
       ],
@@ -2049,12 +2049,12 @@
         "Prescription Sunglasses"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 129,
+      "rebuiltLinks": 130,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/sunglasses/prescription/index.html"
         }
       ]
@@ -2068,7 +2068,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 514,
-      "rebuiltWords": 620,
+      "rebuiltWords": 621,
       "sourceH1": [
         "Sunglasses for Kids"
       ],
@@ -2076,12 +2076,12 @@
         "Sunglasses for Kids"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 129,
+      "rebuiltLinks": 130,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/sunglasses/for-kids/index.html"
         }
       ]
@@ -2095,7 +2095,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 313,
-      "rebuiltWords": 430,
+      "rebuiltWords": 435,
       "sourceH1": [
         "Transitions® Lenses"
       ],
@@ -2103,12 +2103,12 @@
         "Transitions® Lenses"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 131,
+      "rebuiltLinks": 132,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/transitions-lenses/index.html"
         }
       ]
@@ -2122,7 +2122,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 263,
-      "rebuiltWords": 372,
+      "rebuiltWords": 374,
       "sourceH1": [
         "Are Transitions® Lenses Right For You?"
       ],
@@ -2130,12 +2130,12 @@
         "Are Transitions® Lenses Right For You?"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/transitions-lenses/are-they-right-for-you/index.html"
         }
       ]
@@ -2149,7 +2149,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 107,
-      "rebuiltWords": 215,
+      "rebuiltWords": 217,
       "sourceH1": [
         "Original Transitions Lenses"
       ],
@@ -2157,12 +2157,12 @@
         "Original Transitions Lenses"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/transitions-lenses/original/index.html"
         }
       ]
@@ -2176,7 +2176,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 151,
-      "rebuiltWords": 260,
+      "rebuiltWords": 262,
       "sourceH1": [
         "Transitions® SOLFX Sunwear Products"
       ],
@@ -2184,12 +2184,12 @@
         "Transitions® SOLFX Sunwear Products"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/transitions-lenses/solfx-sunwear/index.html"
         }
       ]
@@ -2203,7 +2203,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 116,
-      "rebuiltWords": 225,
+      "rebuiltWords": 227,
       "sourceH1": [
         "Transitions® Lenses XTRActive"
       ],
@@ -2211,12 +2211,12 @@
         "Transitions® Lenses XTRActive"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/transitions-lenses/xtractive/index.html"
         }
       ]
@@ -2238,12 +2238,12 @@
         "Your Eyes As A Window Into Your Whole-Body Health"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 139,
+      "rebuiltLinks": 140,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "eye-health/eyes-a-window-into-your-health-2023/index.html"
         }
       ]
@@ -2265,12 +2265,12 @@
         "Best Eye Exam & Family Eye Care in Uptown Houston, Texas"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 136,
+      "rebuiltLinks": 137,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "visit-us/index.html"
         }
       ]
@@ -2292,12 +2292,12 @@
         "Houston | Vision Problems Are Common in Older Parkinson’s Patients"
       ],
       "sourceLinks": 14,
-      "rebuiltLinks": 150,
+      "rebuiltLinks": 151,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "eye-health/houston-vision-problems-are-common-in-older-parkinsons-patients/index.html"
         }
       ]
@@ -2319,12 +2319,12 @@
         "How Do We See?"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 136,
+      "rebuiltLinks": 137,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "6 image(s) without alt",
+          "title": "7 image(s) without alt",
           "detail": "eye-health/how-do-we-see/index.html"
         }
       ]
@@ -2346,12 +2346,12 @@
         "How Safe Is It To Rinse Your Eyes With Tap Water?"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 141,
+      "rebuiltLinks": 142,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "eye-health/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023/index.html"
         }
       ]
@@ -2373,12 +2373,12 @@
         "Our Clinic in Uptown Houston Accepts The Following:"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 134,
+      "rebuiltLinks": 135,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "insurance/index.html"
         }
       ]
@@ -2392,7 +2392,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 201,
-      "rebuiltWords": 316,
+      "rebuiltWords": 324,
       "sourceH1": [
         "CareCredit"
       ],
@@ -2400,12 +2400,12 @@
         "CareCredit"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 127,
+      "rebuiltLinks": 128,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "insurance/carecredit/index.html"
         }
       ]
@@ -2419,7 +2419,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 429,
-      "rebuiltWords": 544,
+      "rebuiltWords": 552,
       "sourceH1": [
         "FAQs of Vision Insurance Plans"
       ],
@@ -2427,12 +2427,12 @@
         "FAQs of Vision Insurance Plans"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 125,
+      "rebuiltLinks": 126,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "insurance/vision-insurance-faqs/index.html"
         }
       ]
@@ -2446,7 +2446,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 719,
-      "rebuiltWords": 834,
+      "rebuiltWords": 842,
       "sourceH1": [
         "What’s in Your Vision Insurance Plan"
       ],
@@ -2454,12 +2454,12 @@
         "What’s in Your Vision Insurance Plan"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 125,
+      "rebuiltLinks": 126,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "insurance/whats-in-your-vision-plan/index.html"
         }
       ]
@@ -2473,7 +2473,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 62,
-      "rebuiltWords": 179,
+      "rebuiltWords": 190,
       "sourceH1": [
         "Briargrove Eye Center"
       ],
@@ -2481,12 +2481,12 @@
         "Briargrove Eye Center"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 125,
+      "rebuiltLinks": 126,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "visit-us/briargrove-eye-center/index.html"
         }
       ]
@@ -2508,12 +2508,12 @@
         "New Glaucoma Treatments in 2026: Beyond Eye Drops"
       ],
       "sourceLinks": 14,
-      "rebuiltLinks": 140,
+      "rebuiltLinks": 141,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "eye-health/new-glaucoma-treatments-in-2026-beyond-eye-drops/index.html"
         }
       ]
@@ -2535,12 +2535,12 @@
         "New Year, Fresh Vision, Let’s Put Your Benefits to Good Use"
       ],
       "sourceLinks": 14,
-      "rebuiltLinks": 145,
+      "rebuiltLinks": 146,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "eye-health/new-year-fresh-vision-lets-put-your-benefits-to-good-use/index.html"
         }
       ]
@@ -2562,12 +2562,12 @@
         "November is Diabetes Awareness Month"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 136,
+      "rebuiltLinks": 137,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "eye-health/november-is-diabetes-awareness-month-2016/index.html"
         }
       ]
@@ -2589,12 +2589,12 @@
         "Our Eye Care Clinic"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 123,
+      "rebuiltLinks": 124,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "about/index.html"
         }
       ]
@@ -2616,7 +2616,7 @@
         "Our Uptown Houston Optometrist"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 129,
+      "rebuiltLinks": 130,
       "findings": [
         {
           "severity": "minor",
@@ -2627,7 +2627,7 @@
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "our-doctor/index.html"
         }
       ]
@@ -2649,12 +2649,12 @@
         "Pediatric Eye Exams In Houston, TX"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 140,
+      "rebuiltLinks": 141,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "eye-health/pediatric-eye-exams-at-briargrove-eye-center/index.html"
         }
       ]
@@ -2676,12 +2676,12 @@
         "Privacy Policy"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 121,
+      "rebuiltLinks": 122,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "privacy-policy/index.html"
         }
       ]
@@ -2703,12 +2703,12 @@
         "Protecting Your Eyes From The Desk Job"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 136,
+      "rebuiltLinks": 137,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "eye-health/protecting-your-eyes-from-the-desk-job/index.html"
         }
       ]
@@ -2730,12 +2730,12 @@
         "Silent Vision Loss and Emergency Eye Care in Uptown Houston"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 140,
+      "rebuiltLinks": 141,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "eye-health/silent-vision-loss-and-emergency-eye-care-in-uptown-houston/index.html"
         }
       ]
@@ -2763,7 +2763,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 373,
-      "rebuiltWords": 502,
+      "rebuiltWords": 507,
       "sourceH1": [
         "Specialty Eyewear"
       ],
@@ -2771,12 +2771,12 @@
         "Specialty Eyewear"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 132,
+      "rebuiltLinks": 133,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/specialty-eyewear/index.html"
         }
       ]
@@ -2790,7 +2790,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 926,
-      "rebuiltWords": 1046,
+      "rebuiltWords": 1048,
       "sourceH1": [
         "Contacts & Glasses that Enhance Performance"
       ],
@@ -2798,12 +2798,12 @@
         "Contacts & Glasses that Enhance Performance"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/specialty-eyewear/performance-eyewear/index.html"
         }
       ]
@@ -2817,7 +2817,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 733,
-      "rebuiltWords": 853,
+      "rebuiltWords": 855,
       "sourceH1": [
         "Safety and Sports Glasses"
       ],
@@ -2825,12 +2825,12 @@
         "Safety and Sports Glasses"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/specialty-eyewear/safety-and-sports-glasses/index.html"
         }
       ]
@@ -2844,7 +2844,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 537,
-      "rebuiltWords": 657,
+      "rebuiltWords": 659,
       "sourceH1": [
         "Eyewear for Swimming, Snorkeling and Scuba Diving"
       ],
@@ -2852,12 +2852,12 @@
         "Eyewear for Swimming, Snorkeling and Scuba Diving"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/specialty-eyewear/scuba-masks-and-swim-goggles/index.html"
         }
       ]
@@ -2871,7 +2871,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 584,
-      "rebuiltWords": 704,
+      "rebuiltWords": 706,
       "sourceH1": [
         "Shooting Glasses and Hunting Eyewear"
       ],
@@ -2879,12 +2879,12 @@
         "Shooting Glasses and Hunting Eyewear"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/specialty-eyewear/shooting-and-hunting-eyewear/index.html"
         }
       ]
@@ -2898,7 +2898,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 519,
-      "rebuiltWords": 639,
+      "rebuiltWords": 641,
       "sourceH1": [
         "Specialty Eyewear Overview"
       ],
@@ -2906,12 +2906,12 @@
         "Specialty Eyewear Overview"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "products/specialty-eyewear/overview/index.html"
         }
       ]
@@ -3429,7 +3429,7 @@
       "missingWords": 1,
       "longestMissingRun": 1,
       "sourceWords": 156,
-      "rebuiltWords": 253,
+      "rebuiltWords": 257,
       "sourceH1": [
         "Dr. Shawn Muldoon"
       ],
@@ -3437,12 +3437,12 @@
         "Dr. Shawn Muldoon"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 123,
+      "rebuiltLinks": 124,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "our-doctor/dr-shawn-muldoon/index.html"
         }
       ]
@@ -3526,7 +3526,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 55,
-      "rebuiltWords": 196,
+      "rebuiltWords": 198,
       "sourceH1": [
         "Dr Muldoon and his staff go above and beyond to give efficient friendly service."
       ],
@@ -3534,12 +3534,12 @@
         "Dr Muldoon and his staff go above and beyond to give efficient friendly service."
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "reviews/above-and-beyond/index.html"
         }
       ]
@@ -3553,7 +3553,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 63,
-      "rebuiltWords": 204,
+      "rebuiltWords": 206,
       "sourceH1": [
         "Dr. Muldoon has been our family Ophthalmologist for 17 years."
       ],
@@ -3561,12 +3561,12 @@
         "Dr. Muldoon has been our family Ophthalmologist for 17 years."
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "reviews/our-family-eye-doctor-for-17-years/index.html"
         }
       ]
@@ -3580,7 +3580,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 36,
-      "rebuiltWords": 177,
+      "rebuiltWords": 179,
       "sourceH1": [
         "Dr. Muldoon is a super nice guy."
       ],
@@ -3588,12 +3588,12 @@
         "Dr. Muldoon is a super nice guy."
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "reviews/a-super-nice-guy/index.html"
         }
       ]
@@ -3607,7 +3607,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 47,
-      "rebuiltWords": 188,
+      "rebuiltWords": 190,
       "sourceH1": [
         "Highly recommended."
       ],
@@ -3615,12 +3615,12 @@
         "Highly recommended."
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "reviews/highly-recommended/index.html"
         }
       ]
@@ -3634,7 +3634,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 51,
-      "rebuiltWords": 192,
+      "rebuiltWords": 194,
       "sourceH1": [
         "I am a long-time satisfied customer."
       ],
@@ -3642,12 +3642,12 @@
         "I am a long-time satisfied customer."
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "reviews/long-time-satisfied-customer/index.html"
         }
       ]
@@ -3661,7 +3661,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 28,
-      "rebuiltWords": 169,
+      "rebuiltWords": 171,
       "sourceH1": [
         "I highly recommend them."
       ],
@@ -3669,12 +3669,12 @@
         "I highly recommend them."
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 128,
+      "rebuiltLinks": 129,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "reviews/i-highly-recommend-them/index.html"
         }
       ]
@@ -3688,7 +3688,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 49,
-      "rebuiltWords": 148,
+      "rebuiltWords": 152,
       "sourceH1": [
         "The Staff"
       ],
@@ -3696,12 +3696,12 @@
         "The Staff"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 123,
+      "rebuiltLinks": 124,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "about/our-staff/index.html"
         }
       ]
@@ -3723,12 +3723,12 @@
         "Use It or Lose It: Make the Most of Your FSA Vision Benefits Before Year-End"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 139,
+      "rebuiltLinks": 140,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "eye-health/use-it-or-lose-it-make-the-most-of-your-fsa-vision-benefits-before-year-end/index.html"
         }
       ]
@@ -3750,12 +3750,12 @@
         "Website Accessibility Policy"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 124,
+      "rebuiltLinks": 125,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "accessibility/index.html"
         }
       ]
@@ -3777,12 +3777,12 @@
         "What To Do if a Mosquito Bites Your Eyelid"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 136,
+      "rebuiltLinks": 137,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "eye-health/what-to-do-if-a-mosquito-bites-your-eyelid-2021/index.html"
         }
       ]
@@ -3804,12 +3804,12 @@
         "What’s in Your Household Cleaning Supplies?"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 136,
+      "rebuiltLinks": 137,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "eye-health/whats-in-your-household-cleaning-supplies-2019/index.html"
         }
       ]
@@ -3831,12 +3831,12 @@
         "What’s New"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 156,
+      "rebuiltLinks": 157,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "eye-health/index.html"
         }
       ]
@@ -3858,12 +3858,12 @@
         "Why Your Reading Vision Came Back"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 140,
+      "rebuiltLinks": 141,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "eye-health/why-your-reading-vision-came-back/index.html"
         }
       ]
@@ -3885,12 +3885,12 @@
         "This Winter, Don’t Let Dry Eyes Get the Best of You"
       ],
       "sourceLinks": 12,
-      "rebuiltLinks": 139,
+      "rebuiltLinks": 140,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "4 image(s) without alt",
+          "title": "5 image(s) without alt",
           "detail": "eye-health/winter-dry-eyes-2023/index.html"
         }
       ]
@@ -3912,12 +3912,12 @@
         "Your Glasses, Warranty, Care & Scheduling in in Houston, TX"
       ],
       "sourceLinks": 13,
-      "rebuiltLinks": 138,
+      "rebuiltLinks": 139,
       "findings": [
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "5 image(s) without alt",
+          "title": "6 image(s) without alt",
           "detail": "eye-health/your-glasses-warranty-care-scheduling-in-in-houston-tx/index.html"
         }
       ]

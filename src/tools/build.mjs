@@ -297,7 +297,9 @@ function blocksHtml(blocks, page) {
         }).join('') + '</ul>');
       } else {
         const cols = !b.ordered && b.items.length >= 8 && b.items.every((i) => i.replace(/\[\[[^\]]*\]\]/g, '').trim().length <= 40);
-        out.push('<' + (b.ordered ? 'ol' : 'ul') + (cols ? ' class="cols"' : '') + '>' + b.items.map((i) => '<li>' + inline(i) + '</li>').join('') + '</' + (b.ordered ? 'ol' : 'ul') + '>');
+        // items that render empty (e.g. logo links whose image never downloaded) would show as bare bullets
+        const lis = b.items.map(inline).filter((h) => h && (h.replace(/<[^>]*>/g, '').trim() || /<img/.test(h)));
+        if (lis.length) out.push('<' + (b.ordered ? 'ol' : 'ul') + (cols ? ' class="cols"' : '') + '>' + lis.map((h) => '<li>' + h + '</li>').join('') + '</' + (b.ordered ? 'ol' : 'ul') + '>');
       }
     }
     else if (b.t === 'btn') {

@@ -4,7 +4,7 @@
   "targetUrl": "https://www.briargroveeye.com/",
   "origin": "https://www.briargroveeye.com",
   "createdAt": "2026-09-27T23:40:50.926Z",
-  "updatedAt": "2026-09-30T03:00:09.395Z",
+  "updatedAt": "2026-10-05T01:18:50.954Z",
   "config": {
     "maxPages": 400,
     "concurrency": 2,
@@ -108,17 +108,17 @@
     },
     "decontaminate": {
       "status": "done",
-      "at": "2026-09-30T03:00:08.923Z",
+      "at": "2026-10-05T01:18:50.519Z",
       "note": "CLEAN (0 traces)"
     },
     "parity": {
       "status": "fail",
-      "at": "2026-09-30T03:00:07.521Z",
+      "at": "2026-10-05T01:18:49.373Z",
       "note": "DRIFT — 169 findings"
     },
     "fabrication": {
       "status": "done",
-      "at": "2026-09-30T03:00:08.405Z",
+      "at": "2026-10-05T01:18:50.102Z",
       "note": "SOURCED — 0 findings"
     },
     "pixeldiff": {
@@ -138,7 +138,7 @@
     },
     "gate": {
       "status": "fail",
-      "at": "2026-09-30T03:00:09.395Z",
+      "at": "2026-10-05T01:18:50.954Z",
       "note": "NOT-READY — 25/29 passing"
     },
     "package": {

@@ -21,8 +21,10 @@ const RECORD = path.join(ROOT, 'audit/generated-art.json');
 const API = 'https://api.higgsfield.ai';
 const MODEL = 'higgsfield-ai/soul/standard';
 const POLICY = 'lifestyle photographs of people in everyday settings; never a clinic, exam room, optical store, medical staff, exam, procedure or treatment result; no text or logos';
-// design B "Galleria Bright": airy daylight in B's own palette (design A's copy of this file says cream/walnut/brass)
-const STYLE = 'candid editorial lifestyle photograph, bright airy daylight, fresh clean palette of crisp white walls, soft mint green, pale blush pink and deep forest green accents, light and optimistic mood, shallow depth of field, one single continuous photograph, the person large in the frame filling most of its height and centred with a little space above the head, natural relaxed expression, wearing colourful casual everyday clothes, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos';
+// design B modern copy (2026-10-05 regeneration, owner's pick "A: sunlit studio"): a current eyewear-campaign look,
+// hard sunlight with crisp graphic shadows over muted sage and warm cream, matching the restyled site (the earlier
+// airy mint/blush set is archived in assets/generated/_before-regen-2026-10-05/)
+const STYLE = 'modern eyewear brand campaign photograph, clean minimal composition, strong direct sunlight with crisp graphic shadows, muted sage green and warm cream palette with deep forest green accents, smooth plain surfaces, contemporary minimal styling in cream, sage, camel or forest green tones, crisp high-end commercial look, shallow depth of field, one single continuous photograph, close medium shot from the waist up, the person filling about two thirds of the frame height and centred with a little space above the head, face clearly visible, natural relaxed confident expression, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos';
 // (describe what IS wanted: naming things to forbid them, e.g. coats, uniforms or eyewear, makes Soul draw them)
 
 export const PROMPTS = {
@@ -110,6 +112,28 @@ Object.assign(PROMPTS, {
   // full-bleed home hero in design A's layout: headline on the left over a light wash, so the person stands on the right
   'g-home-wide': 'wide photo of a smiling woman in her thirties in a coral linen blouse wearing gold wire-rim eyeglasses, standing on the right side of the frame (not centred), waist-up, in a bright airy room; the left half of the frame is an open, softly out-of-focus plain white and mint-green wall with a tall green plant at the far edge',
 });
+// still lifes (no people) for the modern refresh: eyewear objects only, so they sit well inside the policy
+const STILL = 'minimal modern product still-life photograph for an eyewear brand campaign, strong direct sunlight from the side with crisp graphic shadows, calm uncluttered composition with generous empty space on the left, palette of warm cream, muted sage, deep forest green and small touches of warm brass gold, shallow depth of field, full-bleed photograph filling the whole frame edge to edge, no border, no text, no labels, no logos';
+const STILL_SLOTS = {
+  'g-still-cta': 'two pairs of eyeglasses, one tortoiseshell acetate frame and one thin gold wire frame, resting on a smooth pale mint stone block, beside a small blush-pink ceramic vase holding one green eucalyptus sprig, against a plain warm cream wall, placed on the right half of the frame',
+};
+Object.assign(PROMPTS, STILL_SLOTS);
+// modern-set fixes (2026-10-05): clothing stated outright, and no lobby (Soul wrote signage on its walls)
+Object.assign(PROMPTS, {
+  'g-contact-case': 'a young woman in a soft cream knit sweater at a bright minimal bathroom vanity holding an open contact lens case close to her face, morning routine, natural clear eyes',
+  'g-banner-suit': 'waist-up photo of a laughing bald man with a beard in a navy suit wearing eyeglasses, his whole head in view, in a bright minimal space with smooth plain walls',
+  // a named backdrop place (window, valley, living room) comes back as a small picture on the studio set, so
+  // these keep the idea and drop the place
+  'g-uv': 'a woman in her forties wearing clear eyeglasses, waist-up, bright sunlight falling across her face and shoulders, eyes relaxed',
+  'g-retina-light': 'an older man wearing eyeglasses reading a newspaper held open in both hands, waist-up, calm and focused, sunlight falling across him',
+  'g-prism': 'a young man in a green hoodie looking into the distance with a bright easy smile, clear eyes, waist-up',
+  'g-sport': 'a cyclist in a helmet and wraparound sport sunglasses standing beside a road bike, waist-up, relaxed after a ride',
+  // ("portrait" makes Soul hang a framed picture on the set wall, so these avoid the word)
+  'g-family': 'wide candid photo of a young family of four laughing together, two small children held in their parents\' arms, the father wearing eyeglasses, standing close in front of a seamless sage green backdrop that fills the entire background from edge to edge, all four faces large',
+  'g-uv-sun': 'head-and-shoulders portrait of a woman in a straw sun hat and eyeglasses, her face fully visible in bright sunlight, calm easy smile',
+  'g-dad-child': 'candid close-up photo of a smiling father wearing eyeglasses holding his toddler daughter on his hip against a sage green wall, both faces large in the photo',
+  'g-cataract-view': 'an older man in his seventies wearing eyeglasses smiling with clear bright eyes, waist-up, sunlight falling across his face',
+});
 // aspect per slot; the crop and output size follow it. Default 4:3 hero art. The live API accepts only
 // 9:16, 16:9, 4:3, 3:4, 1:1, 2:3 and 3:2, so a 21:9 banner is requested at 16:9 and cropped here.
 const ASPECT = {
@@ -118,6 +142,7 @@ const ASPECT = {
   'g-eyestrain': [3, 2], 'g-woman-glasses': [3, 2], 'g-young-woman': [3, 2], 'g-insurance': [3, 2], 'g-seniors': [3, 2],
   'g-new-glasses': [16, 9], 'g-cleaning': [16, 9],
   'g-antiglare': [3, 2], 'g-uv-sun': [3, 2], 'g-transitions-family': [3, 2], 'g-cataract-view': [3, 2], 'g-astig-view': [16, 9],
+  'g-still-cta': [3, 2],
   'g-banner-sun': [21, 9], 'g-winter-wide': [21, 9], 'g-banner-calm': [21, 9], 'g-banner-eyes': [21, 9], 'g-banner-smile': [21, 9],
   'g-computer': [21, 9], 'g-banner-man': [21, 9], 'g-banner-teen': [21, 9], 'g-banner-family': [21, 9], 'g-banner-suit': [21, 9],
 };
@@ -149,7 +174,7 @@ const b = await launch(9342); const p = await newPage(b.port);
 await p.goto('http://127.0.0.1:8767/');
 
 for (const slot of todo) {
-  const prompt = PROMPTS[slot] + ', ' + STYLE;
+  const prompt = PROMPTS[slot] + ', ' + (STILL_SLOTS[slot] ? STILL : STYLE);
   const [aw, ah] = ASPECT[slot] || [4, 3], aspect = aw + ':' + ah, maxW = MAXW[slot] || 1600;
   // a download left by an interrupted run is reused (with its sidecar) instead of paying to generate again
   const raw = path.join(OUT, slot + '.raw'), side = raw + '.json';
@@ -190,10 +215,13 @@ for (const slot of todo) {
     const flat = (ref, x0, y0, x1, y1) => { for (let y = y0; y <= y1; y += 2) for (let x = x0; x <= x1; x += 2) { const p = at(x, y); if (Math.abs(p[0] - ref[0]) + Math.abs(p[1] - ref[1]) + Math.abs(p[2] - ref[2]) > 24) return false; } return true; };
     const rT = at(2, 2), rB = at(2, H - 3), rL = at(2, Math.floor(H / 2)), rR = at(W - 3, Math.floor(H / 2));
     let t = 0, bo = H - 1, l = 0, r = W - 1;
-    while (t < H * 0.45 && flat(rT, 0, t, W - 1, t)) t++;
-    while (bo > H * 0.55 && flat(rB, 0, bo, W - 1, bo)) bo--;
-    while (l < W * 0.45 && flat(rL, l, 0, l, H - 1)) l++;
-    while (r > W * 0.55 && flat(rR, r, 0, r, H - 1)) r--;
+    // Soul's mattes are white; a flat band in any other colour is a plain backdrop (the "sunlit studio" style
+    // shoots on seamless sage walls), so only near-white edges are treated as matte
+    const white = (c) => Math.min(c[0], c[1], c[2]) > 225;
+    while (white(rT) && t < H * 0.45 && flat(rT, 0, t, W - 1, t)) t++;
+    while (white(rB) && bo > H * 0.55 && flat(rB, 0, bo, W - 1, bo)) bo--;
+    while (white(rL) && l < W * 0.45 && flat(rL, l, 0, l, H - 1)) l++;
+    while (white(rR) && r > W * 0.55 && flat(rR, r, 0, r, H - 1)) r--;
     // a real matte is even on opposite sides; a lopsided run is flat photo background (a wall, a sky), so
     // trim only the part both sides share
     const tb = Math.min(t, H - 1 - bo), lr = Math.min(l, W - 1 - r);
@@ -217,8 +245,8 @@ for (const slot of todo) {
   })()`);
   if (out.reject) {
     fs.unlinkSync(raw); fs.unlinkSync(side);
-    fs.rmSync(path.join(OUT, slot + '.jpg'), { force: true });
-    console.error(slot, 'REJECTED: photo framed small or off-centre inside a matte (t/r/b/l ' + out.trimmed.join('/') + '); run again to regenerate');
+    // the slot's previous image is kept, so a reject never leaves the site without a picture
+    console.error(slot, 'REJECTED: photo framed small or off-centre inside a matte (t/r/b/l ' + out.trimmed.join('/') + '); previous image kept; run again to regenerate');
     continue;
   }
   fs.writeFileSync(path.join(OUT, slot + '.jpg'), Buffer.from(out.data, 'base64'));

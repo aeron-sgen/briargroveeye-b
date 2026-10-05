@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/seo-changes@1",
-  "generated": "2026-09-30T03:00:06.975Z",
+  "generated": "2026-10-05T01:18:48.978Z",
   "note": "Every field written into the build by sr-seo --apply. Each carries where its value came from. A field the source already filled is never rewritten here.",
   "siteUrl": "https://www.briargroveeye.com",
   "siteName": "Briargrove Eye Center",
@@ -60,21 +60,21 @@
       "page": "https://www.briargroveeye.com/404.html",
       "field": "alt",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/404.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/404.html",
       "field": "img-lazy",
       "from": null,
-      "to": "5 images",
+      "to": "6 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -179,21 +179,21 @@
       "page": "https://www.briargroveeye.com/about/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/about/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/about/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -312,21 +312,21 @@
       "page": "https://www.briargroveeye.com/about/our-staff/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/about/our-staff/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/about/our-staff/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -445,21 +445,21 @@
       "page": "https://www.briargroveeye.com/accessibility/index.html",
       "field": "alt",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/accessibility/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/accessibility/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "5 images",
+      "to": "6 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -578,21 +578,21 @@
       "page": "https://www.briargroveeye.com/contact/email-us/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/contact/email-us/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/contact/email-us/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -711,21 +711,21 @@
       "page": "https://www.briargroveeye.com/contact/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/contact/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/contact/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -844,21 +844,21 @@
       "page": "https://www.briargroveeye.com/disclaimer/index.html",
       "field": "alt",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/disclaimer/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/disclaimer/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "5 images",
+      "to": "6 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -977,21 +977,21 @@
       "page": "https://www.briargroveeye.com/eye-health/at-home-vs-in-office-dry-eye-treatments/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/at-home-vs-in-office-dry-eye-treatments/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/at-home-vs-in-office-dry-eye-treatments/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -1110,21 +1110,21 @@
       "page": "https://www.briargroveeye.com/eye-health/autoimmune-disease-and-dry-eye-2023/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/autoimmune-disease-and-dry-eye-2023/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/autoimmune-disease-and-dry-eye-2023/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -1236,21 +1236,21 @@
       "page": "https://www.briargroveeye.com/eye-health/cataract-awareness-month-2016-2/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/cataract-awareness-month-2016-2/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/cataract-awareness-month-2016-2/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -1355,21 +1355,21 @@
       "page": "https://www.briargroveeye.com/eye-health/contact-lens-options-finding-the-best-fit-for-your-vision-lifestyle/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/contact-lens-options-finding-the-best-fit-for-your-vision-lifestyle/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/contact-lens-options-finding-the-best-fit-for-your-vision-lifestyle/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -1488,21 +1488,21 @@
       "page": "https://www.briargroveeye.com/eye-health/eyeglass-care-warranties-in-houston-briargrove-eye-center/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/eyeglass-care-warranties-in-houston-briargrove-eye-center/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/eyeglass-care-warranties-in-houston-briargrove-eye-center/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -1621,21 +1621,21 @@
       "page": "https://www.briargroveeye.com/eye-health/eyes-a-window-into-your-health-2023/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/eyes-a-window-into-your-health-2023/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/eyes-a-window-into-your-health-2023/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -1754,21 +1754,21 @@
       "page": "https://www.briargroveeye.com/eye-health/houston-vision-problems-are-common-in-older-parkinsons-patients/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/houston-vision-problems-are-common-in-older-parkinsons-patients/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/houston-vision-problems-are-common-in-older-parkinsons-patients/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -1887,21 +1887,21 @@
       "page": "https://www.briargroveeye.com/eye-health/how-do-we-see/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/how-do-we-see/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/how-do-we-see/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -2020,21 +2020,21 @@
       "page": "https://www.briargroveeye.com/eye-health/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -2153,21 +2153,21 @@
       "page": "https://www.briargroveeye.com/eye-health/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -2286,21 +2286,21 @@
       "page": "https://www.briargroveeye.com/eye-health/new-glaucoma-treatments-in-2026-beyond-eye-drops/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/new-glaucoma-treatments-in-2026-beyond-eye-drops/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/new-glaucoma-treatments-in-2026-beyond-eye-drops/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -2419,21 +2419,21 @@
       "page": "https://www.briargroveeye.com/eye-health/new-year-fresh-vision-lets-put-your-benefits-to-good-use/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/new-year-fresh-vision-lets-put-your-benefits-to-good-use/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/new-year-fresh-vision-lets-put-your-benefits-to-good-use/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -2552,21 +2552,21 @@
       "page": "https://www.briargroveeye.com/eye-health/november-is-diabetes-awareness-month-2016/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/november-is-diabetes-awareness-month-2016/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/november-is-diabetes-awareness-month-2016/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -2685,21 +2685,21 @@
       "page": "https://www.briargroveeye.com/eye-health/pediatric-eye-exams-at-briargrove-eye-center/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/pediatric-eye-exams-at-briargrove-eye-center/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/pediatric-eye-exams-at-briargrove-eye-center/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -2818,21 +2818,21 @@
       "page": "https://www.briargroveeye.com/eye-health/protecting-your-eyes-from-the-desk-job/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/protecting-your-eyes-from-the-desk-job/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/protecting-your-eyes-from-the-desk-job/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -2951,21 +2951,21 @@
       "page": "https://www.briargroveeye.com/eye-health/silent-vision-loss-and-emergency-eye-care-in-uptown-houston/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/silent-vision-loss-and-emergency-eye-care-in-uptown-houston/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/silent-vision-loss-and-emergency-eye-care-in-uptown-houston/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -3084,21 +3084,21 @@
       "page": "https://www.briargroveeye.com/eye-health/use-it-or-lose-it-make-the-most-of-your-fsa-vision-benefits-before-year-end/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/use-it-or-lose-it-make-the-most-of-your-fsa-vision-benefits-before-year-end/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/use-it-or-lose-it-make-the-most-of-your-fsa-vision-benefits-before-year-end/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -3217,21 +3217,21 @@
       "page": "https://www.briargroveeye.com/eye-health/what-to-do-if-a-mosquito-bites-your-eyelid-2021/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/what-to-do-if-a-mosquito-bites-your-eyelid-2021/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/what-to-do-if-a-mosquito-bites-your-eyelid-2021/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -3350,21 +3350,21 @@
       "page": "https://www.briargroveeye.com/eye-health/whats-in-your-household-cleaning-supplies-2019/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/whats-in-your-household-cleaning-supplies-2019/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/whats-in-your-household-cleaning-supplies-2019/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -3483,21 +3483,21 @@
       "page": "https://www.briargroveeye.com/eye-health/why-your-reading-vision-came-back/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/why-your-reading-vision-came-back/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/why-your-reading-vision-came-back/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -3616,21 +3616,21 @@
       "page": "https://www.briargroveeye.com/eye-health/winter-dry-eyes-2023/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/winter-dry-eyes-2023/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/winter-dry-eyes-2023/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -3749,21 +3749,21 @@
       "page": "https://www.briargroveeye.com/eye-health/your-glasses-warranty-care-scheduling-in-in-houston-tx/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/your-glasses-warranty-care-scheduling-in-in-houston-tx/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/eye-health/your-glasses-warranty-care-scheduling-in-in-houston-tx/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -3889,21 +3889,21 @@
       "page": "https://www.briargroveeye.com/",
       "field": "alt",
       "from": null,
-      "to": "27 images",
+      "to": "28 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/",
       "field": "img-dimensions",
       "from": null,
-      "to": "27 images",
+      "to": "28 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/",
       "field": "img-lazy",
       "from": null,
-      "to": "26 images",
+      "to": "27 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -3959,21 +3959,21 @@
       "page": "https://www.briargroveeye.com/insurance/carecredit/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/insurance/carecredit/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/insurance/carecredit/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -4092,21 +4092,21 @@
       "page": "https://www.briargroveeye.com/insurance/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/insurance/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/insurance/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -4225,21 +4225,21 @@
       "page": "https://www.briargroveeye.com/insurance/vision-insurance-faqs/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/insurance/vision-insurance-faqs/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/insurance/vision-insurance-faqs/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -4358,21 +4358,21 @@
       "page": "https://www.briargroveeye.com/insurance/whats-in-your-vision-plan/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/insurance/whats-in-your-vision-plan/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/insurance/whats-in-your-vision-plan/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -4484,21 +4484,21 @@
       "page": "https://www.briargroveeye.com/our-doctor/dr-shawn-muldoon/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/our-doctor/dr-shawn-muldoon/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/our-doctor/dr-shawn-muldoon/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -4603,21 +4603,21 @@
       "page": "https://www.briargroveeye.com/our-doctor/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/our-doctor/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/our-doctor/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -4736,21 +4736,21 @@
       "page": "https://www.briargroveeye.com/patient-forms/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/patient-forms/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/patient-forms/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -4869,21 +4869,21 @@
       "page": "https://www.briargroveeye.com/privacy-policy/index.html",
       "field": "alt",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/privacy-policy/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/privacy-policy/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "5 images",
+      "to": "6 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -5002,21 +5002,21 @@
       "page": "https://www.briargroveeye.com/products/contact-lenses/brands/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/brands/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/brands/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -5135,21 +5135,21 @@
       "page": "https://www.briargroveeye.com/products/contact-lenses/disposable/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/disposable/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/disposable/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -5268,21 +5268,21 @@
       "page": "https://www.briargroveeye.com/products/contact-lenses/eye-exams-for-contacts/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/eye-exams-for-contacts/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/eye-exams-for-contacts/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -5401,21 +5401,21 @@
       "page": "https://www.briargroveeye.com/products/contact-lenses/gas-permeable/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/gas-permeable/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/gas-permeable/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -5534,21 +5534,21 @@
       "page": "https://www.briargroveeye.com/products/contact-lenses/hard-to-fit/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/hard-to-fit/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/hard-to-fit/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -5667,21 +5667,21 @@
       "page": "https://www.briargroveeye.com/products/contact-lenses/index.html",
       "field": "alt",
       "from": null,
-      "to": "16 images",
+      "to": "17 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "16 images",
+      "to": "17 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "15 images",
+      "to": "16 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -5800,21 +5800,21 @@
       "page": "https://www.briargroveeye.com/products/contact-lenses/multifocal/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/multifocal/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/multifocal/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -5933,21 +5933,21 @@
       "page": "https://www.briargroveeye.com/products/contact-lenses/order-online/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/order-online/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/order-online/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -6066,21 +6066,21 @@
       "page": "https://www.briargroveeye.com/products/contact-lenses/top-contact-lenses/index.html",
       "field": "alt",
       "from": null,
-      "to": "12 images",
+      "to": "13 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/top-contact-lenses/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "12 images",
+      "to": "13 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/top-contact-lenses/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "11 images",
+      "to": "12 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -6199,21 +6199,21 @@
       "page": "https://www.briargroveeye.com/products/contact-lenses/toric/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/toric/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/contact-lenses/toric/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -6332,21 +6332,21 @@
       "page": "https://www.briargroveeye.com/products/designer-frames/index.html",
       "field": "alt",
       "from": null,
-      "to": "10 images",
+      "to": "11 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/designer-frames/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "10 images",
+      "to": "11 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/designer-frames/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "9 images",
+      "to": "10 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -6458,21 +6458,21 @@
       "page": "https://www.briargroveeye.com/products/designer-frames/mcallister-eyewear/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/designer-frames/mcallister-eyewear/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/designer-frames/mcallister-eyewear/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -6577,21 +6577,21 @@
       "page": "https://www.briargroveeye.com/products/eyeglass-basics/frames/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/eyeglass-basics/frames/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/eyeglass-basics/frames/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -6710,21 +6710,21 @@
       "page": "https://www.briargroveeye.com/products/eyeglass-basics/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/eyeglass-basics/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/eyeglass-basics/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -6843,21 +6843,21 @@
       "page": "https://www.briargroveeye.com/products/eyeglass-basics/lens-options/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/eyeglass-basics/lens-options/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/eyeglass-basics/lens-options/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -6976,21 +6976,21 @@
       "page": "https://www.briargroveeye.com/products/eyeglass-basics/womens-frames/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/eyeglass-basics/womens-frames/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/eyeglass-basics/womens-frames/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -7109,21 +7109,21 @@
       "page": "https://www.briargroveeye.com/products/eyeglass-guide/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/eyeglass-guide/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/eyeglass-guide/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -7242,21 +7242,21 @@
       "page": "https://www.briargroveeye.com/products/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -7375,21 +7375,21 @@
       "page": "https://www.briargroveeye.com/products/kids-eyewear/index.html",
       "field": "alt",
       "from": null,
-      "to": "10 images",
+      "to": "11 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/kids-eyewear/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "10 images",
+      "to": "11 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/kids-eyewear/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "9 images",
+      "to": "10 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -7508,21 +7508,21 @@
       "page": "https://www.briargroveeye.com/products/lens-treatments/anti-reflective/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/lens-treatments/anti-reflective/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/lens-treatments/anti-reflective/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -7641,21 +7641,21 @@
       "page": "https://www.briargroveeye.com/products/lens-treatments/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/lens-treatments/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/lens-treatments/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -7774,21 +7774,21 @@
       "page": "https://www.briargroveeye.com/products/lens-treatments/scratch-resistant/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/lens-treatments/scratch-resistant/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/lens-treatments/scratch-resistant/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -7907,21 +7907,21 @@
       "page": "https://www.briargroveeye.com/products/lens-treatments/uv-protection/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/lens-treatments/uv-protection/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/lens-treatments/uv-protection/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -8040,21 +8040,21 @@
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/bifocal-lenses/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/bifocal-lenses/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/bifocal-lenses/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -8173,21 +8173,21 @@
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/caring-for-lenses/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/caring-for-lenses/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/caring-for-lenses/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -8306,21 +8306,21 @@
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/frame-maintenance/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/frame-maintenance/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/frame-maintenance/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -8439,21 +8439,21 @@
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/frame-materials/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/frame-materials/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/frame-materials/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -8572,21 +8572,21 @@
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/high-index-aspheric-lenses/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/high-index-aspheric-lenses/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/high-index-aspheric-lenses/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -8705,21 +8705,21 @@
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -8838,21 +8838,21 @@
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/polycarbonate-lenses/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/polycarbonate-lenses/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/prescription-eyeglasses/polycarbonate-lenses/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -8971,21 +8971,21 @@
       "page": "https://www.briargroveeye.com/products/quality-eyeglass-lenses/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/quality-eyeglass-lenses/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/quality-eyeglass-lenses/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -9104,21 +9104,21 @@
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -9237,21 +9237,21 @@
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/overview/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/overview/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/overview/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -9370,21 +9370,21 @@
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/performance-eyewear/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/performance-eyewear/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/performance-eyewear/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -9503,21 +9503,21 @@
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/safety-and-sports-glasses/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/safety-and-sports-glasses/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/safety-and-sports-glasses/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -9636,21 +9636,21 @@
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/scuba-masks-and-swim-goggles/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/scuba-masks-and-swim-goggles/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/scuba-masks-and-swim-goggles/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -9769,21 +9769,21 @@
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/shooting-and-hunting-eyewear/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/shooting-and-hunting-eyewear/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/specialty-eyewear/shooting-and-hunting-eyewear/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -9902,21 +9902,21 @@
       "page": "https://www.briargroveeye.com/products/sunglasses/for-kids/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/sunglasses/for-kids/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/sunglasses/for-kids/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -10035,21 +10035,21 @@
       "page": "https://www.briargroveeye.com/products/sunglasses/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/sunglasses/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/sunglasses/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -10168,21 +10168,21 @@
       "page": "https://www.briargroveeye.com/products/sunglasses/nonprescription/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/sunglasses/nonprescription/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/sunglasses/nonprescription/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -10301,21 +10301,21 @@
       "page": "https://www.briargroveeye.com/products/sunglasses/performance-and-sport/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/sunglasses/performance-and-sport/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/sunglasses/performance-and-sport/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -10434,21 +10434,21 @@
       "page": "https://www.briargroveeye.com/products/sunglasses/prescription/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/sunglasses/prescription/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/sunglasses/prescription/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -10567,21 +10567,21 @@
       "page": "https://www.briargroveeye.com/products/sunglasses/prescription-treatments/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/sunglasses/prescription-treatments/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/sunglasses/prescription-treatments/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -10700,21 +10700,21 @@
       "page": "https://www.briargroveeye.com/products/transitions-lenses/are-they-right-for-you/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/transitions-lenses/are-they-right-for-you/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/transitions-lenses/are-they-right-for-you/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -10833,21 +10833,21 @@
       "page": "https://www.briargroveeye.com/products/transitions-lenses/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/transitions-lenses/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/transitions-lenses/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -10966,21 +10966,21 @@
       "page": "https://www.briargroveeye.com/products/transitions-lenses/original/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/transitions-lenses/original/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/transitions-lenses/original/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -11099,21 +11099,21 @@
       "page": "https://www.briargroveeye.com/products/transitions-lenses/solfx-sunwear/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/transitions-lenses/solfx-sunwear/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/transitions-lenses/solfx-sunwear/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -11232,21 +11232,21 @@
       "page": "https://www.briargroveeye.com/products/transitions-lenses/xtractive/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/transitions-lenses/xtractive/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/products/transitions-lenses/xtractive/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -11358,21 +11358,21 @@
       "page": "https://www.briargroveeye.com/reviews/a-super-nice-guy/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/a-super-nice-guy/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/a-super-nice-guy/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -11470,21 +11470,21 @@
       "page": "https://www.briargroveeye.com/reviews/above-and-beyond/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/above-and-beyond/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/above-and-beyond/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -11582,21 +11582,21 @@
       "page": "https://www.briargroveeye.com/reviews/highly-recommended/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/highly-recommended/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/highly-recommended/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -11694,21 +11694,21 @@
       "page": "https://www.briargroveeye.com/reviews/i-highly-recommend-them/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/i-highly-recommend-them/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/i-highly-recommend-them/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -11813,21 +11813,21 @@
       "page": "https://www.briargroveeye.com/reviews/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -11939,21 +11939,21 @@
       "page": "https://www.briargroveeye.com/reviews/long-time-satisfied-customer/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/long-time-satisfied-customer/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/long-time-satisfied-customer/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -12051,21 +12051,21 @@
       "page": "https://www.briargroveeye.com/reviews/our-family-eye-doctor-for-17-years/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/our-family-eye-doctor-for-17-years/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/reviews/our-family-eye-doctor-for-17-years/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -12177,21 +12177,21 @@
       "page": "https://www.briargroveeye.com/search/index.html",
       "field": "alt",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/search/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/search/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "5 images",
+      "to": "6 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -12310,21 +12310,21 @@
       "page": "https://www.briargroveeye.com/services/astigmatism/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/astigmatism/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/astigmatism/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -12443,21 +12443,21 @@
       "page": "https://www.briargroveeye.com/services/cataract-co-management/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/cataract-co-management/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/cataract-co-management/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -12576,21 +12576,21 @@
       "page": "https://www.briargroveeye.com/services/comprehensive-eye-exams/advanced-technology/index.html",
       "field": "alt",
       "from": null,
-      "to": "14 images",
+      "to": "15 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/comprehensive-eye-exams/advanced-technology/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "14 images",
+      "to": "15 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/comprehensive-eye-exams/advanced-technology/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "13 images",
+      "to": "14 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -12709,21 +12709,21 @@
       "page": "https://www.briargroveeye.com/services/comprehensive-eye-exams/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/comprehensive-eye-exams/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/comprehensive-eye-exams/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -12842,21 +12842,21 @@
       "page": "https://www.briargroveeye.com/services/comprehensive-eye-exams/what-to-expect/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/comprehensive-eye-exams/what-to-expect/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/comprehensive-eye-exams/what-to-expect/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -12975,21 +12975,21 @@
       "page": "https://www.briargroveeye.com/services/contact-lens-exams/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/contact-lens-exams/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/contact-lens-exams/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -13108,21 +13108,21 @@
       "page": "https://www.briargroveeye.com/services/diabetic-eye-exams/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/diabetic-eye-exams/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/diabetic-eye-exams/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -13241,21 +13241,21 @@
       "page": "https://www.briargroveeye.com/services/dry-eye-treatment/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/dry-eye-treatment/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/dry-eye-treatment/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -13374,21 +13374,21 @@
       "page": "https://www.briargroveeye.com/services/emergency-eye-care/index.html",
       "field": "alt",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/emergency-eye-care/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/emergency-eye-care/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -13507,21 +13507,21 @@
       "page": "https://www.briargroveeye.com/services/eye-conditions/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/eye-conditions/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/eye-conditions/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -13640,21 +13640,21 @@
       "page": "https://www.briargroveeye.com/services/glaucoma-management/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/glaucoma-management/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/glaucoma-management/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -13773,21 +13773,21 @@
       "page": "https://www.briargroveeye.com/services/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -13906,21 +13906,21 @@
       "page": "https://www.briargroveeye.com/services/lasik-co-management/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/lasik-co-management/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/lasik-co-management/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -14039,21 +14039,21 @@
       "page": "https://www.briargroveeye.com/services/latisse/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/latisse/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/latisse/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -14172,21 +14172,21 @@
       "page": "https://www.briargroveeye.com/services/macular-degeneration/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/macular-degeneration/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/macular-degeneration/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -14305,21 +14305,21 @@
       "page": "https://www.briargroveeye.com/services/medical-eye-care/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/medical-eye-care/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/medical-eye-care/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -14438,21 +14438,21 @@
       "page": "https://www.briargroveeye.com/services/pediatric-eye-exams/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/pediatric-eye-exams/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/pediatric-eye-exams/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -14571,21 +14571,21 @@
       "page": "https://www.briargroveeye.com/services/pediatric-eye-exams/kids-vision-and-learning/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/pediatric-eye-exams/kids-vision-and-learning/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/pediatric-eye-exams/kids-vision-and-learning/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -14704,21 +14704,21 @@
       "page": "https://www.briargroveeye.com/services/presbyopia/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/presbyopia/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/presbyopia/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -14837,21 +14837,21 @@
       "page": "https://www.briargroveeye.com/services/specialty-contacts/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/specialty-contacts/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/services/specialty-contacts/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -14970,154 +14970,154 @@
       "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
       "field": "alt",
       "from": null,
-      "to": "9 images",
+      "to": "10 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
       "field": "img-dimensions",
-      "from": null,
-      "to": "9 images",
-      "source": "present-from-an-earlier-seo-pass"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
-      "field": "img-lazy",
-      "from": null,
-      "to": "8 images",
-      "source": "derived:below-fold-position"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
-      "field": "title",
-      "from": null,
-      "to": "We Also Serve | Eye Doctor in Uptown Houston",
-      "source": "present-from-an-earlier-seo-pass"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
-      "field": "description",
-      "from": null,
-      "to": "Briargrove Eye Center offers a full range of eye health services to our patients, from children to older adults.Optometrist in Uptown Houston.",
-      "source": "present-from-an-earlier-seo-pass"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
-      "field": "canonical",
-      "from": null,
-      "to": "https://www.briargroveeye.com/visit-us/areas-we-serve/",
-      "source": "present-from-an-earlier-seo-pass"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
-      "field": "lang",
-      "from": null,
-      "to": "en",
-      "source": "present-from-an-earlier-seo-pass"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
-      "field": "og:title",
-      "from": null,
-      "to": "We Also Serve | Eye Doctor in Uptown Houston",
-      "source": "present-from-an-earlier-seo-pass"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
-      "field": "og:description",
-      "from": null,
-      "to": "Briargrove Eye Center offers a full range of eye health services to our patients, from children to older adults.Optometrist in Uptown Houston.",
-      "source": "present-from-an-earlier-seo-pass"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
-      "field": "og:type",
-      "from": null,
-      "to": "website",
-      "source": "present-from-an-earlier-seo-pass"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
-      "field": "og:image",
-      "from": null,
-      "to": "https://www.briargroveeye.com/assets/img/2c7fabc3-briargrove-front-desk-banner.jpg",
-      "source": "present-from-an-earlier-seo-pass"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
-      "field": "og:url",
-      "from": null,
-      "to": "https://www.briargroveeye.com/visit-us/areas-we-serve/",
-      "source": "present-from-an-earlier-seo-pass"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
-      "field": "robots",
-      "from": null,
-      "to": "index, follow",
-      "source": "default:index"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
-      "field": "og:site_name",
-      "from": null,
-      "to": "Briargrove Eye Center",
-      "source": "derived:site-name"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
-      "field": "twitter:card",
-      "from": null,
-      "to": "summary_large_image",
-      "source": "derived:og-image-present"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
-      "field": "twitter:title",
-      "from": null,
-      "to": "Optometrist in Tanglewood, Houston | Briargrove Eye Center",
-      "source": "derived:title"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
-      "field": "twitter:description",
-      "from": null,
-      "to": "Call Dr. Muldoon for an eye exam in Tanglewood, Houston at 855-974-4245. We can help you with contact lens fitting and eye emergencies as well.",
-      "source": "derived:description"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
-      "field": "twitter:image",
-      "from": null,
-      "to": "https://www.briargroveeye.com/assets/img/a3522ceb-tanglewood-tx.jpg",
-      "source": "derived:og-image"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
-      "field": "jsonld:Organization",
-      "from": null,
-      "to": "Briargrove Eye Center",
-      "source": "client-facts"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
-      "field": "alt",
-      "from": null,
-      "to": "11 images",
-      "source": "present-from-an-earlier-seo-pass"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
-      "field": "img-dimensions",
-      "from": null,
-      "to": "11 images",
-      "source": "present-from-an-earlier-seo-pass"
-    },
-    {
-      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
-      "field": "img-lazy",
       "from": null,
       "to": "10 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "9 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
+      "field": "title",
+      "from": null,
+      "to": "We Also Serve | Eye Doctor in Uptown Houston",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Briargrove Eye Center offers a full range of eye health services to our patients, from children to older adults.Optometrist in Uptown Houston.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.briargroveeye.com/visit-us/areas-we-serve/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "We Also Serve | Eye Doctor in Uptown Houston",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Briargrove Eye Center offers a full range of eye health services to our patients, from children to older adults.Optometrist in Uptown Houston.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.briargroveeye.com/assets/img/2c7fabc3-briargrove-front-desk-banner.jpg",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.briargroveeye.com/visit-us/areas-we-serve/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Briargrove Eye Center",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Optometrist in Tanglewood, Houston | Briargrove Eye Center",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Call Dr. Muldoon for an eye exam in Tanglewood, Houston at 855-974-4245. We can help you with contact lens fitting and eye emergencies as well.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.briargroveeye.com/assets/img/a3522ceb-tanglewood-tx.jpg",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Briargrove Eye Center",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "12 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "12 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/tanglewood-houston/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "11 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -15236,21 +15236,21 @@
       "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/the-galleria-houston-tx/index.html",
       "field": "alt",
       "from": null,
-      "to": "12 images",
+      "to": "13 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/the-galleria-houston-tx/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "12 images",
+      "to": "13 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/visit-us/areas-we-serve/the-galleria-houston-tx/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "11 images",
+      "to": "12 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -15362,21 +15362,21 @@
       "page": "https://www.briargroveeye.com/visit-us/briargrove-eye-center/index.html",
       "field": "alt",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/visit-us/briargrove-eye-center/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "7 images",
+      "to": "8 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/visit-us/briargrove-eye-center/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "6 images",
+      "to": "7 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -15481,21 +15481,21 @@
       "page": "https://www.briargroveeye.com/visit-us/index.html",
       "field": "alt",
       "from": null,
-      "to": "9 images",
+      "to": "10 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/visit-us/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "9 images",
+      "to": "10 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.briargroveeye.com/visit-us/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "8 images",
+      "to": "9 images",
       "source": "derived:below-fold-position"
     },
     {

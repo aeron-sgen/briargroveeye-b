@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/gate@1",
-  "generated": "2026-09-30T03:00:09.393Z",
+  "generated": "2026-10-05T01:18:50.953Z",
   "project": "briargroveeye-com-b",
   "target": "https://www.briargroveeye.com/",
   "verdict": "NOT-READY",
@@ -100,7 +100,7 @@
       "label": "Brand token layer emitted and actually referenced",
       "stage": "brand",
       "status": "PASS",
-      "evidence": "135 tokens declared, 43 referenced across 2 authored sheet(s), 29 off-token colour literal(s)"
+      "evidence": "135 tokens declared, 43 referenced across 2 authored sheet(s), 43 off-token colour literal(s)"
     },
     {
       "id": "C14",

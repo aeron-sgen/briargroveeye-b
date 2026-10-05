@@ -16,6 +16,8 @@ export const ICON = {
   alert: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 3l10 18H2z"/><path d="M12 10v5M12 18v.5"/></svg>',
   calendar: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>',
   star: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 3l2.8 5.8 6.2.9-4.5 4.4 1 6.2L12 17.3 6.5 20.3l1-6.2L3 9.7l6.2-.9z"/></svg>',
+  form: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M9 8h6M9 12h6M9 16h4"/></svg>',
+  mail: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg>',
   menu: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 8h16M4 16h16"/></svg>',
   close: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>',
   chev: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>',
@@ -25,6 +27,13 @@ export const ICON = {
 };
 
 const FONTS = ['bricolage-normal-200-800.woff2', 'jakarta-normal-200-800.woff2'];
+
+// Eye Trends-style two-tone heading: the last `n` words in the accent colour. Text is unchanged (only wrapped).
+export function hl(esc, text, n = 2) {
+  const w = String(text).trim().split(/\s+/);
+  if (w.length <= n + 1) return esc(text);
+  return esc(w.slice(0, -n).join(' ')) + ' <span class="hl">' + esc(w.slice(-n).join(' ')) + '</span>';
+}
 const LOGO = '/assets/brand/briargrove-logo.jpg';
 
 function header(current, k) {
@@ -33,7 +42,10 @@ function header(current, k) {
   const list = (arr) => arr.map(([h, t]) => '<li><a href="' + h + '/">' + esc(t) + '</a></li>').join('');
   const svc = NAV.services.map(([h, links]) => '<div class="mega-group"><p class="mega-h">' + esc(h) + '</p><ul>' + list(links) + '</ul></div>').join('');
   const eyeCards = NAV.eyewear.map(([href, t, art]) => '<a class="mega-tile" href="' + href + '/"><img src="' + ART[art].src + '" alt="" width="120" height="90" loading="lazy" sizes="140px"><span>' + esc(t) + '</span></a>').join('');
+  const { A, PHONE_NAP } = k;
+  // Eye Trends structure: a dark utility strip (address, hours, phone) above a solid full-width header
   return `<a class="skip" href="#main">Skip to main content</a>
+<div class="utility"><div class="wrap"><span class="u-addr">${ICON.pin}${esc(A.street)}, ${esc(A.city)}, ${esc(A.region)} ${esc(A.postal)}</span><span class="u-hours">${ICON.clock}Mon, Tue, Thu, Fri 9:00 AM - 6:00 PM · Sat 8:00 AM - 2:00 PM</span><a class="u-phone" href="${tel(PHONE_NAP)}">${ICON.phone}${esc(PHONE_NAP)}</a></div></div>
 <header class="site-header"><div class="wrap"><div class="bar">
 <a class="brand" href="/"><img src="${LOGO}" alt="Briargrove Eye Center" width="199" height="118" sizes="80px"></a>
 <nav class="nav" aria-label="Primary"><ul>
@@ -112,8 +124,11 @@ ${footer(k)}
 }
 
 export function ctaBand(k, h = 'Eye Exams & Eye Care For Your Entire Family', p = 'To book your eye exam, contact us today!') {
-  const { esc, BOOK, EXT, PHONE_CALL, tel } = k;
-  return `<section class="cta"><div class="wrap"><div class="cta-panel reveal"><div><h2>${esc(h)}</h2><p>${esc(p)}</p></div><div class="actions"><a class="btn btn-primary btn-lg" href="${BOOK}"${EXT}>Book Appointment ${ICON.arrow}</a><a class="btn btn-soft btn-lg" href="${tel(PHONE_CALL)}">${ICON.phone} ${esc(PHONE_CALL)}</a></div></div></div></section>`;
+  const { esc, BOOK, EXT, PHONE_CALL, tel, ART } = k;
+  // modern refresh: a deep-green panel with a generated eyewear still life (no people) beside the copy
+  const a = ART['g-still-cta'];
+  const media = a ? `<div class="cta-media"><img src="${a.src}" alt="" width="${a.w}" height="${a.h}" loading="lazy" decoding="async" sizes="(max-width: 960px) 100vw, 560px"></div>` : '';
+  return `<section class="cta"><div class="wrap"><div class="cta-panel${a ? ' has-media' : ''} reveal"><div class="cta-copy"><h2>${hl(esc, h)}</h2><p>${esc(p)}</p><div class="actions"><a class="btn btn-light btn-lg" href="${BOOK}"${EXT}>Book Appointment ${ICON.arrow}</a><a class="btn btn-outline-light btn-lg" href="${tel(PHONE_CALL)}">${ICON.phone} ${esc(PHONE_CALL)}</a></div></div>${media}</div></div></section>`;
 }
 
 export function formHandoff({ name, href, kind }, k) {
@@ -130,15 +145,16 @@ export function formHandoff({ name, href, kind }, k) {
 export function interior({ page, title, lead, heroImg, crumbs, prose, related }, k) {
   const { esc, BOOK, EXT, PHONE_CALL, tel, A, hoursTable } = k;
   const tall = heroImg && heroImg.h && heroImg.w && heroImg.h >= heroImg.w * 0.9;
-  const banner = heroImg ? '<div class="wrap"><div class="banner' + (heroImg.contain ? ' contain' : '') + (tall ? ' tall' : '') + '"><img src="' + heroImg.src + '" alt="' + esc(heroImg.alt) + '" width="' + (heroImg.w || 1600) + '" height="' + (heroImg.h || 1200) + '" fetchpriority="high" sizes="(max-width: 1288px) calc(100vw - 48px), 1240px"></div></div>' : '';
+  // Eye Trends structure: split hero, copy on the left and the photo in a card on the right
+  const banner = heroImg ? '<div class="banner' + (heroImg.contain ? ' contain' : '') + (tall ? ' tall' : '') + '"><img src="' + heroImg.src + '" alt="' + esc(heroImg.alt) + '" width="' + (heroImg.w || 1600) + '" height="' + (heroImg.h || 1200) + '" fetchpriority="high" sizes="(max-width: 960px) calc(100vw - 40px), 600px"></div>' : '';
   const side = (related.links.length ? '<nav class="side-card side-links" aria-label="' + esc(related.heading) + '"><p class="side-h">' + esc(related.heading) + '</p><ul>' + related.links.map(([h, t, isCur]) => '<li><a href="' + h + '"' + (isCur ? ' aria-current="page"' : '') + '>' + esc(t) + '</a></li>').join('') + '</ul></nav>' : '')
     + '<div class="side-card side-book"><p class="side-h">Eye Exams &amp; Eye Care For Your Entire Family</p><p>To book your eye exam, contact us today!</p><a class="btn btn-primary" href="' + BOOK + '"' + EXT + '>Schedule An Appointment</a><a class="btn btn-soft" href="/patient-forms/">Patient History Form</a><a class="btn btn-soft" href="/contact/email-us/">Email Us</a></div>'
     + '<div class="side-card side-hours"><p class="side-h">Hours &amp; Location</p><p>' + esc(A.street) + '<br>' + esc(A.city) + ', ' + esc(A.region) + ' ' + esc(A.postal) + '</p>' + hoursTable() + '<a class="link-arrow" href="/visit-us/">Hours &amp; Location</a></div>';
   return `
-<section class="page-hero${heroImg ? '' : ' no-media'}"><div class="wrap narrow">
-${crumbs}<h1>${esc(title)}</h1>${lead ? '<p class="lead">' + lead + '</p>' : ''}
-<div class="hero-actions"><a class="btn btn-primary" href="${BOOK}"${EXT}>Book Appointment ${ICON.arrow}</a><a class="btn btn-soft" href="${tel(PHONE_CALL)}">${ICON.phone} ${esc(PHONE_CALL)}</a></div>
-</div>${banner}</section>
+<section class="page-hero${heroImg ? ' split' : ' no-media'}"><div class="wrap${heroImg ? ' page-hero-grid' : ' narrow'}">
+<div class="page-hero-copy">${crumbs}${page.group !== 'article' && related.heading && related.heading !== 'In this section' && related.heading !== title ? '<p class="eyebrow">' + esc(related.heading) + '</p>' : ''}<h1>${hl(esc, title)}</h1>${lead ? '<p class="lead">' + lead + '</p>' : ''}
+<div class="hero-actions"><a class="btn btn-primary" href="${BOOK}"${EXT}>Book Appointment ${ICON.arrow}</a><a class="btn btn-soft" href="${tel(PHONE_CALL)}">${ICON.phone} ${esc(PHONE_CALL)}</a></div></div>
+${banner}</div></section>
 <div class="wrap page-body">
 <aside class="side" aria-label="Related">${side}</aside>
 <article class="prose">

@@ -251,6 +251,8 @@ p { margin: 0 0 var(--bb-space-4); }
 .page-hero .lead { font-size: var(--bb-step-1); color: var(--bb-ink-2); max-width: 60ch; margin-inline: auto; line-height: 1.5; }
 .page-hero .hero-actions { justify-content: center; margin-bottom: var(--bb-space-7); }
 .crumbs ol { list-style: none; display: inline-flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin: 0 0 18px; padding: 6px 14px; background: var(--bb-white); border: 1px solid var(--bb-line); border-radius: var(--bb-radius-pill); font-size: 0.85rem; color: var(--bb-ink-3); }
+.crumbs ol { align-items: center; }
+.crumbs li { display: inline-flex; align-items: center; min-width: 0; max-width: 100%; }   /* separator and text share one centre line */
 .crumbs li + li::before { content: "›"; margin-right: 6px; color: var(--bb-green-2); }
 .crumbs a { color: var(--bb-ink-2); text-decoration: none; display: inline-block; padding: 4px 0; max-width: 26ch; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; vertical-align: bottom; }
 .crumbs a:hover { color: var(--bb-green-2); }
@@ -368,10 +370,12 @@ p { margin: 0 0 var(--bb-space-4); }
 
 /* ── touch targets: 44px on touch-sized screens ───────────────────────────── */
 @media (max-width: 834px) {
-  .brand, .crumbs a, .foot-name a, .foot-grid p a, .foot-grid li a, .foot-bottom a, .foot-social a, .fact-pills a, .visit h2 a { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; min-width: 44px; }
+  .crumbs a { min-height: 44px; line-height: 36px; }   /* stays inline-block so a long name ellipsises instead of clipping both ends */
+  .brand, .foot-name a, .foot-grid p a, .foot-grid li a, .foot-bottom a, .foot-social a, .fact-pills a, .visit h2 a { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; min-width: 44px; }
   .side-links a { display: flex; align-items: center; min-height: 44px; padding-block: 6px; }
-  .prose p a, .prose li a, .prose h2 a, .prose h3 a, .prose h4 a, .tile h3 a, .form-handoff a:not(.btn), .form .notice a, .hint a { padding: 14px 8px; margin: -14px -8px; }   /* inline, so long links still wrap */
+  .prose p a:not(.btn), .prose li a:not(.btn), .prose h2 a, .prose h3 a, .prose h4 a, .tile h3 a, .form-handoff a:not(.btn), .form .notice a, .hint a { padding: 14px 8px; margin: -14px -8px; }   /* inline, so long links still wrap */
   .prose ul:not(.link-cards) > li { margin-bottom: 10px; }
+  .prose .link-cards li > a { padding: 20px 48px 20px 20px; margin: 0; }   /* the inline-link hit area above must not reach the cards */
 }
 
 /* ── motion ───────────────────────────────────────────────────────────────── */
@@ -450,7 +454,17 @@ p { margin: 0 0 var(--bb-space-4); }
   .gallery.m-carousel { grid-auto-columns: 72%; margin-inline: -20px; }
   .js .m-carousel .reveal { opacity: 1; transform: none; }   /* off to the side: the scroll reveal would never fire */
   .m-carousel-nav { justify-content: center; margin-top: 14px; }
+  /* phones: the visit card and its hours box get slimmer padding so the hours table fits down to 360px */
+  .visit { padding: 20px; }
+  .visit-hours { padding: 16px; }
+  .hours th { padding-right: 10px; }
+  /* phones: a hero without a photo needs no extra space under its buttons (the section below brings its own) */
+  .page-hero.no-media .hero-actions { margin-bottom: 0; }
 }
+@media (max-width: 380px) {
+  .hours th { white-space: normal; }   /* the narrowest phones: day names wrap so the times keep one line */
+}
+.form .hint { margin-top: 6px; }
 .carousel-nav[hidden] { display: none; }   /* the display:flex rule above otherwise overrides the hidden attribute */
 
 /* ── glass (frosted surfaces) ─────────────────────────────────────────────────
@@ -499,3 +513,271 @@ p { margin: 0 0 var(--bb-space-4); }
 @media (prefers-reduced-transparency: reduce) {
   .bar, .mega, .mobile-bar, .bento-label, .chip, .crumbs ol, .tile, .side-card, .hero-card, .home-hero .fact-pills li { background: var(--bb-white); -webkit-backdrop-filter: none; backdrop-filter: none; }
 }
+
+/* ── modern refresh (2026-10) ─────────────────────────────────────────────────
+   Same palette, photos, glass and layouts; tighter, larger type, quieter surfaces (hairlines instead of heavy
+   shadows), text labels instead of pill eyebrows, an arrow chip on primary buttons, more room between
+   sections on wide screens, and a deep-green booking panel with a generated still life. */
+:root {
+  --bb-shadow-1: 0 1px 2px rgb(20 32 26 / 0.04), 0 4px 16px rgb(20 32 26 / 0.04);
+  --bb-shadow-2: 0 2px 6px rgb(20 32 26 / 0.04), 0 22px 44px -16px rgb(20 32 26 / 0.16);
+  --bb-step-3: clamp(1.9rem, 1.35rem + 2.3vw, 3.5rem);
+  --bb-step-4: clamp(2.4rem, 1.5rem + 3.9vw, 5.2rem);
+  --bb-space-9: clamp(4.5rem, 2.8rem + 5vw, 8rem);
+}
+h1, h2 { letter-spacing: -0.038em; line-height: 1.02; }
+h3 { letter-spacing: -0.022em; }
+.section-head { margin-bottom: clamp(2rem, 1.4rem + 2.4vw, 4rem); }
+
+/* eyebrows: a small spaced label led by a short rule, no pill */
+.eyebrow, .panel .eyebrow { display: inline-flex; align-items: center; gap: 10px; padding: 0; background: none; border-radius: 0; font-size: 0.74rem; letter-spacing: 0.16em; color: var(--bb-green-2); }
+.eyebrow::before { content: ""; width: 24px; height: 2px; border-radius: 2px; background: currentColor; flex: none; }
+.home-hero .eyebrow { display: flex; }
+.eyebrow.on-dark { background: none; color: var(--bb-sun); }
+
+/* buttons: flat at rest, a lift and soft shadow on hover; a trailing arrow sits in a round chip */
+.btn-primary { box-shadow: none; }
+.btn-primary:hover { transform: translateY(-1px); box-shadow: 0 12px 26px -14px var(--bb-green); }
+.btn > svg:has(path[d^="M5 12h14"]) { box-sizing: content-box; width: 14px; height: 14px; padding: 6px; margin-right: -10px; border-radius: 50%; background: rgb(255 255 255 / 0.16); }   /* the arrow icon (design.mjs ICON.arrow), wherever it sits */
+.btn-light > svg:has(path[d^="M5 12h14"]), .btn-soft > svg:has(path[d^="M5 12h14"]) { background: var(--bb-green); color: var(--bb-white); }
+.btn-outline-light { background: transparent; color: var(--bb-white); box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.4); }
+.btn-outline-light:hover { background: rgb(255 255 255 / 0.1); color: var(--bb-white); }
+
+/* surfaces: hairlines, not shadows; images ease in on hover */
+.feature-media, .tile, .side-card { box-shadow: none; }
+.post { transition: transform var(--bb-dur) var(--bb-ease), box-shadow var(--bb-dur) var(--bb-ease); }
+.post:hover { transform: translateY(-4px); }
+.post-ph img, .brands img { transition: transform 900ms var(--bb-ease); }
+.post:hover .post-ph img, .brands li:hover img { transform: scale(1.04); }
+.link-cards a { transition: transform var(--bb-dur) var(--bb-ease), border-color var(--bb-dur) var(--bb-ease), background var(--bb-dur) var(--bb-ease); }
+.link-cards a:hover { transform: translateY(-2px); }
+
+/* interior and footer display type */
+.page-hero h1 { font-size: clamp(2.4rem, 1.5rem + 3.6vw, 4.6rem); }
+.foot-name { font-size: clamp(2.2rem, 1.1rem + 4.6vw, 5.4rem); letter-spacing: -0.045em; }
+
+/* booking panel: deep green, copy on the left, still life on the right (on top below 960px) */
+.cta-panel.has-media { grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr); gap: 0; padding: 0; align-items: stretch; background: var(--bb-green-ink); }
+.cta-panel.has-media::before { display: none; }
+.cta-panel.has-media .cta-copy { padding: clamp(32px, 5vw, 72px); align-self: center; }
+.cta-panel.has-media h2 { color: var(--bb-white); max-width: 14ch; margin-bottom: 12px; }
+.cta-panel.has-media p { color: var(--bb-mint-2); }
+.cta-panel.has-media .actions { margin-top: var(--bb-space-6); }
+.cta-panel.has-media :focus-visible { box-shadow: 0 0 0 3px var(--bb-sun); }
+.cta-media { position: relative; min-height: 340px; }
+.cta-media img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 78% 60%; }
+@media (max-width: 960px) {
+  .cta-panel.has-media { grid-template-columns: minmax(0, 1fr); }
+  .cta-media { order: -1; min-height: 0; aspect-ratio: 16 / 9; }
+}
+@media (max-width: 640px) {
+  .cta-panel.has-media .cta-copy { padding: 28px 22px 30px; text-align: center; }
+  .cta-panel.has-media h2 { margin-inline: auto; }
+}
+
+/* ── Eye Trends structure (2026-10) ───────────────────────────────────────────
+   Layout patterns from eyetrendsclearlake.com in B's palette: a dark utility strip over a solid full-width
+   header; full-width alternating bands (white / cream / mist / deep green) instead of inset rounded panels;
+   brass monospace labels and two-tone headings (.hl); dark photo tiles with a round arrow; split interior
+   heroes; a dark booking band and a dark footer. Square-ish buttons. Briargrove's copy and photos only. */
+:root {
+  --band-cream: #f7f1ea;
+  --band-mist: #f1f7f3;
+  --bb-font-mono: ui-monospace, "Cascadia Mono", "SFMono-Regular", Menlo, Consolas, monospace;
+}
+html { scroll-padding-top: 96px; }
+.btn { border-radius: 10px; }
+.hl { color: var(--bb-green-2); }
+.band-dark .hl, .cta .hl { color: var(--bb-sun); }
+.eyebrow, .panel .eyebrow { font-family: var(--bb-font-mono); font-weight: 600; font-size: 0.72rem; letter-spacing: 0.22em; color: var(--bb-walnut); }
+.eyebrow::before { background: var(--bb-sun); }
+.eyebrow.on-dark { color: var(--bb-sun); }
+
+/* utility strip + solid header */
+.utility { background: var(--bb-green-ink); color: var(--bb-mint-2); font-size: 0.82rem; }
+.utility .wrap { display: flex; align-items: center; gap: 24px; min-height: 40px; }
+.utility span, .utility a { display: inline-flex; align-items: center; gap: 8px; }
+.utility svg { width: 14px; height: 14px; flex: none; color: var(--bb-sun); }
+.u-hours { margin-left: auto; }
+.utility a { min-height: 40px; color: var(--bb-sun); font-weight: 700; text-decoration: none; }
+.site-header { padding-top: 0; background: var(--bb-white); border-bottom: 1px solid var(--bb-line); transition: box-shadow var(--bb-dur) var(--bb-ease); }
+.is-scrolled .site-header { box-shadow: var(--bb-shadow-1); }
+.bar, .is-scrolled .bar { min-height: 76px; padding: 0; background: transparent; border: 0; border-radius: 0; box-shadow: none; -webkit-backdrop-filter: none; backdrop-filter: none; }
+
+/* home hero sits below the header now (it was tucked under the floating pill) */
+.home-hero { margin-top: 0; min-height: calc(100svh - 117px); padding-top: clamp(28px, 5svh, 64px); }
+
+/* full-width bands */
+.band-white { background: var(--bb-white); }
+.band-cream { background: var(--band-cream); }
+.band-mist { background: var(--band-mist); }
+.band-dark { background: var(--bb-green-ink); color: var(--bb-mint-2); }
+.band-dark h2, .band-dark h3 { color: var(--bb-white); }
+
+/* services: four dark photo tiles, label and round arrow at the foot */
+.bento { grid-template-columns: repeat(4, minmax(0, 1fr)); grid-template-rows: none; }
+.bento .b0, .bento .b3 { grid-row: auto; grid-column: auto; }
+.bento li { aspect-ratio: 4 / 5; }
+.bento img, .bento .b3 img, .bento .b3 img[src^="/assets/img/g-"] { object-position: 50% 32%; }
+.bento a { border-radius: var(--bb-radius); }
+.bento a::after { content: ""; position: absolute; inset: 0; z-index: 1; background: linear-gradient(180deg, transparent 38%, rgb(3 46 25 / 0.88) 100%); pointer-events: none; }
+.bento-label { z-index: 2; left: 20px; right: 20px; bottom: 20px; padding: 0; background: none; border: 0; border-radius: 0; box-shadow: none; -webkit-backdrop-filter: none; backdrop-filter: none; color: var(--bb-white); }
+.bento-label b { color: var(--bb-white); font-size: var(--bb-step-1); }
+.bento-label i { background: transparent; box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.55); }
+
+/* "3 things": white cards with an icon circle on the cream band */
+.tile { background: var(--bb-white); border: 1px solid var(--bb-line); border-radius: var(--bb-radius); box-shadow: none; -webkit-backdrop-filter: none; backdrop-filter: none; padding: 30px; }
+.tile-ic { border-radius: 50%; background: var(--bb-mint); color: var(--bb-green-2); }
+.tiles li:nth-child(2) .tile-ic { background: var(--bb-sun-soft); color: var(--bb-walnut); }
+
+/* brands: photo tiles with the name over a dark fade; the boutique copy sits plainly beside its photo */
+.brands li { border-radius: var(--bb-radius); }
+.brands li::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, transparent 50%, rgb(3 46 25 / 0.85) 100%); pointer-events: none; }
+.brands span { z-index: 1; left: 18px; bottom: 16px; padding: 0; background: none; border-radius: 0; color: var(--bb-white); font: 600 0.74rem/1.2 var(--bb-font-mono); letter-spacing: 0.2em; }
+.boutique { margin-top: var(--bb-space-7); padding: 0; background: none; border-radius: 0; }
+.boutique-media, .feature-media { border-radius: var(--bb-radius-l); }
+
+/* review: a deep-green statement band, photo on the left */
+.review-card { grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); gap: clamp(32px, 5vw, 80px); align-items: center; overflow: visible; background: none; border-radius: 0; color: var(--bb-mint-2); }
+.review-media { order: -1; overflow: hidden; border-radius: var(--bb-radius-l); aspect-ratio: 4 / 4.4; }
+.review-body { padding: 0; }
+
+/* visit: plain on the cream band, hours on a white card */
+.visit { padding: 0; background: none; border: 0; border-radius: 0; }
+.visit-hours { background: var(--bb-white); border: 1px solid var(--bb-line); }
+
+/* booking: full-width deep-green band, still life in a card */
+.cta { padding-block: clamp(64px, 8vw, 112px); background: var(--bb-green-ink); }
+.cta-panel.has-media { gap: clamp(32px, 5vw, 80px); align-items: center; overflow: visible; background: none; border-radius: 0; }
+.cta-panel.has-media .cta-copy { padding: 0; }
+.cta-media { min-height: 0; aspect-ratio: 4 / 3; overflow: hidden; border-radius: var(--bb-radius-l); }
+
+/* interior: split hero on cream, copy left, photo card right */
+.page-hero { margin-top: 0; padding: clamp(40px, 6vw, 88px) 0; text-align: left; background: var(--band-cream); }
+.page-hero.no-media { padding-bottom: clamp(40px, 6vw, 88px); }
+.page-hero-grid { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr); gap: clamp(32px, 5vw, 72px); align-items: center; }
+.page-hero h1 { margin-inline: 0; max-width: 16ch; }
+.page-hero .lead { margin-inline: 0; }
+.page-hero .hero-actions { justify-content: flex-start; margin-bottom: 0; }
+.page-hero .banner { aspect-ratio: 4 / 3.3; border-radius: var(--bb-radius-l); box-shadow: var(--bb-shadow-2); }
+.page-hero .banner img[src^="/assets/img/g-"] { object-position: 50% 30%; }
+
+/* footer: full-width deep green */
+.site-footer { padding: clamp(56px, 6vw, 96px) 0 24px; background: var(--bb-green-ink); color: var(--bb-mint-2); border-top: 1px solid var(--bb-line-invert); }
+.foot-panel { padding: 0; background: none; border-radius: 0; }
+.foot-name a { color: var(--bb-white); }
+.foot-head, .foot-search { border-color: var(--bb-line-invert); }
+.foot-grid h3 { font-family: var(--bb-font-mono); font-weight: 600; letter-spacing: 0.2em; color: var(--bb-sun); }
+.site-footer a, .foot-grid li a, .foot-bottom a { color: var(--bb-white); }
+.site-footer .muted, .foot-bottom { color: var(--bb-mint-2); }
+.site-footer .hours th, .site-footer .hours td { color: var(--bb-white); border-color: var(--bb-line-invert); }
+.site-footer .hours .closed th, .site-footer .hours .closed td { color: var(--bb-mint-2); }
+.site-footer .site-search label { color: var(--bb-white); }
+.foot-social a { color: var(--bb-sun); }
+.site-footer .btn-primary { background: var(--bb-white); color: var(--bb-green-ink); }
+.site-footer .btn-soft { color: var(--bb-green-ink); }
+.site-footer :focus-visible { box-shadow: 0 0 0 3px var(--bb-sun); }
+
+.site-search input { border-radius: 10px; }
+@media (max-width: 1180px) {
+  .utility .u-addr { display: none; }
+  .utility .u-hours { margin-left: 0; }
+  .utility .wrap { justify-content: space-between; }
+}
+@media (max-width: 960px) {
+  .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: none; }
+  .bento .b0 { grid-column: auto; }
+  .page-hero-grid { grid-template-columns: minmax(0, 1fr); }
+  .page-hero .banner { aspect-ratio: 16 / 10; }
+  .review-card { grid-template-columns: minmax(0, 1fr); }
+  .review-media { aspect-ratio: 16 / 11; max-height: none; }
+}
+@media (max-width: 640px) {
+  .bento.m-carousel { grid-template-columns: none; grid-auto-columns: 82%; }   /* the 2/4-column tile grid above must not override the swipe row */
+  .bento.m-carousel > li { aspect-ratio: auto; }
+  .utility .u-hours { display: none; }
+  .utility .wrap { justify-content: center; }
+  .bar { min-height: 62px; }
+  .home-hero { margin-top: 0; padding-top: 28px; min-height: 0; }
+  /* phones keep the centred heroes and buttons the owner asked for */
+  .page-hero { margin-top: 0; padding: 32px 0 40px; text-align: center; }
+  .page-hero h1, .page-hero .lead { margin-inline: auto; }
+  .page-hero .hero-actions { justify-content: center; }
+  .cta { padding-block: 56px; }
+  .cta-panel.has-media .cta-copy { padding: 0; }
+  .site-footer .foot-actions { justify-content: center; }
+}
+
+/* nav: an underline that slides in on hover / focus, and stays on the current page and an open menu */
+.nav > ul > li > a, .nav > ul > li > button { position: relative; }
+.nav > ul > li > a:hover, .nav > ul > li > button:hover, .nav .open > button, .nav [aria-current="page"] { background: none; color: var(--bb-green-ink); }
+.nav > ul > li > a::after, .nav > ul > li > button::after { content: ""; position: absolute; left: 16px; right: 16px; bottom: 6px; height: 2px; border-radius: 2px; background: var(--bb-green-2); transform: scaleX(0); transform-origin: left; transition: transform 280ms var(--bb-ease); }
+.nav > ul > li > button::after { right: 32px; }   /* stops before the chevron */
+
+/* ── modern pass 3 (2026-10-05): patterns from the Eye Care Catoosa "B" example ─
+   quick-link cards overlapping the hero; plain breadcrumbs with ring separators; a section label over interior
+   titles; a round hero photo with a halo ring; arched feature photos numbered 01-04 (CSS counters, not text); a
+   short accent rule over prose headings; a big quote mark on the review; a deep-green visit card in the sidebar.
+   Also the audit's tiny-text fix (labels were 11.5px). */
+.eyebrow, .panel .eyebrow { font-size: 0.78rem; }
+.brands span { font-size: 0.78rem; }
+
+/* home: three patient cards riding up over the hero's lower edge */
+.home-hero { padding-bottom: 64px; }
+.quick-band { position: relative; z-index: 3; margin-top: -40px; }
+.quick-cards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.quick-cards a { display: flex; align-items: center; gap: 14px; min-height: 76px; padding: 14px 20px; background: var(--bb-white); border: 1px solid var(--bb-line); border-radius: var(--bb-radius); box-shadow: var(--bb-shadow-2); color: var(--bb-green-ink); text-decoration: none; transition: transform var(--bb-dur) var(--bb-ease); }
+.quick-cards a:hover { transform: translateY(-3px); color: var(--bb-green-ink); }
+.quick-cards b { flex: 1; font: 700 var(--bb-step-0)/1.25 var(--bb-font-body); }
+.q-ic { display: grid; place-items: center; width: 46px; height: 46px; flex: none; border-radius: 50%; background: var(--bb-mint); color: var(--bb-green-2); }
+.q-ic svg { width: 22px; height: 22px; }
+.quick-cards a > svg { width: 18px; height: 18px; flex: none; color: var(--bb-green-2); transition: transform var(--bb-dur) var(--bb-ease); }
+.quick-cards a:hover > svg { transform: translateX(4px); }
+.quick-band + .section { padding-top: clamp(4rem, 2.6rem + 4vw, 6.5rem); }
+
+/* breadcrumbs: plain text, small ring between items */
+.crumbs ol { padding: 0; background: none; border: 0; border-radius: 0; -webkit-backdrop-filter: none; backdrop-filter: none; gap: 4px 10px; }
+.crumbs li + li::before { content: ""; width: 5px; height: 5px; margin-right: 10px; border: 1.5px solid var(--bb-green-2); border-radius: 50%; }
+.crumbs [aria-current] { color: var(--bb-green-ink); font-weight: 700; }
+
+/* interior hero: a round photo with a halo ring (diagrams and logos keep their rectangle) */
+.page-hero .eyebrow { margin-bottom: 10px; }
+.page-hero .banner:not(.contain) { justify-self: center; width: min(100%, 460px); aspect-ratio: 1; border-radius: 50%; box-shadow: 0 0 0 14px rgb(255 255 255 / 0.55), 0 0 0 15px var(--bb-line), 0 30px 60px -20px rgb(20 32 26 / 0.3); }
+.page-hero .banner:not(.contain) img { object-position: 50% 30%; }
+
+/* home feature rows: arched photos, numbered 01-04 */
+main { counter-reset: feat; }
+.feature { counter-increment: feat; }
+.feature-copy::before { content: counter(feat, decimal-leading-zero); display: block; margin-bottom: 10px; font: italic 600 var(--bb-step-2)/1 var(--bb-font-display); color: var(--bb-sun); }
+.band-cream .feature-copy::before, .band-white .feature-copy::before, .band-mist .feature-copy::before { color: var(--bb-walnut); }
+.feature-media { border-radius: 50% 50% var(--bb-radius-l) var(--bb-radius-l) / 34% 34% var(--bb-radius-l) var(--bb-radius-l); }
+
+/* prose: a short accent rule over each section heading */
+.prose h2::before { content: ""; display: block; width: 40px; height: 3px; margin-bottom: 18px; border-radius: 3px; background: var(--bb-green-2); }
+
+/* review: a big quote mark */
+.review-card blockquote::before { content: "\201C"; display: block; height: 0.62em; font: 700 6rem/1 var(--bb-font-display); color: var(--bb-sun); }
+
+/* sidebar: the visit card in deep green */
+.side-hours { background: var(--bb-green-ink); border-color: transparent; color: var(--bb-mint-2); -webkit-backdrop-filter: none; backdrop-filter: none; }
+.side-hours .side-h { color: var(--bb-white); }
+.side-hours .hours th, .side-hours .hours td { color: var(--bb-white); border-color: var(--bb-line-invert); }
+.side-hours .hours .closed th, .side-hours .hours .closed td { color: var(--bb-mint-2); }
+.side-hours .link-arrow { color: var(--bb-sun); }
+.side-hours :focus-visible { box-shadow: 0 0 0 3px var(--bb-sun); }
+
+@media (max-width: 960px) {
+  .quick-cards { grid-template-columns: minmax(0, 1fr); gap: 10px; }
+  .quick-band { margin-top: -28px; }
+  .page-hero .banner:not(.contain) { width: min(100%, 380px); }
+}
+@media (max-width: 640px) {
+  .home-hero { padding-bottom: 48px; }
+  .quick-cards a { min-height: 64px; }
+  .page-hero .banner:not(.contain) { width: min(82%, 300px); margin-top: 8px; }
+  .crumbs ol { justify-content: center; }
+  .feature-copy::before { text-align: left; }
+  .page-hero .eyebrow { display: block; text-align: center; letter-spacing: 0.16em; }   /* centred hero: no stranded rule */
+  .page-hero .eyebrow::before { display: none; }
+}
+.nav > ul > li > a:hover::after, .nav > ul > li > button:hover::after, .nav > ul > li > a:focus-visible::after, .nav > ul > li > button:focus-visible::after, .nav .open > button::after, .nav [aria-current="page"]::after { transform: scaleX(1); }
